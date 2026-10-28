@@ -238,7 +238,7 @@ Health song (30 eitr, lasts 3 minutes on everyone it reaches; only one song can 
 
 *Common | Lightning | Self (jump) | 20 stamina | 8s cooldown*
 
-Dash 8m the way you're moving, or leap 6m straight up if you're standing still, on a gust of storm-wind, with a slow fall (no fall damage). With Lightning (its default) it grows with each extra Lightning rune in its modifier slots: 1, hold jump to glide for up to 6s; 2, glide and dash forward once in mid-air; 3 (every slot Lightning), fly for 6s (jump to rise, sprint to dash). Other elements change how it moves (their Movement effect): Arcane makes it a blink, Shadow puts you behind the target.
+Leap 8m forward in a small arc the way you're moving, or leap 6m straight up if you're standing still, on a gust of storm-wind, with a slow fall (no fall damage). With Lightning (its default) it grows with each extra Lightning rune in its modifier slots: 1, hold jump to glide for up to 6s; 2, glide and dash forward once in mid-air; 3 (every slot Lightning), fly for 6s (jump to rise, sprint to dash). Other elements change how it moves (their Movement effect): Arcane makes it a blink, Shadow puts you behind the target.
 
 ### Rise
 

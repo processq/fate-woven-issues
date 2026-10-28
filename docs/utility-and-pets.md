@@ -58,6 +58,12 @@ Whistle: all your tames within 100m come running to you, and any that can't find
 
 Conjure a horn of mead for you alone: drink it for 3 minutes of a small buff the element picks. It uses no potion slot and does not stack with the same effect from a real mead; it is weaker than a brewed mead by default and grows with element runes, Lingering and the slots. Never combat damage.
 
+### Night Sight
+
+*Rare | Survivalist | 0 none | 0s cooldown*
+
+Toggle: until you press again or die, nights, caves and dungeons look brighter for you only, so you can see in the dark.
+
 ### Rune-Bench
 
 *Uncommon | Builder | 0 none | 600s cooldown*
