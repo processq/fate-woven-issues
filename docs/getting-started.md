@@ -13,9 +13,9 @@ Levels 1 to 3 offer abilities only. After that, even levels offer runes and odd 
 ### Keys
 
 K: open the Runes panel.  
-Y: cast the readied ability.  
+Z: cast the readied ability.  
 B (hold): the ability wheel. Or use [ and ] to step through the bar.  
-H: pet mode. G: pet order.  
+H: pet mode. J: pet order.  
 Escape or jump: cancel a channel.  
 All keys can be changed in the config.
 

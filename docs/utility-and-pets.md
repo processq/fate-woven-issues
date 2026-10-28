@@ -121,7 +121,7 @@ Fell the tree you aim at, split it into logs and pull every dropped item within 
 ## Pets
 
 The Summon ability calls a permanent pet. Its first element rune picks its body. Each element rune you add gives it that element's stats and abilities, unlocked at 1, 3 and 5 runes. It starts at half your height and grows as you add runes.  
-Press G to order it (attack, stay, follow). Press H to set its mode (passive, defend, aggressive). Click its name in the pet window to rename it.
+Press J to order it (attack, stay, follow). Press H to set its mode (passive, defend, aggressive). Click its name in the pet window to rename it.
 
 | Element | Role | Creature |
 |---|---|---|
