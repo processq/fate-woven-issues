@@ -1,6 +1,6 @@
 # Abilities
 
-[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Interface and multiplayer](interface-and-multiplayer.md)
+[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose)
 
 Every ability costs eitr or stamina and has a cooldown. The element shown is the default; an element rune in the ability changes it.
 
@@ -192,7 +192,7 @@ Leave a decoy (with Shadow, the default, a fetch: a hollow double of yourself) w
 
 ### Host of Spirits
 
-*Common | Arcane | Summon (beside you) | 30 eitr | 20s cooldown*
+*Common | Arcane | Summon (beside you) | 25 eitr | 20s cooldown*
 
 1.5s channel. Call up a host of 3 spirits (30 HP each) for 10s; their strikes deal 15 element damage. They rise as spectral skeletons glowing in their element's colour, with a trail of that element's particles.
 
@@ -204,9 +204,9 @@ Leave a decoy (with Shadow, the default, a fetch: a hollow double of yourself) w
 
 ### Support Totem
 
-*Common | Earth | Ground-target totem | 40 eitr | 60s cooldown*
+*Common | Steel | Ground-target totem | 25 eitr | 90s cooldown*
 
-Plant a support totem (100 HP) for 300s; planting is an 8s channel. Every 3s it pulses in 7m: allies inside gain half of the element's Buff effect (Earth, the default: 50% stagger resistance; Steel +8 armor; Lightning +5% attack speed; and so on).
+Plant a support totem (100 HP) for 300s; planting is an 8s channel. Every 3s it pulses in 7m: allies inside gain half of the element's Buff effect, which lasts 8s after each pulse (Steel, the default: +11 armor, half of Steel's buff; Earth: can't be Staggered at half strength; Lightning +5% attack speed; and so on).
 
 ### Trapper's Cache
 
@@ -216,7 +216,7 @@ Plant a support totem (100 HP) for 300s; planting is an 8s channel. Every 3s it 
 
 ### War Totem
 
-*Common | Frost | Ground-target totem | 40 eitr | 60s cooldown*
+*Common | Frost | Ground-target totem | 25 eitr | 90s cooldown*
 
 Plant a war totem (100 HP) for 300s; planting is an 8s channel. Every 3s it fires a bolt at one enemy within 15m for 5 element damage, applying the element's status.
 

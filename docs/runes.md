@@ -1,6 +1,6 @@
 # Runes
 
-[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Interface and multiplayer](interface-and-multiplayer.md)
+[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose)
 
 Each ability has an element slot, a few normal slots, an Epic slot and a Legendary slot. Runes of the same element stack: about +20% in a normal slot, +25% in the Epic slot, +30% in the Legendary slot. Epic and Legendary runes also change how an ability plays and break an enemy's resistance to their element for a few seconds.
 

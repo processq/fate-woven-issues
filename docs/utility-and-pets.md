@@ -1,6 +1,6 @@
 # Utility abilities and pets
 
-[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Interface and multiplayer](interface-and-multiplayer.md)
+[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose)
 
 Utility abilities help you survive and travel. They never deal damage and fit only in the two utility slots.
 
