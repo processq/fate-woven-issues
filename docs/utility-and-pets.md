@@ -24,9 +24,9 @@ Place up to 20 floating steps of light, one per press, that vanish 10 minutes af
 
 ### Cook's Flame
 
-*Rare | Hearthkeeper | 0 none | 1200s cooldown*
+*Rare | Hearthkeeper | 0 none | 0s cooldown*
 
-Carry a cooking flame for 5 minutes: raw meat, fish and vegetables in your inventory cook as you go, one item every 10s, as fast as a cooking station, using no fuel. Never combat damage.
+Toggle: carry a cooking flame until you press again or die. Raw meat, fish and vegetables in your inventory cook as you go, one item every 10s, as fast as a cooking station, using no fuel. Never combat damage.
 
 ### Earth-Shaper
 
@@ -84,9 +84,9 @@ Instantly repair all structures and boats within 20m and every item you carry to
 
 ### Smith's Fire
 
-*Rare | Hearthkeeper | 0 none | 1200s cooldown*
+*Rare | Hearthkeeper | 0 none | 0s cooldown*
 
-Carry a forge-flame for 5 minutes: it smelts ore in your inventory into bars as you go, using coal from your inventory, one bar every 10s (as fast as a smelter).
+Toggle: carry a forge-flame until you press again or die. It smelts ore in your inventory into bars as you go, using coal from your inventory, one bar every 10s (as fast as a smelter).
 
 ### Soothe the Wild
 
@@ -96,9 +96,9 @@ A wild tameable creature you aim at stops being hostile and won't flee for 30s, 
 
 ### Sun Lantern
 
-*Common | Survivalist | 0 none | 60s cooldown*
+*Common | Survivalist | 0 none | 0s cooldown*
 
-A floating sun-light follows you for 10 minutes and burns away the Mistlands mist within 15m of you.
+Toggle: a floating sun-light follows you until you press again or die, and burns away the Mistlands mist within 15m of you.
 
 ### Valhalla's Feast
 
