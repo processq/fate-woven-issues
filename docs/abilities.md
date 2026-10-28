@@ -10,7 +10,7 @@ Every ability costs eitr or stamina and has a cooldown. The element shown is the
 
 *Common | Nature | Target (40m) | 15 eitr | 10s cooldown*
 
-Roots burst under one enemy: it is Rooted for 2s, takes 45 element damage and gains the element's status. Bosses are Slowed 40% instead.
+Roots burst under one enemy: it is Rooted for 10s and takes 1 element damage a second while the root holds, and gains the element's status. Bosses are Slowed 40% for the same time instead.
 
 ### Blinding Glare
 
