@@ -41,4 +41,4 @@ The first time you beat a boss, you choose its signature ability or its trophy r
 
 ### Damage
 
-Every number you deal splits by element, each in its own colour. A dimmed number was resisted and a bold one hit a weakness. Your ability damage also breaks things a weapon would break, such as beehives and pots, but not buildings, rock, ore or trees.
+Every number you deal splits by element, each in its own colour. A dimmed number was resisted and a bold one hit a weakness. Two settings under Visuals change this for you only: Split damage numbers (one number per element, or one total) and Damage numbers (off hides them all). Your ability damage also breaks things a weapon would break, such as beehives and pots, but not buildings, rock, ore or trees.
