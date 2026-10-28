@@ -1,0 +1,58 @@
+name: Bug report
+description: Something in Fate Woven is not working
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping. Please do not post passwords, personal details or your save files here. This page is public.
+  - type: input
+    id: version
+    attributes:
+      label: Fate Woven version
+      description: Shown in the corner of the main menu, for example 0.2.1198.
+    validations:
+      required: true
+  - type: dropdown
+    id: players
+    attributes:
+      label: Playing alone or with others?
+      options:
+        - Alone
+        - Hosting a game with friends
+        - Joined a friend's game
+        - Dedicated server
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Say it in your own words. Which ability, rune or screen was it?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect instead?
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we make it happen again?
+      description: A few short steps, if you know them.
+  - type: textarea
+    id: mods
+    attributes:
+      label: Other mods installed
+      description: Names of any other mods (for example Epic Loot, Creature Level and Loot Control).
+  - type: textarea
+    id: log
+    attributes:
+      label: Game log (optional but very helpful)
+      description: "Paste the last 50 lines of BepInEx/LogOutput.log, or drag the file into this box."
+      render: shell
+  - type: textarea
+    id: pc
+    attributes:
+      label: Your PC (optional)
+      description: Graphics card and memory, if the problem is about speed or looks.

@@ -1,0 +1,17 @@
+name: Idea
+description: Suggest something for Fate Woven
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: "Ideas are welcome. This page is public, so please keep it friendly and leave out personal details."
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it help?
