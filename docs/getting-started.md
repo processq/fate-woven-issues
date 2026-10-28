@@ -38,3 +38,7 @@ Eitr comes back faster out of combat. Each ability gains mastery as you use it a
 ### Signatures
 
 The first time you beat a boss, you choose its signature ability or its trophy rune; the other is lost for that character. Signatures are your strongest abilities, take no runes and show in gold.
+
+### Damage
+
+Every number you deal splits by element, each in its own colour. A dimmed number was resisted and a bold one hit a weakness. Your ability damage also breaks things a weapon would break, such as beehives and pots, but not buildings, rock, ore or trees.

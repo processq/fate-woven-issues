@@ -36,9 +36,9 @@ Level, raise or lower the ground in a 4m circle where you aim (up to 10m), like 
 
 ### Fair Wind
 
-*Rare | Sailor | 0 none | 600s cooldown*
+*Rare | Sailor | 0 none | 0s cooldown*
 
-For 2 minutes the wind blows from directly behind the boat you steer, at +20% strength. Doesn't stack with Moder's power (the stronger wins).
+Toggle: the wind blows from directly behind the boat you steer, at +20% strength, until you press again, leave the boat, die or run out of eitr. Upkeep is 1 eitr every 10s. Doesn't stack with Moder's power (the stronger wins).
 
 ### Freyr's Furrow
 
