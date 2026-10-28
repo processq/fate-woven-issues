@@ -62,7 +62,7 @@ Conjure a horn of mead for you alone: drink it for 3 minutes of a small buff the
 
 *Rare | Survivalist | 0 none | 0s cooldown*
 
-Toggle: until you press again or die, nights, caves and dungeons look brighter for you only, so you can see in the dark.
+Toggle: until you press again or die, the dark is lighter for you only: nights, caves and dungeons are brighter and the fog is thinner, so you can see in the dark.
 
 ### Rune-Bench
 
