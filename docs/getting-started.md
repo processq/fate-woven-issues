@@ -21,7 +21,7 @@ All keys can be changed in the config.
 
 ### The Bar
 
-You have six combat slots and two utility slots. Utility abilities fit only in the utility slots. Abilities cost eitr or stamina and have a cooldown. A red ability icon means you cannot pay its cost right now; the icon shows how much it needs. A cast that finds nothing to hit costs nothing. Some are channels: you stand still while they run, but you can still turn and aim.
+You have six combat slots and two utility slots. Utility abilities fit only in the utility slots. Abilities cost eitr or stamina and have a cooldown. Eitr is the pink bar and its numbers show on it; every tooltip says what the ability costs and what you have. A red ability icon means you cannot pay its cost right now; the icon shows how much it needs. A cast that finds nothing to hit costs nothing. Some are channels: you stand still while they run, but you can still turn and aim.
 
 ### Runes
 
