@@ -58,3 +58,7 @@ Status: **Bleeding (Slash/Pierce) or Staggered (Blunt), and Sundered on every hi
 ## Water
 
 Status: **Wet**. Hits apply Wet for 12s (native Valheim Wet: -stamina regen) and push enemies 2m. Wet enemies take x1.5 Lightning and Frost (vanilla's Wet) and Frost hits add 1 extra Chilled (as the Wet status says); Fire on Wet consumes Wet for a steam burst (20 dmg, 3m).
+
+
+---
+*Fate Woven is designed by a human, who decides what it does and how it plays. The code is written by Claude, an AI model made by Anthropic, working from that design. The documentation is written by Claude too, and the icons are AI-generated.*

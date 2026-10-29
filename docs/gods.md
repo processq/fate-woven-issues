@@ -206,3 +206,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 - **Feast-Host** (Rare): When you eat, allies within 10m also get that food's buff (health, stamina, eitr and duration) as if they'd eaten it, without using their own food. Two ways, picked in playtest by a config switch: A, it fills an empty food slot if the ally has one, otherwise refreshes their weakest food; B, it replaces their weakest food. Once every 10 minutes.
 - **The Sea-Goddess's Net** (Rare): About 15 times a minute a hit tangles the target in Ran's net: Slowed 40% for 3s.
 - *4 more blessings to find, and 2 duos shared with another god.*
+
+
+---
+*Fate Woven is designed by a human, who decides what it does and how it plays. The code is written by Claude, an AI model made by Anthropic, working from that design. The documentation is written by Claude too, and the icons are AI-generated.*

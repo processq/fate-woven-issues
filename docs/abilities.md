@@ -86,7 +86,7 @@ Ward an ally with a shield absorbing 48 damage for 15s. It doesn't refill: only 
 
 *Common | Arcane | Projectile (charged) | 4 eitr | 2s cooldown*
 
-Hold to gather for up to 2s, then release one bolt: 49 element damage on a tap (a Rune Bolt), rising to 153 at a full 2s (+52 per second held). It costs 4 eitr plus 4 per second held. A full charge applies the element's status.
+Hold to gather for up to 2s, then release one bolt: 30 element damage on a tap, rising to 90 at a full 2s (+30 per second held). It costs 4 eitr plus 4 per second held. A full charge applies the element's status.
 
 ### Rune Bolt
 
@@ -321,3 +321,7 @@ There are 35 signature abilities. The first time you beat a boss, you choose its
 
 > **More to come: Signature abilities**
 > What each one does is a surprise. Choose with care.
+
+
+---
+*Fate Woven is designed by a human, who decides what it does and how it plays. The code is written by Claude, an AI model made by Anthropic, working from that design. The documentation is written by Claude too, and the icons are AI-generated.*

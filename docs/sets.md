@@ -127,3 +127,7 @@ Rune sets give bonuses when you carry several pieces of one set. Set pieces drop
 - **Charred Relic** (normal slot): +15% damage to undead. *Source: Charred warriors in the Ashlands (about 5%); the legendary quest boss of the Black Forest, Swamp or Ashlands (10%).*
 - **Hero's Ring** (Epic slot): to be discovered. *Source: Any boss rematch (25%); the legendary quest boss of the Black Forest, Swamp or Ashlands (5%).*
 - **Valkyrie's Wing** (Legendary slot): to be discovered. *Source: Any boss rematch from Moder onwards (10%); the legendary quest boss of the Black Forest, Swamp or Ashlands (2%).*
+
+
+---
+*Fate Woven is designed by a human, who decides what it does and how it plays. The code is written by Claude, an AI model made by Anthropic, working from that design. The documentation is written by Claude too, and the icons are AI-generated.*

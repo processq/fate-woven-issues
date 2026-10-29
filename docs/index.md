@@ -24,3 +24,7 @@ Some things are left off these pages on purpose: Epic and Legendary runes and bl
 
 ## Found a bug or have an idea?
 Open a report on the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose). You need a free GitHub account. Tell us the version shown in the main menu corner, what happened, and any other mods you use. Please do not post passwords, personal details or save files, because the page is public.
+
+
+---
+*Fate Woven is designed by a human, who decides what it does and how it plays. The code is written by Claude, an AI model made by Anthropic, working from that design. The documentation is written by Claude too, and the icons are AI-generated.*

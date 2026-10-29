@@ -31,7 +31,7 @@ Your first hit on an enemy shows its resistances and weaknesses to every damage 
 
 ### Lingering
 
-+20% duration (temporary summons and totems too; permanent pets unaffected). On heal-over-time the total extension is capped at +50%. Stacks: each extra copy adds another +20%.
++20% duration (temporary summons and totems too; permanent pets unaffected). On heal-over-time the total extension is capped at +50%. Stacks: each extra copy adds another +20%. With Downpour on the ability, the rain counts as a Zone: each copy makes the rain last 20% longer.
 
 ### Reach
 
@@ -103,7 +103,7 @@ Spell projectiles only (not bows, crossbows or thrown weapons): the projectile w
 
 ### Downpour
 
-Instead of one hit, the effect falls as rain on a 5m spot for 4s (on a spell, no bolt flies: the rain forms at the crosshair point): every enemy in the rain takes 22.5% of it each second (90% in all), with no full-damage centre and no target cap. A buff or debuff gains 22.5% of its duration for each second a target spends in the rain, up to 90%; a control lands once at 80% when a target first enters. Stacks: each extra copy makes the rain spot 1m wider.
+Instead of one hit, the effect falls as rain on a 5m spot for 4s (on a spell, no bolt flies: the rain forms at the crosshair point): every enemy in the rain takes 22.5% of it each second (90% in all), with no full-damage centre and no target cap. A buff or debuff gains 22.5% of its duration for each second a target spends in the rain, up to 90%; a control lands once at 80% when a target first enters. Stacks: each extra copy makes the rain spot 1m wider. Lingering makes the rain last 20% longer per copy..
 
 ### Echo
 
@@ -179,7 +179,7 @@ While this ability is on your bar, you take 10% less damage from every hit, of w
 
 ### Wide
 
-The area rune: it makes an area at the target (Nova makes the ring around you, Cone the cone in front). On a single-target ability the first copy turns the effect into a 5m area at 50% to everyone in it, the main target included, with no target cap. The area is centred on the main target, or, with no target, on the ground or structure under the crosshair: a spell projectile doesn't fly but forms its area at the crosshair point (an arrow or thrown weapon bursts where it lands); a heal, shield, buff or debuff reaches allies (or enemies) within 5m of the target; a melee swing hits enemies within 5m of the target. A self-cast buff becomes a 5m area around you at 50% to you and every ally in it, you included. On an area ability, and for each extra copy: +50% radius (walls +50% length).
+The area rune: it makes an area at the target (Nova makes the ring around you, Cone the cone in front). On a single-target ability the first copy turns the effect into a 5m area at 50% to everyone in it, the main target included, with no target cap. The area is centred on the main target, or, with no target, on the ground or structure under the crosshair: a spell projectile doesn't fly but forms its area at the crosshair point (an arrow or thrown weapon bursts where it lands); a heal, shield, buff or debuff reaches allies (or enemies) within 5m of the target; a melee swing hits enemies within 5m of the target. A self-cast buff becomes a 5m area around you at 50% to you and every ally in it, you included. On an area ability, and for each extra copy: +50% radius (walls +50% length). On Rise: a wider pillar. On Challenging Roar, with Nova or Cone: a wider roar.
 
 ## Meta runes (14)
 
@@ -238,3 +238,7 @@ Meta rune. Sits in the Epic slot: this ability gets two more normal slots (Commo
 ### Unbroken
 
 Meta rune. Fits the Epic or Legendary slot. In the Epic slot, runes on this ability lose their per-copy weakening: Echo repeats, Split pieces, Twin Cast copies, Echoing Rune's second cast and chain falloff all hit at full strength. In the Legendary slot it also removes the shared curve: every Fork, Bounce and Multistrike target takes the full effect. One meta rune per ability.
+
+
+---
+*Fate Woven is designed by a human, who decides what it does and how it plays. The code is written by Claude, an AI model made by Anthropic, working from that design. The documentation is written by Claude too, and the icons are AI-generated.*

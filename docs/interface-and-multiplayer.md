@@ -9,3 +9,6 @@ With your inventory open, hold Shift and drag the ability bar, the buff icons or
 ### Multiplayer
 
 Everyone in a group needs the same Fate Woven version. The host's settings apply to all players.
+
+---
+*Fate Woven is designed by a human, who decides what it does and how it plays. The code is written by Claude, an AI model made by Anthropic, working from that design. The documentation is written by Claude too, and the icons are AI-generated.*

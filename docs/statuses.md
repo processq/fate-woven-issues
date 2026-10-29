@@ -135,3 +135,7 @@ Each stack deals 2.5% of the hit that added it as Poison damage per second and r
 ### Chilled (Frost)
 
 +8% cast time per stack (cast time only, never cost; at most +50% from statuses together, see Slowed casting). No movement or attack slow of its own: Frost hits start vanilla's Frost slow, which stays Frost's movement slow, and Chilled builds on it toward Frozen. At 5 stacks the target becomes Frozen (some cards Freeze at fewer stacks; they say so). Cards may set their own duration or a stronger version; that only changes that application. Lasts 6s, refreshed per stack.
+
+
+---
+*Fate Woven is designed by a human, who decides what it does and how it plays. The code is written by Claude, an AI model made by Anthropic, working from that design. The documentation is written by Claude too, and the icons are AI-generated.*
