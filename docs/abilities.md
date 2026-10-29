@@ -204,7 +204,7 @@ Leave a decoy (with Shadow, the default, a fetch: a hollow double of yourself) w
 
 ### Support Totem
 
-*Common | Steel | Ground-target totem | 25 eitr | 90s cooldown*
+*Common | Steel | Ground-target totem | 25 eitr | 60s cooldown*
 
 Plant a support totem (100 HP) for 300s; planting is an 8s channel. Every 3s it pulses in 7m: allies inside gain half of the element's Buff effect, which lasts 8s after each pulse (Steel, the default: +11 armor, half of Steel's buff; Earth: can't be Staggered at half strength; Lightning +5% attack speed; and so on).
 
@@ -216,7 +216,7 @@ Plant a support totem (100 HP) for 300s; planting is an 8s channel. Every 3s it 
 
 ### War Totem
 
-*Common | Frost | Ground-target totem | 25 eitr | 90s cooldown*
+*Common | Frost | Ground-target totem | 25 eitr | 60s cooldown*
 
 Plant a war totem (100 HP) for 300s; planting is an 8s channel. Every 3s it fires a bolt at one enemy within 15m for 5 element damage, applying the element's status.
 

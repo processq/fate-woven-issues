@@ -107,7 +107,7 @@ Instead of one hit, the effect falls as rain on a 5m spot for 4s (on a spell, no
 
 ### Echo
 
-When it ends (or 1.5s after an instant area lands), it casts again at 50% effect. An echo of an instant hit re-hits what the cast hit (reach + 3m); an echo of a placed thing recasts on the same spot and lasts half as long. Part of the same cast: no extra cost, no on-cast effects; echoes never echo, split or carry. Stacks: each extra copy adds one more repeat, each weaker than the last (50%, then 35%, then 25%).
+Repeats the cast once, 1s after you cast it, at full strength (100%); on a short buff or shield, or on a lasting field, root or hex, the repeat comes when the first one ends instead, as part of the same cast: no extra cost, no on-cast effects, and echoes never echo, split or carry. Stacks: each extra copy adds one more repeat, each weaker than the last (50%, then 35%, then 25%).
 
 ### Flowing Chain
 

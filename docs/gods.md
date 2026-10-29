@@ -86,7 +86,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 
 ## Ullr
 
-*The hunt, archery, skis, winter travel.* Favour comes from: Bow and thrown kills; long-range headshots; hunting animals; travelling far across snow. Offerings: Deer trophies, feathers, fine wood, frost-hide.
+*The hunt, archery, skis, winter travel.* Favour comes from: Bow and thrown kills; long-range headshots; hunting animals; travelling far across snow. Offerings: Deer trophies, feathers, fine wood, wolf pelts.
 
 - **Snowfield Glide** (Common): +12% movement speed on snow and ice; no stamina drain from running while wielding a bow.
 - **Yew-Hall Draw** (Common): Bow draw speed +8%; fully drawn shots deal +6% damage and Chill.

@@ -23,14 +23,6 @@ All keys can be changed in the config.
 
 You have six combat slots and two utility slots. Utility abilities fit only in the utility slots. Abilities cost eitr or stamina and have a cooldown. Eitr is the pink bar and its numbers show on it; every tooltip says what the ability costs and what you have. A red ability icon means you cannot pay its cost right now; the icon shows how much it needs. A cast that finds nothing to hit costs nothing. Some are channels: you stand still while they run, but you can still turn and aim.
 
-### Runes
-
-Each ability has an element slot, a few normal slots, an Epic slot and a Legendary slot. Runes of the same element stack: about +20% in a normal slot, +25% in the Epic slot, +30% in the Legendary slot. Epic and Legendary runes also change how an ability plays and break an enemy's resistance to their element for a few seconds.
-
-### Sets And Special Runes
-
-Rune sets give bonuses when you carry several pieces. Sworn runes tie an element to a god. Meta runes change how other runes work.
-
 ### Eitr And Mastery
 
 Eitr comes back faster out of combat. Each ability gains mastery as you use it and gets stronger up to a limit. Costs never go up as you grow.
