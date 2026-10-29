@@ -1,5 +1,7 @@
 # Fate Woven
 
+*Fate Woven is designed by a human, who decides what it does and how it plays. The code is written by Claude, an AI model made by Anthropic, working from that design. The documentation is written by Claude too, and the icons are AI-generated.*
+
 A full ability and build system for Valheim: draft powers, reshape them with runes, and earn the favour of the gods.
 
 - **Guide:** https://processq.github.io/fate-woven-issues/
