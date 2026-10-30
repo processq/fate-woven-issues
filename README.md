@@ -22,6 +22,10 @@ Use your mod manager, which installs BepInEx and Jotunn for you. To install by h
 
 The config file is BepInEx/config/FateWoven.cfg, created the first time you run the game. Most settings are server settings, so on a server only the host's file matters. They let a host switch parts of the mod on or off, such as blessings, advanced runes and utility abilities, or list specific cards to turn off.
 
+## Community
+
+Come and chat, share builds and get help on the Fate Woven Discord: https://discord.gg/dWC9gWMc
+
 ## Reporting bugs
 
 Please report bugs and ideas at https://github.com/processq/fate-woven-issues/issues. You need a free GitHub account. Please do not post passwords, personal details or save files: this page is public. The guide is at https://processq.github.io/fate-woven-issues/.
