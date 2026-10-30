@@ -1,12 +1,12 @@
 # Runes
 
-[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose)
+[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose) | [Discord](https://discord.gg/dWC9gWMc)
 
 Each ability has an element slot, a few normal slots, an Epic slot and a Legendary slot. Runes of the same element stack: about +20% in a normal slot, +25% in the Epic slot, +30% in the Legendary slot. Epic and Legendary runes also change how an ability plays and break an enemy's resistance to their element for a few seconds.
 
 Rune slots: one **element** slot, a few **normal** slots, one **Epic** slot and one **Legendary** slot. Runes of the same element stack.
 
-There are 157 Epic and Legendary runes. They are left for you to discover in play.
+There are 163 Epic and Legendary runes. They are left for you to discover in play.
 
 > **More to come: Epic and Legendary runes**
 > Epic runes reshape what an ability does: a bolt that splits, a heal that pulses, a strike that spins.
@@ -89,7 +89,7 @@ Hits Tar the enemy for 4s (vanilla's Tarred): 50% slower and Very weak to Fire (
 
 ### Twin Cast
 
-The ability makes 2 of what it makes (traps, summons, walls, projectiles) at 60% effect each, and its active limit rises by 1. Projectile copies fan out 15 degrees apart, so one target is usually hit by one copy. Each extra permanent pet reserves its own eitr. Stacks: each extra copy adds one more (3 at 45%, 4 at 35%).
+The ability makes 2 of what it makes (traps, summons, walls, projectiles) at 60% effect each, and its active limit rises by 1. Projectile copies fan out 15 degrees apart. Each extra permanent pet reserves its own eitr. Stacks: each extra copy adds one more (3 at 45%, 4 at 35%).
 
 ### Wild Path
 
@@ -151,7 +151,7 @@ When this ability kills an enemy, its cost is refunded and its cooldown resets, 
 
 ### Rhythm
 
-Each 3-hit weapon chain you finish cuts this ability's cooldown by 1s and refunds 10% of its cost. Stacks: each extra copy adds another 1s and 10% (the 40% cooldown and 50% cost floors still hold).
+Each 3-hit weapon chain you finish reduces this ability's cooldown by 1s and its cost by 10%. Stacks: each extra copy adds another 1s and 10% (the 40% cooldown and 50% cost floors still hold).
 
 ### Silent Fletching
 

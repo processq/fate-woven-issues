@@ -1,6 +1,6 @@
 # Abilities
 
-[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose)
+[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose) | [Discord](https://discord.gg/dWC9gWMc)
 
 Every ability costs eitr or stamina and has a cooldown. The element shown is the default; an element rune in the ability changes it.
 
@@ -198,7 +198,7 @@ Leave a decoy (with Shadow, the default, a fetch: a hollow double of yourself) w
 
 ### Summon
 
-*Uncommon | Shadow | Pet (permanent) | 50 eitr | 3s cooldown*
+*Uncommon | Earth | Pet (permanent) | 50 eitr | 3s cooldown*
 
 10s channel. Call a companion bound to you that stays until dismissed, reserving 50 eitr. Its first element rune picks its form, and every element rune adds stats and abilities (rule "Pet packages"): it can tank, heal, support or deal damage. If it dies, the reservation lifts but that eitr comes back empty; call it again once you have 50 eitr.
 

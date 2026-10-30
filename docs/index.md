@@ -1,6 +1,6 @@
 # Fate Woven: build your Viking
 
-[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose)
+[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose) | [Discord](https://discord.gg/dWC9gWMc)
 
 Fate Woven adds a full ability and build system to Valheim. You level up by fighting and draft new abilities and runes as you go. Runes don't just add numbers, they change how your abilities work: bolts split, heals pulse, strikes spin.
 
@@ -8,7 +8,7 @@ Build a tank, healer, controller, summoner, damage dealer, or any mix you can im
 
 ## At a glance
 - 49 base abilities across eight roles, plus utility abilities and signature powers.
-- 211 runes that change how abilities play.
+- 217 runes that change how abilities play.
 - Twelve elements, each with its own status effect.
 - 146 blessings from the gods, and duo blessings when two gods agree.
 - 12 rune sets with set bonuses.

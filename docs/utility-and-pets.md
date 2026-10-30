@@ -1,6 +1,6 @@
 # Utility abilities and pets
 
-[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose)
+[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose) | [Discord](https://discord.gg/dWC9gWMc)
 
 Utility abilities help you survive and travel. They never deal damage and fit only in the two utility slots.
 
@@ -100,6 +100,12 @@ Toggle: carry a forge-flame until you press again or die. It smelts ore in your 
 
 A wild tameable creature you aim at stops being hostile and won't flee for 30s, so you can feed it safely.
 
+### Summon Mount
+
+*Uncommon | Scout | 10 eitr | 3s cooldown*
+
+5s channel: call a saddled Lox and climb on. It carries you until you press the ability again or it dies, and reserves 10 eitr while it is out. It never fights. If it dies, call it again once you have 10 eitr.
+
 ### Sun Lantern
 
 *Common | Survivalist | 0 none | 0s cooldown*
@@ -132,17 +138,17 @@ Press J to order it (attack, stay, follow). Press H to set its mode (passive, de
 | Element | Role | Creature |
 |---|---|---|
 | Arcane | Support | Dvergr mage (support variant) |
-| Blood | Healer | Tick |
-| Earth | Tank | Lox |
+| Blood | Healer | Blob (blood) |
+| Earth | Tank | Stone Golem (earth) |
 | Fire | DPS | Surtling |
-| Frost | Tank | Draugr (frozen) |
-| Holy | Support | Ghost |
-| Lightning | Support | Neck |
+| Frost | Tank | Stone Golem (ice) |
+| Holy | Support | Fallen Valkyrie (golden spirit) |
+| Lightning | Support | Wolf (storm spirit) |
 | Nature | Healer | Greydwarf shaman |
 | Poison | DPS | Blob |
 | Shadow | DPS | Wraith |
-| Steel | Tank | Skeleton |
-| Water | Healer | Dvergr mage (water variant) |
+| Steel | Tank | Charred Warrior (steel) |
+| Water | Healer | Blob (water) |
 
 ---
 *Fate Woven is designed by a human, who decides what it does and how it plays. The code is written by Claude, an AI model made by Anthropic, working from that design. The documentation is written by Claude too, and the icons are AI-generated.*
