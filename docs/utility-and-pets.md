@@ -140,6 +140,10 @@ Fell the tree you aim at, split it into logs and pull every dropped item within 
 *A Steel pet, a tank in polished steel, beside its owner.*
 
 
+![An Earth Golem pet with its own ability bar. The hatched part of your eitr bar is held back while it is out.](assets/shots/bar-pet.png)
+*An Earth Golem pet with its own ability bar. The hatched part of your eitr bar is held back while it is out.*
+
+
 ![An Arcane pet: a violet Dvergr mage with its lantern staff.](assets/shots/pet-arcane.png)
 *An Arcane pet: a violet Dvergr mage with its lantern staff.*
 
