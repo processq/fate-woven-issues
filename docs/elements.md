@@ -56,7 +56,7 @@ Status: **None (Cursed is applied only by the cards that name it)**. About 4 tim
 
 ## <img src="assets/icons/element/steel.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Steel
 
-Status: **Bleeding (Slash/Pierce) or Staggered (Blunt), and Sundered on every hit**. Default with no Element Rune. +10% damage and +15% stagger; Slash/Pierce hits apply a light Bleeding (20% of the hit over 4s), Blunt hits deal +30% stagger. Steel pierces: projectiles and beams pass through 2 more enemies, each taking 15% less than the last (a beam reaches every target on its straight line at full strength, heals too); everything else ignores the target's physical resistances (resistant counts as normal). Every Steel hit also Sunders the target: its physical resistances ease 15% for everyone else's hits too, since Steel's own melee already ignores them. No elemental weakness or status-combo interactions.
+Status: **Bleeding (Slash/Pierce) or Staggered (Blunt), and Sundered on every hit**. Default with no Element Rune. +10% damage and +15% stagger; Slash/Pierce hits apply a light Bleeding (20% of the hit over 4s), Blunt hits deal +30% stagger. Steel pierces: projectiles and beams pass through 2 more enemies, each taking 15% less than the last; everything else ignores the target's physical resistances (resistant counts as normal). Every Steel hit also Sunders the target: its physical resistances ease 15% for everyone else's hits too, since Steel's own melee already ignores them. No elemental weakness or status-combo interactions.
 
 ## <img src="assets/icons/element/water.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Water
 

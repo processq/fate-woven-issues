@@ -145,7 +145,7 @@ A charged-up strike with any weapon for 60 element damage that Stuns the target 
 
 *Uncommon | Steel | Melee | 20 stamina | 8s cooldown*
 
-With a weapon in each hand, both strike at once: each hand lands its own hit for 80% of its weapon damage as element damage.
+With a weapon in each hand (or a dual weapon), both strike at once: each hand lands its own hit for 80% of its weapon damage as element damage.
 
 ### <img src="assets/icons/ability/warrior_s_stance.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Warrior's Stance
 
@@ -191,13 +191,13 @@ A shot with your bow, crossbow or thrown weapon for 50% weapon damage as element
 
 *Uncommon | Shadow | Self (placed decoy) | 20 eitr | 30s cooldown*
 
-Leave a decoy (with Shadow, the default, a fetch: a hollow double of yourself) with 100% of your max HP - for 8s while you vanish from enemy aggro for 2s. It taunts enemies within 5m; enemies that strike it gain the element's status. Its look comes from its element (Shadow, the default: your shadowy double; Nature: a hare; others later).
+Leave a decoy (with Shadow, the default, a fetch: a hollow double of yourself) with 100% of your max HP - for 8s while you vanish from enemy aggro for 2s. It taunts enemies within 5m; enemies that strike it gain the element's status.
 
 ### <img src="assets/icons/ability/host_of_spirits.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Host of Spirits
 
 *Common | Arcane | Summon (beside you) | 25 eitr | 20s cooldown*
 
-1.5s channel. Call up a host of 3 spirits (30 HP each) for 10s; their strikes deal 15 element damage. They rise as spectral skeletons glowing in their element's colour, with a trail of that element's particles.
+1.5s channel. Call up a host of 3 spirits (30 HP each) for 10s; their strikes deal 15 element damage.
 
 ### <img src="assets/icons/ability/summon.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Summon
 

@@ -206,7 +206,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 
 - <img src="assets/icons/blessing/brewer_s_gift.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Brewer's Gift** (Common): Meads you drink last 50% longer.
 - <img src="assets/icons/blessing/salt_weathered.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Salt-Weathered** (Common): +20% stamina regen while you're on a boat, and your boat takes 20% less damage.
-- <img src="assets/icons/blessing/feast_host.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Feast-Host** (Rare): When you eat, allies within 10m also get that food's buff (health, stamina, eitr and duration) as if they'd eaten it, without using their own food. Two ways, picked in playtest by a config switch: A, it fills an empty food slot if the ally has one, otherwise refreshes their weakest food; B, it replaces their weakest food. Once every 10 minutes.
+- <img src="assets/icons/blessing/feast_host.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Feast-Host** (Rare): When you eat, allies within 10m also get that food's buff (health, stamina, eitr and duration) as if they'd eaten it, without using their own food. It fills an empty food slot if the ally has one, otherwise it refreshes their weakest food. Once every 10 minutes.
 - <img src="assets/icons/blessing/the_sea_goddess_s_net.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **The Sea-Goddess's Net** (Rare): About 15 times a minute a hit tangles the target in Ran's net: Slowed 40% for 3s.
 - *4 more blessings to find, and 2 duos shared with another god.*
 

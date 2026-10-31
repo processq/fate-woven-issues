@@ -49,7 +49,7 @@ Deals 12% less damage, and healing it would receive damages it instead. One Curs
 
 ### <img src="assets/icons/status/exposed.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Exposed (Any)
 
-The target's resistance to one element is broken: from an Epic rune it moves 50% of the way back to normal, from a Legendary rune all the way, and Immune becomes Resistant (bosses: Very resistant). Weaknesses don't change. Never stacks: one Exposed per damage type, the biggest applies, and slot strength or copies don't raise it. Levels come from the card: Sworn and Epic synergies 50%, Breaking Call 40%, Shatterguard 50%, Fracture Shot 60%, Legendaries and Unmaking 100%. It helps every player's hits. Shown as a cracked ring in the element's colour. Lasts 5s (Epic), 6s (Legendary).
+The target's resistance to one element is broken: from an Epic rune it moves 50% of the way back to normal, from a Legendary rune all the way, and Immune becomes Resistant (bosses: Very resistant). Weaknesses don't change. Never stacks: one Exposed per damage type, the biggest applies, and slot strength or copies don't raise it. Levels come from the card: Sworn and Epic synergies 50%, Breaking Call 40%, Shatterguard 50%, Fracture Shot 60%, Legendaries and Unmaking 100%. It helps every player's hits. Lasts 5s (Epic), 6s (Legendary).
 
 ### <img src="assets/icons/status/hobbled.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Hobbled (Any (melee))
 

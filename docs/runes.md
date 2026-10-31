@@ -34,7 +34,7 @@ Your first hit on an enemy shows its resistances and weaknesses to every damage 
 
 ### <img src="assets/icons/rune/lingering.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Lingering
 
-+20% duration (temporary summons and totems too; permanent pets unaffected). On heal-over-time the total extension is capped at +50%. Stacks: each extra copy adds another +20%. With Downpour on the ability, the rain counts as a Zone: each copy makes the rain last 20% longer.
++20% duration (temporary summons and totems too; permanent pets unaffected). On heal-over-time the total extension is capped at +50%. Stacks: each extra copy adds another +20%.
 
 ### <img src="assets/icons/rune/reach.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Reach
 
@@ -92,7 +92,7 @@ Hits Tar the enemy for 4s (vanilla's Tarred): 50% slower and Very weak to Fire (
 
 ### <img src="assets/icons/rune/twin_cast.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Twin Cast
 
-The ability makes 2 of what it makes (traps, summons, walls, projectiles) at 60% effect each, and its active limit rises by 1. Projectile copies fan out 15 degrees apart. Each extra permanent pet reserves its own eitr. Stacks: each extra copy adds one more (3 at 45%, 4 at 35%).
+The ability makes 2 of what it makes (traps, summons, walls, projectiles) at 60% effect each, and its active limit rises by 1. Each extra permanent pet reserves its own eitr. Stacks: each extra copy adds one more (3 at 45%, 4 at 35%).
 
 ### <img src="assets/icons/rune/wild_path.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Wild Path
 
@@ -106,7 +106,7 @@ Spell projectiles only (not bows, crossbows or thrown weapons): the projectile w
 
 ### <img src="assets/icons/rune/downpour.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Downpour
 
-Instead of one hit, the effect falls as rain on a 5m spot for 4s (on a spell, no bolt flies: the rain forms at the crosshair point): every enemy in the rain takes 22.5% of it each second (90% in all), with no full-damage centre and no target cap. A buff or debuff gains 22.5% of its duration for each second a target spends in the rain, up to 90%; a control lands once at 80% when a target first enters. Stacks: each extra copy makes the rain spot 1m wider. Lingering makes the rain last 20% longer per copy. With Multistrike: the rain ticks once per strike each second. With Pulsing: every 3s everyone in the rain takes +25% of the rain's hit. Shape rune: only one shape rune (Cone, Nova, Beam, Downpour) per ability.
+Instead of one hit, the effect falls as rain on a 5m spot for 4s (on a spell, no bolt flies: the rain forms at the crosshair point): every enemy in the rain takes 22.5% of it each second (90% in all), with no full-damage centre and no target cap. A buff or debuff gains 22.5% of its duration for each second a target spends in the rain, up to 90%; a control lands once at 80% when a target first enters. Stacks: each extra copy makes the rain spot 1m wider. With Multistrike: the rain ticks once per strike each second. With Pulsing: every 3s everyone in the rain takes +25% of the rain's hit. Shape rune: only one shape rune (Cone, Nova, Beam, Downpour) per ability.
 
 ### <img src="assets/icons/rune/echo.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Echo
 
@@ -138,7 +138,7 @@ For 8s after you cast this ability, a block or parry counts as a step of your we
 
 ### <img src="assets/icons/rune/pull.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Pull
 
-Drags enemies toward the centre: zones, auras and totems 1m per second; an instant area drags everyone in it 3m inward 1s after it lands. Large creatures move half as far; bosses aren't moved. A pull never drags enemies into or on top of you: pulled toward you, they stop at melee range in front of you. On a cone it drags enemies to the middle of the cone; on a nova, toward you.
+Drags enemies toward the centre: zones, auras and totems 1m per second; an instant area drags everyone in it 3m inward 1s after it lands. Large creatures move half as far; bosses aren't moved. A pull never drags enemies into or on top of you: pulled toward you, they stop at melee range in front of you.
 
 ### <img src="assets/icons/rune/pulsing.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Pulsing
 
@@ -182,7 +182,7 @@ While this ability is on your bar, you take 10% less damage from every hit, of w
 
 ### <img src="assets/icons/rune/wide.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Wide
 
-The area rune: it makes an area at the target (Nova makes the ring around you, Cone the cone in front). On a single-target ability the first copy turns the effect into a 5m area at 50% to everyone in it, the main target included, with no target cap. The area is centred on the main target, or, with no target, on the ground or structure under the crosshair: a spell projectile doesn't fly but forms its area at the crosshair point (an arrow or thrown weapon bursts where it lands); a heal, shield, buff or debuff reaches allies (or enemies) within 5m of the target; a melee swing hits enemies within 5m of the target. A self-cast buff becomes a 5m area around you at 50% to you and every ally in it, you included. On an area ability, and for each extra copy: +50% radius (walls +50% length). On Rise: a wider pillar. On Challenging Roar, with Nova or Cone: a wider roar. Fork, Bounce and Split copies of a Wide cast burst in a 2.5m area.
+The area rune: it makes an area at the target (Nova makes the ring around you, Cone the cone in front). On a single-target ability the first copy turns the effect into a 5m area at 50% to everyone in it, the main target included, with no target cap. The area is centred on the main target, or, with no target, on the ground or structure under the crosshair: a spell projectile doesn't fly but forms its area at the crosshair point (an arrow or thrown weapon bursts where it lands); a heal, shield, buff or debuff reaches allies (or enemies) within 5m of the target; a melee swing hits enemies within 5m of the target. A self-cast buff becomes a 5m area around you at 50% to you and every ally in it, you included. On an area ability, and for each extra copy: +50% radius (walls +50% length). Fork, Bounce and Split copies of a Wide cast burst in a 2.5m area.
 
 ## Meta runes (14)
 

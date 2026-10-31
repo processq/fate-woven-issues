@@ -1,12 +1,55 @@
 ---
 title: What's new
-nav_order: 12
+nav_order: 13
 ---
 
 ![What's new](assets/banner-whats-new.png)
 
 Fate Woven is in beta, and every release is listed here, newest first. Please report bugs, issues and requests on the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose).
 
+
+## 0.2.1425 (beta)
+- New: Elemental and Greater Charms, rewards from Legendary quests. Elemental Charms boost one element; Greater Charms go above the Flametal Charm (odds 60/30/10 for I, II and III). Their slots show the tint as a border (element colour, or gold for Greater), and the fill turns orange while worn.
+- All seven pinned quest hunts now have a named elite at the pin: Grath the Troll, Vorn the Abomination, Krell the Stone Golem, Brug the Goblin Brute, Dunn the Gjall, Ashk the Morgen and Torv the Fallen Valkyrie. With CLLC installed, it rolls its own level, infusion and effect. The brute chief quest now asks for one brute.
+- More blessings now work for your allies and other players, as their text says: Njord's Stillness, Brightness Returned from Hel, Apples Shared, Feast-Host, the Cauldron for others, Bristles of Gold's glow, crop growth, The High Seat and Mistletoe for allies, and Spear Flung's stamina. 18 blessings that fell short of their card were fixed.
+- Ragnarok's Sentinels shows enemies as a red outline through walls. The High Seat's Watch shows a gold-white flash over the enemy's head and a chime before its attack lands.
+- Chant of Many Wards and Spell-Woven Mantle work. A second aura of the same ability needs Chant of Many Wards.
+- Trickster's Ante counts blessing hits, and Belt of Might Unbuckled arcs on ability hits. Youth-Apple Verses reaches allies. Thunder-Stone Ward says it rises every 30s in combat.
+- Blessing hits now scale with their own element. Gjallarhorn's Warning shows an on-screen arrow. Champion's Ring and Horn at World's End work on any Shout ability.
+- Fixed: Valhalla's Feast and Horn of Mead buffs arrived empty on other players' games.
+- Shields are layers, each with its own timer: a short shield no longer cuts a long one short. At the cap, a new shield adds nothing.
+- Summon Mount's element runes work: Lightning runs faster, Fire leaves a fire trail, Water walks on water, Nature climbs slopes up to 50% steeper, Shadow makes you harder to notice.
+- Other players saw your Wolf, Bear or Raven Form as your normal self.
+
+## 0.2.1415 (beta)
+- One shape rune per ability (Cone, Nova, Beam, Downpour), one Trigger rune on your whole bar, one Path rune per ability (Drifting, Zigzag, Wild Path) and one Cost-change rune per ability (Kindred Blood, Duelist's Focus). A second one will not socket, and the socket says why. Old saves keep the first rune and grey out the second; nothing is deleted.
+- Twin Cast, Split and Four Winds fit Beam. Twin Cast's beams twist round each other on one line, and beams running the same way at once twist into a helix.
+- Rune combinations: about 80 cases where one rune silently cancelled another now both work (Downpour, Drifting, Beam, Wide, Twin Cast, Split, Echo, Four Winds, Borrowed Rune, Focus and Kingstone on Legendaries and more).
+- Downpour works with Twin Cast (two rains side by side) and Split (a rain that ends splits into two smaller ones).
+- Extra casts (Echoing Rune, Four Winds, One Voice, Ring-Giver, Totem Vessel, echo recasts) now scale their shield, hex weakening and buff share at their share. Delayed and echoed beams also scale percentage heals, buffs and stamina.
+- Illusion casts no longer trigger Web of Fate (like the other trigger runes).
+- A second copy of a "One per character" card shows a red "No additional effect" and does nothing (Focus counts once).
+- Beams rebuilt: a beam casts without a target, straight out from your hands along the crosshair, and stops at the first enemy or wall. Steel's pierce passes it through more. Homing (Raven-Guided) bends it smoothly onto targets, Four Winds' side beams too.
+- Beams are drawn as glowing round tubes, much easier to see. Wide makes a big soft tube, Twin Cast's beams run side by side, and sparks show where a beam hits.
+- Heal and buff beams never affect the caster (Mending Touch, Warding Rune and Boon beams).
+- Effects on wisps and Steel pets, and in Wolf, Bear and Raven Form, no longer vanish. Glows and buff sparkles no longer disappear for good.
+- Ghost copies of totems and weapons show one model.
+- Co-op: lasting effects (Raven Banner ravens, Dvergr Lantern, long zones) no longer vanish for other players after 2 minutes. Zone rings show their element colour to other players, and spell orbs show at their real size.
+- Altar of the Gods: a rune stone laid down as the table, with a new sigil plate on top.
+- With Epic Loot installed, quests can reward Epic Loot items, a choice of three items, and dust, essence and reagent bundles.
+- With CLLC installed, quest elites get CLLC's own level, infusion and effect. The Old Tusker is now a named elite boar.
+- The Quest board works on dedicated servers.
+- Charms upgrade like vanilla tools, up to quality 4: each level adds 5% to the charm's strength. An upgrade takes the recipe again, except its first item (the boss token, needed once).
+- With SeneaL UI loaded:
+- With Equipment and Quick Slots or Extra Slots, the Fate Woven button bar moves under the crafting panel, so their equipment panel shows.
+- Path of Valheiman: our spells keep their average strength.
+- The buff row above the food icons shows only stances, Weapon Imbue and timed self-effects. Buffs and shields show once, in the normal status row.
+- Timed shields fade just before they come back: Nine-Mothered Guard's shield, the Support Totem's Holy shield and Shield-Ship Crossing's shield now last a little less than the time between them.
+- Hugin the raven brings Fate Woven's tips, as vanilla's tutorials do (still off by default).
+- The Holy pet always claws (it could keep a taunt that never hits).
+- A respawn after death no longer loses track of a pet that is still out.
+- The Flametal Charm could not be made (its recipe named the wrong item).
+- The Echo card's switch now works.
 
 ## 0.2.1374 (beta)
 - A pale-blue shield bar sits on top of the health column while you have a shield.
