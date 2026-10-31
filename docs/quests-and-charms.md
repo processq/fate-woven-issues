@@ -5,7 +5,15 @@ nav_order: 10
 
 ![Quests and charms](assets/banner-quests-and-charms.png)
 
-## The quest board
+## <img src="assets/icons/piece/quest_board.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> The quest board
+
+
+![The quest board: notices on the top board, wanted posters on the bottom.](assets/shots/quest-board.png)
+*The quest board: notices on the top board, wanted posters on the bottom.*
+
+
+![The board window: take a notice, hand it in.](assets/shots/quest-window.png)
+*The board window: take a notice, hand it in.*
 
 Quests are posted on the **quest board**, a piece you build with the hammer (it needs a Hard antler from Eikthyr, 10 Wood and 5 Leather scraps, at a workbench). You can build as many as you like. Press E to read the notices.
 
@@ -35,13 +43,13 @@ A Charm is a crafted item that raises the power of all your abilities. It has it
 
 | Charm | Station | Recipe | Strength |
 |---|---|---|---|
-| Wooden Charm | Workbench | 1 Hard antler, 2 Wood, 3 Flint | x1.75 |
-| Bronze Charm | Forge | 1 Swamp key, 2 Wood, 4 Bronze, 1 Leather scraps | x2.75 |
-| Iron Charm | Forge | 1 Wishbone, 2 Wood, 10 Iron, 1 Leather scraps | x3.75 |
-| Silver Charm | Forge | 1 Dragon tear, 1 Wood, 20 Silver, 2 Leather scraps, 3 Iron | x4.75 |
-| Black Metal Charm | Forge | 1 Torn spirit, 3 Finewood, 10 Black metal, 3 Linen thread | x5.75 |
-| Carapace Charm | Black forge | 1 Majestic carapace, 5 Yggdrasil wood, 2 Carapace, 1 Mandible | x7.00 |
-| Flametal Charm | Black forge | 1 Fader relic, 5 Charred bone, 8 Flametal, 3 Sulfur, 2 Asksvin hide | x8.50 |
+| <img src="assets/icons/item/wooden_charm.png" width="32" height="32" style="vertical-align:middle;margin-right:6px" alt=""> Wooden Charm | Workbench | 1 Hard antler, 2 Wood, 3 Flint | x1.75 |
+| <img src="assets/icons/item/bronze_charm.png" width="32" height="32" style="vertical-align:middle;margin-right:6px" alt=""> Bronze Charm | Forge | 1 Swamp key, 2 Wood, 4 Bronze, 1 Leather scraps | x2.75 |
+| <img src="assets/icons/item/iron_charm.png" width="32" height="32" style="vertical-align:middle;margin-right:6px" alt=""> Iron Charm | Forge | 1 Wishbone, 2 Wood, 10 Iron, 1 Leather scraps | x3.75 |
+| <img src="assets/icons/item/silver_charm.png" width="32" height="32" style="vertical-align:middle;margin-right:6px" alt=""> Silver Charm | Forge | 1 Dragon tear, 1 Wood, 20 Silver, 2 Leather scraps, 3 Iron | x4.75 |
+| <img src="assets/icons/item/black_metal_charm.png" width="32" height="32" style="vertical-align:middle;margin-right:6px" alt=""> Black Metal Charm | Forge | 1 Torn spirit, 3 Finewood, 10 Black metal, 3 Linen thread | x5.75 |
+| <img src="assets/icons/item/carapace_charm.png" width="32" height="32" style="vertical-align:middle;margin-right:6px" alt=""> Carapace Charm | Black forge | 1 Majestic carapace, 5 Yggdrasil wood, 2 Carapace, 1 Mandible | x7.00 |
+| <img src="assets/icons/item/flametal_charm.png" width="32" height="32" style="vertical-align:middle;margin-right:6px" alt=""> Flametal Charm | Black forge | 1 Fader relic, 5 Charred bone, 8 Flametal, 3 Sulfur, 2 Asksvin hide | x8.50 |
 
 The first item of each recipe is a boss drop and is needed only once. Charms upgrade like vanilla tools, up to quality 4: each level above 1 adds 5% to the Charm's strength (15% at the top), and an upgrade takes the recipe again except for its first item.
 
@@ -50,7 +58,8 @@ The first item of each recipe is a boss drop and is needed only once. Charms upg
 > Legendary quests can pay Charms tuned to one element, and Greater Charms that go beyond the Flametal Charm.
 > They cannot be crafted.
 
-## The Altar of the Gods and your Favour list
+## <img src="assets/icons/piece/altar_of_the_gods.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> The Altar of the Gods and your Favour list
+
 
 The **Altar of the Gods** (40 Stone and 10 Finewood) is where you make offerings to any of the seventeen gods. Choose a god from your Favour list, then press E to offer one item, or hold E to offer a stack. Meads, feasts, fish, trophies and a few rare materials all count, and there is no limit. The Favour list on your blessings screen shows each god's rank and how to earn more favour with them. You can swap a blessing there too.
 
