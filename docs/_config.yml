@@ -1,3 +1,22 @@
-﻿title: Fate Woven
-theme: jekyll-theme-cayman
-description: A full ability and build system for Valheim
+title: Fate Woven
+description: A full ability and build system for Valheim. Beta.
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+search_enabled: true
+heading_anchors: true
+logo: "/assets/logo.png"
+favicon_ico: "/assets/logo.png"
+aux_links:
+  "Submit an issue":
+    - "https://github.com/processq/fate-woven-issues/issues/new/choose"
+  "Discord":
+    - "https://discord.gg/dWC9gWMc"
+aux_links_new_tab: true
+nav_external_links: []
+footer_content: "Fate Woven is in beta. Please report bugs and ideas."
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
