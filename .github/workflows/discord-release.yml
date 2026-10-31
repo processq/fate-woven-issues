@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: read
     steps:
-      - name: Post to the Discord changelog channel
+      - name: Post to the Discord changelog channel (split into several messages if long)
         env:
           WEBHOOK: ${{ secrets.DISCORD_CHANGELOG_WEBHOOK }}
           GH_TOKEN: ${{ github.token }}
@@ -26,5 +26,29 @@ jobs:
             BODY=$(gh api "repos/${{ github.repository }}/releases?per_page=1" --jq '.[0].body')
             TAG=$(gh api "repos/${{ github.repository }}/releases?per_page=1" --jq '.[0].tag_name')
           fi
-          CONTENT=$(printf '**%s**\n%s' "${NAME:-$TAG}" "$BODY" | head -c 1900)
-          jq -n --arg c "$CONTENT" '{content: $c, allowed_mentions: {parse: []}}' | curl -sS -X POST -H 'Content-Type: application/json' -d @- "$WEBHOOK"
+          export TITLE="${NAME:-$TAG}"
+          python3 - <<'PY'
+          import json, os, time, urllib.request
+          title = os.environ["TITLE"]
+          lines = ("**%s**\n%s" % (title, os.environ.get("BODY", ""))).split("\n")
+          LIMIT = 1900
+          chunks, cur = [], ""
+          for line in lines:
+              while len(line) > LIMIT:
+                  if cur:
+                      chunks.append(cur); cur = ""
+                  chunks.append(line[:LIMIT]); line = line[LIMIT:]
+              if len(cur) + len(line) + 1 > LIMIT and cur:
+                  chunks.append(cur); cur = ""
+              cur = cur + line + "\n"
+          if cur.strip():
+              chunks.append(cur)
+          chunks = chunks[:12]
+          for i, c in enumerate(chunks):
+              if i:
+                  c = "(continued) " + c
+              req = urllib.request.Request(os.environ["WEBHOOK"], data=json.dumps({"content": c.rstrip(), "allowed_mentions": {"parse": []}}).encode(), headers={"Content-Type": "application/json", "User-Agent": "fate-woven-release-bot"})
+              urllib.request.urlopen(req, timeout=30)
+              time.sleep(1.5)
+          print("posted", len(chunks), "message(s)")
+          PY
