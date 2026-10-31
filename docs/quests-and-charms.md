@@ -51,6 +51,9 @@ A Charm is a crafted item that raises the power of all your abilities. It has it
 | <img src="assets/icons/item/carapace_charm.png" width="32" height="32" style="vertical-align:middle;margin-right:6px" alt=""> Carapace Charm | Black forge | 1 Majestic carapace, 5 Yggdrasil wood, 2 Carapace, 1 Mandible | x7.00 |
 | <img src="assets/icons/item/flametal_charm.png" width="32" height="32" style="vertical-align:middle;margin-right:6px" alt=""> Flametal Charm | Black forge | 1 Fader relic, 5 Charred bone, 8 Flametal, 3 Sulfur, 2 Asksvin hide | x8.50 |
 
+**A strong Charm also lifts other systems.** Besides your abilities, the Charm you wear sets how strong the Bots, the Summon and the Hidden Hall are, and the highest Charm you have made or worn sets which tier of quests you are offered. Wear a high Charm only when you want all of that.
+
+
 The first item of each recipe is a boss drop and is needed only once. Charms upgrade like vanilla tools, up to quality 4: each level above 1 adds 5% to the Charm's strength (15% at the top), and an upgrade takes the recipe again except for its first item.
 
 
