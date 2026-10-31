@@ -3,18 +3,28 @@ name: Post release notes to Discord
 on:
   release:
     types: [published]
+  workflow_dispatch: {}
 
 jobs:
   post:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - name: Post to the Discord changelog channel
         env:
           WEBHOOK: ${{ secrets.DISCORD_CHANGELOG_WEBHOOK }}
+          GH_TOKEN: ${{ github.token }}
+          EVENT: ${{ github.event_name }}
           NAME: ${{ github.event.release.name }}
           TAG: ${{ github.event.release.tag_name }}
           BODY: ${{ github.event.release.body }}
         run: |
           if [ -z "$WEBHOOK" ]; then echo "No DISCORD_CHANGELOG_WEBHOOK secret set; nothing posted."; exit 0; fi
+          if [ "$EVENT" = "workflow_dispatch" ]; then
+            NAME=$(gh api "repos/${{ github.repository }}/releases/latest" --jq .name 2>/dev/null || gh api "repos/${{ github.repository }}/releases?per_page=1" --jq '.[0].name')
+            BODY=$(gh api "repos/${{ github.repository }}/releases?per_page=1" --jq '.[0].body')
+            TAG=$(gh api "repos/${{ github.repository }}/releases?per_page=1" --jq '.[0].tag_name')
+          fi
           CONTENT=$(printf '**%s**\n%s' "${NAME:-$TAG}" "$BODY" | head -c 1900)
           jq -n --arg c "$CONTENT" '{content: $c, allowed_mentions: {parse: []}}' | curl -sS -X POST -H 'Content-Type: application/json' -d @- "$WEBHOOK"
