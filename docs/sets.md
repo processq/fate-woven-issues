@@ -3,7 +3,7 @@ title: Rune sets
 nav_order: 8
 ---
 
-# Rune sets
+![Rune sets](assets/banner-sets.png)
 
 
 > **More to come: Set bonuses**

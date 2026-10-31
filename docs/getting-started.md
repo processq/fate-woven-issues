@@ -3,7 +3,7 @@ title: Getting started
 nav_order: 2
 ---
 
-# Getting started
+![Getting started](assets/banner-getting-started.png)
 
 ### The Idea
 

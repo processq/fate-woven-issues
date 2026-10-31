@@ -3,7 +3,7 @@ title: Abilities
 nav_order: 3
 ---
 
-# Abilities
+![Abilities](assets/banner-abilities.png)
 
 Every ability costs eitr or stamina and has a cooldown. The element shown is the default; an element rune in the ability changes it.
 

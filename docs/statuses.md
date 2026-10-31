@@ -3,7 +3,7 @@ title: Statuses
 nav_order: 6
 ---
 
-# Statuses
+![Statuses](assets/banner-statuses.png)
 
 ## Buff
 

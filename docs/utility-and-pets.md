@@ -3,7 +3,7 @@ title: Utility and pets
 nav_order: 9
 ---
 
-# Utility abilities and pets
+![Utility and pets](assets/banner-utility-and-pets.png)
 
 Utility abilities help you survive and travel. They never deal damage and fit only in the two utility slots.
 

@@ -3,7 +3,7 @@ title: Quests and charms
 nav_order: 10
 ---
 
-# Quests and charms
+![Quests and charms](assets/banner-quests-and-charms.png)
 
 ## The quest board
 

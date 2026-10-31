@@ -3,7 +3,7 @@ title: Gods and blessings
 nav_order: 7
 ---
 
-# Gods and blessings
+![Gods and blessings](assets/banner-gods.png)
 
 Please the gods with deeds and offerings to earn blessings. Blessings are passive powers and never take an ability slot. Two gods' blessings can pair into a duo.
 

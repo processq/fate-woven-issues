@@ -4,7 +4,7 @@ nav_order: 1
 permalink: /
 ---
 
-# Fate Woven: build your Viking
+![Home](assets/banner-home.png)
 
 Fate Woven adds a full ability and build system to Valheim. You level up by fighting and draft new abilities and runes as you go. Runes don't just add numbers, they change how your abilities work: bolts split, heals pulse, strikes spin.
 

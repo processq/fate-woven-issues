@@ -3,7 +3,7 @@ title: What's new
 nav_order: 12
 ---
 
-# What's new
+![What's new](assets/banner-whats-new.png)
 
 Fate Woven is in beta, and every release is listed here, newest first. Please report bugs, issues and requests on the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose).
 

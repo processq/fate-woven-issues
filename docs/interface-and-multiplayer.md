@@ -3,7 +3,7 @@ title: Interface and multiplayer
 nav_order: 11
 ---
 
-# Interface and multiplayer
+![Interface and multiplayer](assets/banner-interface-and-multiplayer.png)
 
 ### Interface
 

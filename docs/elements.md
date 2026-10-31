@@ -3,7 +3,7 @@ title: Elements
 nav_order: 5
 ---
 
-# Elements
+![Elements](assets/banner-elements.png)
 
 There are twelve elements. Each fits a role, but you can mix them.
 
