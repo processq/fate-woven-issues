@@ -1,6 +1,6 @@
 # Runes
 
-[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose) | [Discord](https://discord.gg/dWC9gWMc)
+[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Quests and charms](quests-and-charms.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [What's new](whats-new.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose) | [Discord](https://discord.gg/dWC9gWMc)
 
 Each ability has an element slot, a few normal slots, an Epic slot and a Legendary slot. Runes of the same element stack: about +20% in a normal slot, +25% in the Epic slot, +30% in the Legendary slot. Epic and Legendary runes also change how an ability plays and break an enemy's resistance to their element for a few seconds.
 
@@ -57,11 +57,11 @@ After the first target, hops to 1 more target within 8m, one at a time. The cast
 
 ### Cone
 
-Shape: the attack hits everything in a 70-degree cone in front of you out to its normal reach (projectiles: 10m). Each enemy caught takes 60% of the damage, with no target cap. Control and taunt time is 80% each. Heals and shields give 60% to each ally.
+Shape: the attack hits everything in a 70-degree cone in front of you out to its normal reach (projectiles: 10m). Each enemy caught takes 60% of the damage, with no target cap. Control and taunt time is 80% each. Heals and shields give 60% to each ally. Shape rune: only one shape rune (Cone, Nova, Beam, Downpour) per ability.
 
 ### Drifting
 
-The projectile flies at a third of its speed and lasts 3 times as long, hitting each enemy it passes once. It changes speed, not path, so it mixes with any path rune. Stacks: each extra copy makes it slower still and last longer (a quarter of its speed for 4 times as long, then a fifth for 5 times).
+The projectile flies at a third of its speed and lasts 3 times as long, hitting each enemy it passes once. It changes speed, not path, so it mixes with any path rune. Stacks: each extra copy makes it slower still and last longer (a quarter of its speed for 4 times as long, then a fifth for 5 times). Path rune: only one path rune (Drifting, Zigzag, Wild Path) per ability.
 
 ### Fork
 
@@ -93,17 +93,17 @@ The ability makes 2 of what it makes (traps, summons, walls, projectiles) at 60%
 
 ### Wild Path
 
-Spell projectiles only (not bows, crossbows or thrown weapons): the projectile flies off on a random, uncontrolled path; +30% damage. With Split, each copy takes its own wild path.
+Spell projectiles only (not bows, crossbows or thrown weapons): the projectile flies off on a random, uncontrolled path; +30% damage. With Split, each copy takes its own wild path. Path rune: only one path rune (Drifting, Zigzag, Wild Path) per ability.
 
 ### Zigzag
 
-Spell projectiles only (not bows, crossbows or thrown weapons): the projectile weaves back and forth but keeps going forward; +10% damage.
+Spell projectiles only (not bows, crossbows or thrown weapons): the projectile weaves back and forth but keeps going forward; +10% damage. Path rune: only one path rune (Drifting, Zigzag, Wild Path) per ability.
 
 ## Rare runes (20)
 
 ### Downpour
 
-Instead of one hit, the effect falls as rain on a 5m spot for 4s (on a spell, no bolt flies: the rain forms at the crosshair point): every enemy in the rain takes 22.5% of it each second (90% in all), with no full-damage centre and no target cap. A buff or debuff gains 22.5% of its duration for each second a target spends in the rain, up to 90%; a control lands once at 80% when a target first enters. Stacks: each extra copy makes the rain spot 1m wider. Lingering makes the rain last 20% longer per copy..
+Instead of one hit, the effect falls as rain on a 5m spot for 4s (on a spell, no bolt flies: the rain forms at the crosshair point): every enemy in the rain takes 22.5% of it each second (90% in all), with no full-damage centre and no target cap. A buff or debuff gains 22.5% of its duration for each second a target spends in the rain, up to 90%; a control lands once at 80% when a target first enters. Stacks: each extra copy makes the rain spot 1m wider. Lingering makes the rain last 20% longer per copy. With Multistrike: the rain ticks once per strike each second. With Pulsing: every 3s everyone in the rain takes +25% of the rain's hit. Shape rune: only one shape rune (Cone, Nova, Beam, Downpour) per ability.
 
 ### Echo
 
@@ -127,7 +127,7 @@ Each use adds 2 extra strikes (on a bow or crossbow: 2 extra arrows or bolts). A
 
 ### Nova
 
-Shape: the attack hits everything in a ring all around you out to its normal reach (melee: weapon reach, and a melee strike plays a spin; projectiles and targeted spells: 8m). Each enemy caught takes 60% of the damage, with no target cap. Control and taunt time is 80% each. Heals and shields give 60% to each ally.
+Shape: the attack hits everything in a ring all around you out to its normal reach (melee: weapon reach, and a melee strike plays a spin; projectiles and targeted spells: 8m). Each enemy caught takes 60% of the damage, with no target cap. Control and taunt time is 80% each. Heals and shields give 60% to each ally. Shape rune: only one shape rune (Cone, Nova, Beam, Downpour) per ability.
 
 ### Parry Rhythm
 
@@ -135,7 +135,7 @@ For 8s after you cast this ability, a block or parry counts as a step of your we
 
 ### Pull
 
-Drags enemies toward the centre: zones, auras and totems 1m per second; an instant area drags everyone in it 3m inward 1s after it lands. Large creatures move half as far; bosses aren't moved. A pull never drags enemies into or on top of you: pulled toward you, they stop at melee range in front of you.
+Drags enemies toward the centre: zones, auras and totems 1m per second; an instant area drags everyone in it 3m inward 1s after it lands. Large creatures move half as far; bosses aren't moved. A pull never drags enemies into or on top of you: pulled toward you, they stop at melee range in front of you. On a cone it drags enemies to the middle of the cone; on a nova, toward you.
 
 ### Pulsing
 
@@ -179,7 +179,7 @@ While this ability is on your bar, you take 10% less damage from every hit, of w
 
 ### Wide
 
-The area rune: it makes an area at the target (Nova makes the ring around you, Cone the cone in front). On a single-target ability the first copy turns the effect into a 5m area at 50% to everyone in it, the main target included, with no target cap. The area is centred on the main target, or, with no target, on the ground or structure under the crosshair: a spell projectile doesn't fly but forms its area at the crosshair point (an arrow or thrown weapon bursts where it lands); a heal, shield, buff or debuff reaches allies (or enemies) within 5m of the target; a melee swing hits enemies within 5m of the target. A self-cast buff becomes a 5m area around you at 50% to you and every ally in it, you included. On an area ability, and for each extra copy: +50% radius (walls +50% length). On Rise: a wider pillar. On Challenging Roar, with Nova or Cone: a wider roar.
+The area rune: it makes an area at the target (Nova makes the ring around you, Cone the cone in front). On a single-target ability the first copy turns the effect into a 5m area at 50% to everyone in it, the main target included, with no target cap. The area is centred on the main target, or, with no target, on the ground or structure under the crosshair: a spell projectile doesn't fly but forms its area at the crosshair point (an arrow or thrown weapon bursts where it lands); a heal, shield, buff or debuff reaches allies (or enemies) within 5m of the target; a melee swing hits enemies within 5m of the target. A self-cast buff becomes a 5m area around you at 50% to you and every ally in it, you included. On an area ability, and for each extra copy: +50% radius (walls +50% length). On Rise: a wider pillar. On Challenging Roar, with Nova or Cone: a wider roar. Fork, Bounce and Split copies of a Wide cast burst in a 2.5m area.
 
 ## Meta runes (14)
 

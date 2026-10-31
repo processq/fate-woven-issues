@@ -1,6 +1,6 @@
 # Getting started
 
-[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose) | [Discord](https://discord.gg/dWC9gWMc)
+[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Quests and charms](quests-and-charms.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [What's new](whats-new.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose) | [Discord](https://discord.gg/dWC9gWMc)
 
 ### The Idea
 
@@ -34,6 +34,37 @@ The first time you beat a boss, you choose its signature ability or its trophy r
 ### Damage
 
 Every number you deal splits by element, each in its own colour. A dimmed number was resisted and a bold one hit a weakness. Two settings under Visuals change this for you only: Split damage numbers (one number per element, or one total) and Damage numbers (off hides them all). Your ability damage also breaks things a weapon would break, such as beehives and pots, but not buildings, rock, ore or trees.
+
+### Runes
+
+Each ability has an element slot, a few normal slots, an Epic slot and a Legendary slot. Runes of the same element stack: about +20% in a normal slot, +25% in the Epic slot, +30% in the Legendary slot. Epic and Legendary runes also change how an ability plays and break an enemy's resistance to their element for a few seconds.
+
+### Sets And Special Runes
+
+Rune sets give bonuses when you carry several pieces. Sworn runes tie an element to a god. Meta runes change how other runes work.
+
+### When cards open up
+
+Cards open by character level, not by boss kills, so a player who levels fast still sees everything. Abilities, runes and blessings open in tiers:
+
+| Biome tier | Opens at level |
+|---|---|
+| Meadows | 1 |
+| Black Forest | 5 |
+| Swamp | 12 |
+| Mountains | 20 |
+| Plains | 28 |
+| Mistlands | 36 |
+| Ashlands | 45 |
+| Deep North | 53 |
+
+A few abilities are held back until a higher level on top of that (Summon Mount opens at level 30).
+
+### Only one of a kind
+
+- **Unique abilities:** Summon can be in only one bar slot at a time. You can own several Summons with different runes and swap which one is slotted.
+- **One-per-group runes:** some runes belong to a group, and you can have only one from each group. **Shape:** Cone, Nova, Beam and Downpour, one per ability. **Path:** Drifting, Zigzag and Wild Path, one per ability. **Cost change:** Kindred Blood and Duelist's Focus, one per ability. **Trigger:** one Trigger rune on your whole bar. A second one will not socket, and the socket tells you why.
+
 
 ---
 *Fate Woven is designed by a human, who decides what it does and how it plays. The code is written by Claude, an AI model made by Anthropic, working from that design. The documentation is written by Claude too, and the icons are AI-generated.*

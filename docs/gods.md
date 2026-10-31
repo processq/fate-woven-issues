@@ -1,6 +1,6 @@
 # Gods and blessings
 
-[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose) | [Discord](https://discord.gg/dWC9gWMc)
+[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Quests and charms](quests-and-charms.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [What's new](whats-new.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose) | [Discord](https://discord.gg/dWC9gWMc)
 
 Please the gods with deeds and offerings to earn blessings. Blessings are passive powers and never take an ability slot. Two gods' blessings can pair into a duo.
 
@@ -71,7 +71,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 - **Ear for Growing Grass** (Common): Enemies within 30m are outlined for you (and allies within 10m) while you are crouched or standing still; +10% damage to enemies that haven't noticed you.
 - **Gjallarhorn's Warning** (Uncommon): When a raid or an elite (starred or boss-like) enemy comes within 60m, Heimdall's horn sounds and an arrow on your screen points toward it; you and allies within 20m gain +20 armor for 10s to get ready (once per 60s).
 - **Bridgeward's Flare** (Rare): Dodging through an enemy leaves a 5m band of prismatic light for 4s that deals 12 Holy per second and Chills.
-- **Nine-Mothered Guard** (Rare): Every 20s, gain a Shield absorbing 10% max HP that lasts until broken or 20s; while it holds, attackers are Marked.
+- **Nine-Mothered Guard** (Rare): Every 20s, gain a Shield absorbing 10% max HP that lasts until broken or 17s, so it fades just before the next one; while it holds, attackers are Marked.
 - *5 more blessings to find, and 2 duos shared with another god.*
 
 ## Vidar
@@ -91,7 +91,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 - **Snowfield Glide** (Common): +12% movement speed on snow and ice; no stamina drain from running while wielding a bow.
 - **Yew-Hall Draw** (Common): Bow draw speed +8%; fully drawn shots deal +6% damage and Chill.
 - **Hunter Without Peer** (Rare): Your first hit on each enemy applies Marked; Bow and Thrown damage +15% vs Marked.
-- **Shield-Ship Crossing** (Rare): About 5 times a minute, blocking with a shield grants a Frost Shield for 10% max HP; while Shielded, your arrows pierce 1 extra enemy.
+- **Shield-Ship Crossing** (Rare): About 5 times a minute, blocking with a shield grants a Frost Shield for 10% max HP that lasts about 10s; while Shielded, your arrows pierce 1 extra enemy.
 - *4 more blessings to find, and 1 duo shared with another god.*
 
 ## Skadi
