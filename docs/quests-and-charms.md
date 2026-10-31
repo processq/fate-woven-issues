@@ -1,6 +1,9 @@
-# Quests and charms
+---
+title: Quests and charms
+nav_order: 10
+---
 
-[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Quests and charms](quests-and-charms.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [What's new](whats-new.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose) | [Discord](https://discord.gg/dWC9gWMc)
+# Quests and charms
 
 ## The quest board
 

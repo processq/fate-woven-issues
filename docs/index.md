@@ -1,6 +1,10 @@
-# Fate Woven: build your Viking
+---
+title: Home
+nav_order: 1
+permalink: /
+---
 
-[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Quests and charms](quests-and-charms.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [What's new](whats-new.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose) | [Discord](https://discord.gg/dWC9gWMc)
+# Fate Woven: build your Viking
 
 Fate Woven adds a full ability and build system to Valheim. You level up by fighting and draft new abilities and runes as you go. Runes don't just add numbers, they change how your abilities work: bolts split, heals pulse, strikes spin.
 

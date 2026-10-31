@@ -1,6 +1,9 @@
-# Abilities
+---
+title: Abilities
+nav_order: 3
+---
 
-[Home](index.md) | [Getting started](getting-started.md) | [Abilities](abilities.md) | [Runes](runes.md) | [Elements](elements.md) | [Statuses](statuses.md) | [Gods](gods.md) | [Sets](sets.md) | [Utility and pets](utility-and-pets.md) | [Quests and charms](quests-and-charms.md) | [Interface and multiplayer](interface-and-multiplayer.md) | [What's new](whats-new.md) | [Report a bug](https://github.com/processq/fate-woven-issues/issues/new/choose) | [Discord](https://discord.gg/dWC9gWMc)
+# Abilities
 
 Every ability costs eitr or stamina and has a cooldown. The element shown is the default; an element rune in the ability changes it.
 
