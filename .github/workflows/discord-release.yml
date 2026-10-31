@@ -1,0 +1,20 @@
+name: Post release notes to Discord
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Post to the Discord changelog channel
+        env:
+          WEBHOOK: ${{ secrets.DISCORD_CHANGELOG_WEBHOOK }}
+          NAME: ${{ github.event.release.name }}
+          TAG: ${{ github.event.release.tag_name }}
+          BODY: ${{ github.event.release.body }}
+        run: |
+          if [ -z "$WEBHOOK" ]; then echo "No DISCORD_CHANGELOG_WEBHOOK secret set; nothing posted."; exit 0; fi
+          CONTENT=$(printf '**%s**\n%s' "${NAME:-$TAG}" "$BODY" | head -c 1900)
+          jq -n --arg c "$CONTENT" '{content: $c, allowed_mentions: {parse: []}}' | curl -sS -X POST -H 'Content-Type: application/json' -d @- "$WEBHOOK"
