@@ -8,7 +8,16 @@ nav_order: 13
 Fate Woven is in beta, and every release is listed here, newest first. Please report bugs, issues and requests on the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose).
 
 
-## 0.2.1425 (beta)
+## 0.2.1435 (beta)
+- Healing, shield and stamina casts have a rim: soft white-gold for healing, blue for shields, yellow for stamina. Damage casts have none. Healing beams pulse toward the target, and ally cones and novas get a rim outline.
+- Rains show a healing rune (Berkanan) or a damage rune (Thurisaz) in the middle of their rune circle, and other players see it.
+- Stamina from a Shout shows as yellow motes on each player it reaches.
+- If one of our keys is also used by another mod (for example Z, B, H and Left Alt with SeneaL UI, Equipment and Quick Slots or Quick Stack), a message lists the clashes once. Our defaults stay; rebind either side in the config.
+- Twin Strike works with a dual-wield weapon: it counts as both hands, two hits at 80% each. Fixed: Twin Strike had no reach and never found a target.
+- The Bots' damage, the Summon's HP and the Hidden Hall's size follow the Charm you wear. Charm tooltips say so.
+- Fixed: Chant of Many Wards no longer lowers a bigger Shout or totem bonus from another player, and an older 0.2 game no longer loses the bonus. Ragnarok's Sentinels outlines a close enemy over a far one.
+- Fixed: a shield break effect could linger about 90 seconds after a shield timed out.
+- A held beam or a charged draw no longer recompiles the ability every frame. A held Wide beam went from 113 to 137 fps on RBECK-RAZER.
 - New: Elemental and Greater Charms, rewards from Legendary quests. Elemental Charms boost one element; Greater Charms go above the Flametal Charm (odds 60/30/10 for I, II and III). Their slots show the tint as a border (element colour, or gold for Greater), and the fill turns orange while worn.
 - All seven pinned quest hunts now have a named elite at the pin: Grath the Troll, Vorn the Abomination, Krell the Stone Golem, Brug the Goblin Brute, Dunn the Gjall, Ashk the Morgen and Torv the Fallen Valkyrie. With CLLC installed, it rolls its own level, infusion and effect. The brute chief quest now asks for one brute.
 - More blessings now work for your allies and other players, as their text says: Njord's Stillness, Brightness Returned from Hel, Apples Shared, Feast-Host, the Cauldron for others, Bristles of Gold's glow, crop growth, The High Seat and Mistletoe for allies, and Spear Flung's stamina. 18 blessings that fell short of their card were fixed.

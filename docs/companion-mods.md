@@ -12,7 +12,7 @@ Fate Woven is in beta, and this is a first pass. Each mod below was tested on it
 * **[SeneaL UI](https://thunderstore.io/c/valheim/p/seneaL/SeneaL_UI/) and [SeneaL API](https://thunderstore.io/c/valheim/p/seneaL/SeneaL_API/):** Works. Our ability bar, level line, pet window and panels show up in its layout, and our shield appears as its "Shield" chip. Fate Woven adds its buttons to its character panel and adopts its look for some bars and buttons.
 * **[Path of Valheiman](https://thunderstore.io/c/valheim/p/treextr/PathOfValheiman/):** Works. Fate Woven ignores its skill changes so your ability damage is not cut.
 * **[Valheim Community Patch](https://thunderstore.io/c/valheim/p/MidnightMods/ValheimCommunityPatch/) 0.40.0:** Works. Shields and eitr (including the reserve for pets) were checked in detail.
-* **[Epic Loot](https://thunderstore.io/c/valheim/p/RandyKnapp/EpicLoot/):** Works.
+* **[Epic Loot](https://thunderstore.io/c/valheim/p/RandyKnapp/EpicLoot/):** Works. Quest rewards from Epic Loot include Therzie's Warfare gear when both are installed.
 * **[Creature Level and Loot Control](https://thunderstore.io/c/valheim/p/Smoothbrain/CreatureLevelAndLootControl/) (CLLC):** Works. Use a current 5.x version.
 * **[Star Level System](https://thunderstore.io/c/valheim/p/MidnightMods/StarLevelSystem/):** Works.
 * **[Monstrum](https://thunderstore.io/c/valheim/p/Therzie/Monstrum/), [Warfare](https://thunderstore.io/c/valheim/p/Therzie/Warfare/), [Wizardry](https://thunderstore.io/c/valheim/p/Therzie/Wizardry/) and [Armory](https://thunderstore.io/c/valheim/p/Therzie/Armory/):** Work.
