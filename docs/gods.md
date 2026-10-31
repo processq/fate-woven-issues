@@ -36,7 +36,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 | Idunn | Youth, renewal and the apples of the gods | Nature, Holy | Vidar |
 | Aegir | The sea's depths, storms at sea, brewing and the feast | Water, Fire | Loki |
 
-## <img src="assets/icons/god/odin.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Odin
+## Odin
 
 *Wisdom, war, death, spell-song and the chosen slain.* Favour comes from: Killing elites and bosses; spending eitr; discovering new locations, runestones and vegvísirs; dying with honor (killed by a boss). Offerings: Mead, boss trophies, fine wood, dragon tears.
 
@@ -46,7 +46,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 - <img src="assets/icons/blessing/twin_raven_echo.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Twin Raven Echo** (Rare): Abilities have a 6% chance to cast a second time, paying the normal cost again (skipped if you can't pay); each echo heals you for 3% max HP.
 - *6 more blessings to find, and 5 duos shared with another god.*
 
-## <img src="assets/icons/god/thor.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Thor
+## Thor
 
 *Thunder, strength, protection of Midgard.* Favour comes from: Kills with lightning, maces or sledges; slaying giant-kin (Trolls, Fulings, Jötunn foes); staggering enemies. Offerings: Mead, troll trophies, iron, roasted meats.
 
@@ -66,7 +66,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 - <img src="assets/icons/blessing/price_of_the_oath.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Price of the Oath** (Rare): Below 50% HP you gain +15% damage and 5% lifesteal; above 90% HP your hits apply Bleeding.
 - *4 more blessings to find, and 2 duos shared with another god.*
 
-## <img src="assets/icons/god/heimdall.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Heimdall
+## Heimdall
 
 *Watchfulness, the rainbow bridge, warning.* Favour comes from: Spotting and killing enemies before they reach you; defending your base from raids; standing watch at night; climbing heights. Offerings: Horns (Lox/Deer/Drake), amber, crystals, mead.
 
@@ -87,7 +87,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 - <img src="assets/icons/blessing/jaw_splitter.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Jaw-Splitter** (Rare): Kicks against Staggered or Rooted enemies deal +30% damage and inflict Bleeding; kicks heal you for 2% max HP.
 - *4 more blessings to find, and 2 duos shared with another god.*
 
-## <img src="assets/icons/god/ullr.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Ullr
+## Ullr
 
 *The hunt, archery, skis, winter travel.* Favour comes from: Bow and thrown kills; long-range headshots; hunting animals; travelling far across snow. Offerings: Deer trophies, feathers, fine wood, wolf pelts.
 
@@ -107,7 +107,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 - <img src="assets/icons/blessing/serpent_s_drip.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Serpent's Drip** (Rare): Traps and Rooted effects you cause also apply Venom (2 stacks) and Chill.
 - *4 more blessings to find, and 3 duos shared with another god.*
 
-## <img src="assets/icons/god/bragi.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Bragi
+## Bragi
 
 *Poetry, eloquence, the mead of poets.* Favour comes from: Using Shouts; buffing allies; feasting together; telling of deeds (completing biome bosses with others nearby). Offerings: Meads, honey, feasts, raspberries/blueberries.
 
@@ -117,7 +117,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 - <img src="assets/icons/blessing/sharp_retort.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Sharp Retort** (Rare): About 15 times a minute, an enemy that hits you is Cursed for 4s.
 - *5 more blessings to find, and 2 duos shared with another god.*
 
-## <img src="assets/icons/god/freyja.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Freyja
+## Freyja
 
 *Love, magic magic, the battle-slain of Folkvang.* Favour comes from: Kills while Inspired; casting eitr spells; reviving or healing fallen allies. Offerings: Amber, honey, mead, gold coins.
 
@@ -127,7 +127,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 - <img src="assets/icons/blessing/hearth_ring_of_magic.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Hearth Ring of Magic** (Rare): A 5m magic ring surrounds you: you heal 1% max HP/s and enemies inside take 4 Arcane damage/s; every 3s spent inside Curses them for 4s.
 - *6 more blessings to find, and 3 duos shared with another god.*
 
-## <img src="assets/icons/god/frigg.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Frigg
+## Frigg
 
 *Queenship, foreknowledge, hearth and protection.* Favour comes from: Blocking or parrying hits near allies; healing allies; resting Rested by a hearth. Offerings: Linen thread, flax, honey, bread.
 
@@ -137,7 +137,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 - <img src="assets/icons/blessing/messenger_s_errand.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Messenger's Errand** (Rare): Your Heals grant their targets +15% movement speed for 5s and cleanse Rooted and Wet.
 - *4 more blessings to find, and 1 duo shared with another god.*
 
-## <img src="assets/icons/god/loki.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Loki
+## Loki
 
 *Trickery, shape-shifting, fire and ruin.* Favour comes from: Kills from Stealthed; igniting Venomed foes; enemies slain by traps, falls or each other. Offerings: Surtling cores, fish, ooze.
 
@@ -149,7 +149,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 - <img src="assets/icons/blessing/wolf_mother_s_brood.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Wolf-Mother's Brood** (Rare): Kills spawn a small viper Summon for 10s (max 4) whose bites add Venom. Cost: -5% max HP for each viper alive.
 - *4 more blessings to find, and 4 duos shared with another god.*
 
-## <img src="assets/icons/god/njord.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Njord
+## Njord
 
 *Sea, wind, seafaring and plenty.* Favour comes from: Sailing; fishing; fighting while Wet; slaying sea creatures. Offerings: Fish, serpent scales, serpent meat, chitin.
 
@@ -159,7 +159,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 - <img src="assets/icons/blessing/rain_rich_shores.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Rain-Rich Shores** (Rare): While standing in water or rain, deal +15% damage and take 10% less damage.
 - *4 more blessings to find, and 3 duos shared with another god.*
 
-## <img src="assets/icons/god/freyr.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Freyr
+## Freyr
 
 *Harvest, sunlight, rain and peace.* Favour comes from: Planting and harvesting crops; taming and breeding animals; fighting without a sword. Offerings: Carrots, turnips, barley, boar trophies.
 
@@ -170,7 +170,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 - <img src="assets/icons/blessing/elf_home_daybeam.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Elf-Home Daybeam** (Rare): Every 6s a sunbeam strikes the nearest enemy within 15m for 15 Holy damage with a 25% chance to set it Burning.
 - *4 more blessings to find, and 3 duos shared with another god.*
 
-## <img src="assets/icons/god/hel.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Hel
+## Hel
 
 *Rule of the dead and Hel's realm.* Favour comes from: Slaying undead; killing Cursed or Venomed foes; surviving at low health. Offerings: Bone fragments, draugr trophies, withered bone, entrails.
 
@@ -180,7 +180,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 - <img src="assets/icons/blessing/toll_of_the_hel_bridge.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Toll of the Hel Bridge** (Rare): Hitting a non-boss, non-elite enemy below 8% HP slays it outright; each such kill grants a 10 HP Shield for 6s.
 - *4 more blessings to find, and 2 duos shared with another god.*
 
-## <img src="assets/icons/god/baldr.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Baldr
+## Baldr
 
 *Light, purity and renewal.* Favour comes from: Fighting in daylight; healing allies; winning fights without taking damage. Offerings: Dandelions, honey, mead, thistle.
 
