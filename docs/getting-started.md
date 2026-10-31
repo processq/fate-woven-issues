@@ -63,6 +63,12 @@ Cards open by character level, not by boss kills, so a player who levels fast st
 
 A few abilities are held back until a higher level on top of that (Summon Mount opens at level 30).
 
+![A draft: three cards, pick one.](assets/shots/draft.png)
+*A draft: three cards, pick one.*
+
+![Your ability bar.](assets/shots/bar.png)
+*Your ability bar.*
+
 ### Only one of a kind
 
 - **Unique abilities:** Summon can be in only one bar slot at a time. You can own several Summons with different runes and swap which one is slotted.
