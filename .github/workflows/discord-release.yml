@@ -22,7 +22,7 @@ jobs:
         run: |
           if [ -z "$WEBHOOK" ]; then echo "No DISCORD_CHANGELOG_WEBHOOK secret set; nothing posted."; exit 0; fi
           if [ "$EVENT" = "workflow_dispatch" ]; then
-            NAME=$(gh api "repos/${{ github.repository }}/releases/latest" --jq .name 2>/dev/null || gh api "repos/${{ github.repository }}/releases?per_page=1" --jq '.[0].name')
+            NAME=$(gh api "repos/${{ github.repository }}/releases?per_page=1" --jq '.[0].name')
             BODY=$(gh api "repos/${{ github.repository }}/releases?per_page=1" --jq '.[0].body')
             TAG=$(gh api "repos/${{ github.repository }}/releases?per_page=1" --jq '.[0].tag_name')
           fi
