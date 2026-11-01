@@ -1,6 +1,7 @@
 ---
 title: Companion mods
-nav_order: 13
+nav_order: 3
+parent: Servers and mods
 description: "Which Valheim mods work with Fate Woven (SeneaL UI, Epic Loot, CLLC and more) and which keys clash."
 image: /assets/banner-companion-mods.jpg
 ---

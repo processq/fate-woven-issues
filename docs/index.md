@@ -15,6 +15,11 @@ Fate Woven adds a full ability and build system to Valheim. You level up by figh
 
 Build a tank, healer, controller, summoner, damage dealer, or any mix you can imagine, and bring real roles to your co-op group. Win favour with 17 Norse gods, collect rune sets, and find rare runes and signature powers along the way.
 
+**[Download and install](install.md)** | [Questions and answers](faq.md) | [Discord](https://discord.gg/dWC9gWMc)
+
+![A draft: three cards, pick one.](assets/shots/draft.png)
+*A draft: three cards, pick one.*
+
 ## At a glance
 - 49 base abilities across eight roles, plus utility abilities and signature powers.
 - 217 runes that change how abilities play.
@@ -23,7 +28,7 @@ Build a tank, healer, controller, summoner, damage dealer, or any mix you can im
 - 12 rune sets with set bonuses.
 - Levels 1 to 60, with mastery: every ability gets stronger the more you use it.
 - A quest board with notices for every biome, and seven Rune Charms you craft from boss drops ([Quests and charms](quests-and-charms.md)).
-- Re-weave: at level 60, start over for lock-ins that join every later run ([Re-weave and Hel's Road](re-weave.md)).
+- Re-weave: at level 60, start over to gain Carried Threads that wait in every later draft ([Re-weave and Hel's Road](re-weave.md)).
 - [What's new](whats-new.md): every beta release, newest first.
 
 ## Start here

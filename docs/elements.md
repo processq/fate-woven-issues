@@ -1,6 +1,7 @@
 ---
 title: Elements
-nav_order: 5
+nav_order: 3
+parent: The game
 description: "The twelve Fate Woven elements for Valheim and what each does to your abilities and your build."
 image: /assets/banner-elements.jpg
 ---

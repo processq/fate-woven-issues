@@ -1,6 +1,6 @@
 ---
 title: What's new
-nav_order: 14
+nav_order: 8
 description: "Every Fate Woven beta release, newest first."
 image: /assets/banner-whats-new.jpg
 ---
@@ -12,6 +12,74 @@ image: /assets/banner-whats-new.jpg
 
 Fate Woven is in beta, and every release is listed here, newest first. Please report bugs, issues and requests on the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose).
 
+
+## 0.2.1617 (beta)
+- Carried Threads: after a Re-weave, the ability and rune you carry over wait in a second window under your draft, and you still make one pick.
+- The top quest rewards are now called Legacy Rewards, and the Compendium and first-time hints are rewritten in plainer words (hints cut to the ten that matter).
+- Hearth Shelter's hut is rebuilt: one wall high under a sloped roof, ghostly and element-tinted, with a purple-pink fire and no smoke.
+- Many cards now do exactly what they say: all Epic and Legendary runes, ten set pieces, and the Steel, Shout and Hel's Leech wording and rules.
+- Effects that fire "about N times a minute" on rare events now fire as often as their cards say, so they are noticeably stronger.
+- Control on big enemies lands at once at half length; only bosses use the hidden meter. Crossbows count as bows.
+- Co-op: heals, statuses, auras and "allies" cards now reach other players, and several crashes and desyncs are fixed.
+- Saves are safer: a damaged card file or an older version no longer removes cards, and a backup is kept.
+- New setting General > Logging (Quiet, Normal, Detailed) and a repeat limit for warnings, for easier bug reports.
+- Everyone in a game must update together: card data changed, and many co-op effects need the new version on every player's game.
+- Compendium entries now open as you meet each thing in game, including three new ones: quests and Charms, Re-weave, and Legacy Rewards.
+- Epic Loot's choose-one-of-three now offers up to three items, with their rarity colours on the buttons.
+- The permanent top-tier quest rewards are now called Legacy Rewards everywhere (they were called Uniques). The Mastery list, the reward messages and the first-steps text use the new name.
+- Re-weave now gives you Carried Threads: the ability and rune you pick on the Re-weave screen wait in a second window under your draft, also called Carried Threads, instead of being handed to you for free. You still make one pick, and anything you pass over stays there for the next draft of that kind.
+- Hearth Shelter's hut is rebuilt: its walls stand on the ground, one wall high, under a sloped roof, and its bed lets you sleep. It now looks ghostly, with see-through walls tinted in your ability's element colour, faint white-gold runes on the walls, drifting sparkles, and a fade-in with a burst of sparkles when you cast it. The fire is purple-pink and gives no smoke, so you aren't Smoked inside. You still can't walk through the walls.
+- Sleeping through the night no longer removes the hut, portals, temporary workbenches or the Traveller's Trunk.
+- Drowsing Field holds sleepers on enemies another player's game runs, and no longer keeps immune enemies immune.
+- A message tells you when another player in your game runs a different Fate Woven version.
+- Cooldowns now carry on after you log out and back in. Dying still resets them.
+- Co-op: kills near the world spawn on a dedicated server now give XP and quest credit.
+- Co-op: heals from other players now get your healing bonuses, and Trickster's Ante's -60% applies to them.
+- Co-op: many effects now work on enemies another player's game runs: Blind, Soothe the Wild, Beast-Speech, pulls and Water Melee's push, Fimbulwinter, Níðstang and Wraith Shroud-Thread's damage cuts, Hel's Harvest, Calmer of Flame, Cowing Tremor, beam holds, Drowsing Field, Weakening Hex's bounce, Battle-Fed and Crimson Tide.
+- Co-op: the Vanir springs wash Burning and Venom off other players too, and Rune-Tether won't take a cart someone else is pulling.
+- Nine Nights, Gold-Toothed Vigil and beam ticks work the same at any frame rate.
+- Smoother frames and less network traffic in co-op.
+- Cards that say "allies" now reach other players, not just you and your tames.
+- Co-op: Avenger's Debt and Hringhorni's Pyre work when a player dies in another player's game, and one song at a time holds for allies. A crash from Blinding Glare when you joined a host is fixed.
+- PvP: when someone with PvP on swings at someone with PvP off, side effects such as Shared Hide moving damage onto a thrall, Brace's Blood Shield healing, and Boon lifesteal no longer happen, and another player's game can no longer stagger you.
+- Ash Veil and Stormshade now reach allies standing inside them, other players too: enemies lose track of them, and Ash Veil stops ranged hits on anyone inside, you included.
+- Fading Veil now gives stealth to other players, and it ends when they attack.
+- Save safety: a damaged card data file, or going back to an older version, no longer removes cards from your character; if your Fate Woven data can't be read you're told, and the original is kept as a backup; unreadable Traveller's Trunk contents are kept as a backup too.
+- Cards that were cut or renamed no longer disappear from old saves. A cut Carried Thread waits in case the card returns and doesn't count toward your 10, and if your Full Set was cut you can choose a set for stage I again.
+- New setting General > Logging: Quiet, Normal or Detailed. Set it to Detailed before reporting a bug and attach the log. The same warning no longer fills the log: after 5 copies it shows a "(repeated N times)" line instead.
+- The last four set element runes now do what they say: Stag Rune (your next hit on a Shocked enemy also Staggers it), Ooze Rune (Venom stacks to 15), Lox Rune (enemies you Stagger are knocked back 2 m) and Ember Rune (Burning stacks to 80%). Each works while the rune is on your bar.
+- Ember Rune and Ooze Rune now help slow abilities too: with Ember on an ability that has a cooldown of 5s or more, Burning starts at 80%; with Ooze on one with a cooldown of 8s or more, each hit adds 5 Venom stacks at once.
+- Gathered Bolt's element status now lands from half charge up (a quick tap still doesn't), and the card says so.
+- Effects that fire "about N times a minute" on rare events (kills, blocks, casts and slow ability hits) now fire as often as their cards say. Some were firing far less often, so these effects get noticeably stronger.
+- Control on big enemies now lands at once at half length, then 6 seconds of immunity, instead of needing several hits to fill a hidden meter (bosses still use the meter). Bosses are Slowed at once by Binding Roots and Rooting Shot.
+- Crossbows now count as bows on every card that says Bow.
+- Steel abilities now use your held weapon's damage type, as the Steel card says.
+- Stagger effects now fire on every stagger you cause: Lox Rune, Antler, Silt and Surge, Hel's Sickbed, Edge-Song and Thor's deed.
+- Every element's status now lands where its card says, for example Fire Roar, Hex, Heavy Limbs and Glare burn, Earth staggers and Steel Sunders. Finisher's Mark now doubles.
+- Hand Between the Jaws costs nothing when no enemy is in reach.
+- Steel now follows your weapon: maces, sledges and fists deal Blunt, with extra stagger, and stagger instead of causing light Bleeding. Steel's +10% damage and +15% stagger now apply.
+- Yew-Hall Draw's +8% speeds up crossbow reloading.
+- Reaper's Toll refunds about 6 times a minute, as its card says. Every cast that finds no target refunds its cost and cooldown. Arcane Finisher's Mark no longer applies Spellbound.
+- Statuses that come from an ability's zones, puddles, rings and spreading effects now count as that ability's, so set bonuses and runes that lengthen statuses or add stacks reach them too.
+- Beams now build a ramp per target with a half-second grace, and a Warding Rune on a beam adds a shield on every tick (shields still stack only up to the shield cap).
+- Card wording now says what the cards really do in several places, for example Shout blessings fire only on Shout, Challenging Roar and Dread Howl; Weapon Imbue affects plain weapon attacks only; Call Back works within 60 seconds of a death; Death's Door only from above 25% health; and "elite" means a starred enemy or a boss.
+- Add-on API: RegisterElementStatus lets another mod's element apply a Fate Woven status.
+- Ten rune set pieces that did nothing now work: Neck Scale, Shaman's Herb, Leech Tooth, Wolf Fang, Abomination Root, Growth Tar, Serpent Fin, Bat Wing, Forge Slag and Charred Relic. Charred Bone, Valkyrie Feather and the Ember Ash and Bloodsworn 5-piece bonuses work too.
+- Valkyrie's Choice's full set tooltip now says it heals 10, as it does.
+- Legendary runes now do everything their cards say: Void Rift, Web of Fate, Giant's Guile, Mead-Hall Oath, Iron Ledger, Trigger Bolt, Spell Pair, Grove-Keeper's Vow, Hound's Watch, Witch's Familiar, Wolf-Warrior Bond and the fit rules for Blood-Price Edge, Spirit Relay, Fate-Thread Mending and Star-Carrier.
+- Card wording fixes: Trigger runes and Riding Spell say a signature in the next slot is cast; Harmony and Mead-Hall Oath's pass-on are songs only; Swarm Fletching needs an enemy hit; Void Rift opens where the shot lands or runs out; Undying Ward shows how long it has held.
+- Undying Ward now shows a counter above the food icons for how long its shield has held, up to 60 seconds.
+- Void Rift now opens where a shot stops or runs out, or at an area's centre a moment after the cast if it hit nothing, one rift per cast.
+- About 50 Epic runes now do everything their cards say, including Hobbling Blow (no running or fleeing, +25% Stagger taken), Volatile (survivor buff, rush and recast detonate, a second copy that speeds up resummoning), Duelist's Focus, Steam Veil, Thornroot, Drowsing Field (sleepers stay asleep), Rampart of Spite, Rot-Bloom, Stormshade, Last Command and many second copies.
+- Card wording fixes: Circling Runes orbit for 3 times the flight time; Unbinding no longer mentions an enemy buff that doesn't exist; Arcane Expose counts as Spirit damage; Shared Hide's second copy sends 50%.
+- The rest of the Epic runes now do what their cards say, including Thrown Voice, Turning Hue, Echoing Rune, Hel's Leech creatures, Frost-Sworn wolves, Dodge- and Shield-Loosed, Ash Veil on area casts, Hobbling Blow on stance and imbued swings, and the second copies of Eruption, Black Ice, Drowsing Field, Totem Vessel, Running Draw, Skyward Arc and Ward-Breaker Blow. Seeker's Point, Quake Knuckles, Skyward Arc and Raven-Guided fit the abilities their cards say.
+- Hel's Leech now works: crouching out of an enemy's sight counts as Stealthed, and the hit that makes an enemy Bleed counts too.
+- Fixes: Hel's Leech, Skadi's wolves, Eruption, Running Draw, Drowsing Field and Black Ice now work as their cards say, and the hut's runes show on worn walls too.
+- The in-game Compendium entries are rewritten in plainer, friendlier words. The facts are the same.
+- First-time tutorial hints are cut down to the ten that matter, reworded to be short and friendly like Valheim's own hints, and no longer pop up while the draft page is open. The rest are in the Compendium.
+- Lists now scroll with the mouse wheel or the scrollbar only, so dragging no longer moves them.
+- Utility abilities that place pieces now put them on the floor when you are indoors, and Waypair's far portal faces the way you faced.
+- The moving shimmer on signature ability icons is turned off, because it smeared across the art.
 
 ## 0.2.1490 (beta)
 - Heals now show white-gold motes around whoever is healed, and everyone nearby sees them.

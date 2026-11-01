@@ -1,6 +1,7 @@
 ---
 title: Rune sets
-nav_order: 8
+nav_order: 6
+parent: The game
 description: "Fate Woven rune sets by biome: the pieces, where they come from and what the set bonuses do."
 image: /assets/banner-sets.jpg
 ---
@@ -22,7 +23,7 @@ Rune sets give bonuses when you carry several pieces of one set. Set pieces drop
 
 - **Antler Tine** (normal slot): Shocked from this ability arcs to 1 extra enemy when it is used up. *Source: 2-star Deer; the legendary quest boss of the Meadows (10%).*
 - **Boar Bristle** (normal slot): Shocked lasts 1s longer. *Source: 2-star Boar; the legendary quest boss of the Meadows (10%).*
-- **Neck Scale** (normal slot): +5% move speed while a Shocked enemy is within 10m. *Source: 2-star Neck; the legendary quest boss of the Meadows (10%).*
+- **Neck Scale** (normal slot): +5% move speed while a Shocked enemy is within 10m. Only the best copy counts. *Source: 2-star Neck; the legendary quest boss of the Meadows (10%).*
 - **Stag's Leap** (Epic slot): to be discovered. *Source: Eikthyr; the legendary quest boss of the Meadows (5%).*
 - **Eikthyr's Crown** (Legendary slot): to be discovered. *Source: Eikthyr; the legendary quest boss of the Meadows (2%).*
 
@@ -31,16 +32,16 @@ Rune sets give bonuses when you carry several pieces of one set. Set pieces drop
 **Root Rune** (element rune): When a Root from this ability ends, the enemy is Slowed 30% for 2s. *Source: Trader quest in the Black Forest.*
 
 - **Greydwarf Bark** (normal slot): Root lasts 1s longer. *Source: Burial Chambers; the legendary quest boss of the Black Forest (10%).*
-- **Shaman's Herb** (normal slot): You heal 1 HP a second while an enemy you Rooted is within 10m. *Source: Greydwarf Shaman; the legendary quest boss of the Black Forest (10%).*
+- **Shaman's Herb** (normal slot): You heal 1 HP a second (tier-scaled) while an enemy you Rooted is within 10m. Only the best copy counts. *Source: Greydwarf Shaman; the legendary quest boss of the Black Forest (10%).*
 - **Troll Sinew** (normal slot): Roots from this ability also catch 1 more enemy within 3m (the spread doesn't spread again). *Source: Troll; the legendary quest boss of the Black Forest (10%).*
 - **Troll Hide** (Epic slot): to be discovered. *Source: The Elder; the legendary quest boss of the Black Forest (5%).*
 - **Elder's Heart** (Legendary slot): to be discovered. *Source: The Elder; the legendary quest boss of the Black Forest (2%).*
 
 ## Bog Rot (Poison, Swamp)
 
-**Ooze Rune** (element rune): Venom stacks to 15 instead of 10. *Source: Trader quest in the Swamp.*
+**Ooze Rune** (element rune): Venom stacks to 15 instead of 10. On an ability with a cooldown of 8s or more, each hit adds 5 Venom stacks at once. *Source: Trader quest in the Swamp.*
 
-- **Leech Tooth** (normal slot): +1 Venom per hit. *Source: Sunken Crypts; the legendary quest boss of the Swamp (10%).*
+- **Leech Tooth** (normal slot): +1 Venom on hits that already add Venom. *Source: Sunken Crypts; the legendary quest boss of the Swamp (10%).*
 - **Wraith Shroud** (normal slot): Venom lasts 2s longer. *Source: Wraith; the legendary quest boss of the Swamp (10%).*
 - **Abomination Root** (normal slot): Each Venom stack also cuts the enemy's healing by a further 2%. *Source: Abomination; the legendary quest boss of the Swamp (10%).*
 - **Draugr Rot** (Epic slot): to be discovered. *Source: Bonemass; the legendary quest boss of the Swamp (5%).*
@@ -50,7 +51,7 @@ Rune sets give bonuses when you carry several pieces of one set. Set pieces drop
 
 **Drake Rune** (element rune): When Frozen from this ability ends, the enemy keeps 2 Chilled. *Source: Trader quest in the Mountains.*
 
-- **Wolf Fang** (normal slot): +1 Chill per hit. *Source: Frost caves; the legendary quest boss of the Mountains (10%).*
+- **Wolf Fang** (normal slot): +1 Chill on hits that already add Chill. *Source: Frost caves; the legendary quest boss of the Mountains (10%).*
 - **Golem Crystal** (normal slot): Chilled from this ability lasts 2s longer. *Source: Stone Golem; the legendary quest boss of the Mountains (10%).*
 - **Fenring Claw** (normal slot): Frozen lasts 0.5s longer. *Source: Fenring; the legendary quest boss of the Mountains (10%).*
 - **Silver Edge** (Epic slot): to be discovered. *Source: Moder; the legendary quest boss of the Mountains (5%).*
@@ -78,7 +79,7 @@ Rune sets give bonuses when you carry several pieces of one set. Set pieces drop
 
 ## Ember Ash (Fire, Ashlands)
 
-**Ember Rune** (element rune): Burning stacks to 80% instead of 60%. *Source: Trader quest in the Ashlands.*
+**Ember Rune** (element rune): Burning stacks to 80% instead of 60%. On an ability with a cooldown of 5s or more, Burning starts at 80%. *Source: Trader quest in the Ashlands.*
 
 - **Charred Bone** (normal slot): Burning deals 10% more. *Source: Charred fortresses; the legendary quest boss of the Ashlands (10%).*
 - **Valkyrie Feather** (normal slot): Burning lasts 1s longer. *Source: Fallen Valkyrie; the legendary quest boss of the Ashlands (10%).*
@@ -92,7 +93,7 @@ Rune sets give bonuses when you carry several pieces of one set. Set pieces drop
 
 - **Drowned Pearl** (normal slot): Hits from this ability refresh Wet on the target to its full length. *Source: Rare catch when fishing the Ocean (about 5%).*
 - **Barnacle Shell** (normal slot): Wet lasts 2s longer. *Source: Mined from a Leviathan (about 5%).*
-- **Serpent Fin** (normal slot): Swimming costs 10% less stamina and is 10% faster. *Source: Sea Serpents (about 5%).*
+- **Serpent Fin** (normal slot): Swimming costs 10% less stamina and is 10% faster. Only the best copy counts. *Source: Sea Serpents (about 5%).*
 - **Serpent's Coil** (Epic slot): to be discovered. *Source: 2-star Sea Serpents (25%).*
 - **Serpent King's Tooth** (Legendary slot): to be discovered. *Source: 2-star Sea Serpents (10%).*
 
@@ -132,7 +133,7 @@ Rune sets give bonuses when you carry several pieces of one set. Set pieces drop
 
 - **Grave-Light Bone** (normal slot): Allies hitting an enemy Marked by this ability heal 3% of the damage dealt instead of 2%. *Source: Burial Chamber skeletons (about 5%); the legendary quest boss of the Black Forest, Swamp or Ashlands (10%).*
 - **Draugr Ward-Stone** (normal slot): Marked lasts 1s longer. *Source: Draugr (about 5%); the legendary quest boss of the Black Forest, Swamp or Ashlands (10%).*
-- **Charred Relic** (normal slot): +15% damage to undead. *Source: Charred warriors in the Ashlands (about 5%); the legendary quest boss of the Black Forest, Swamp or Ashlands (10%).*
+- **Charred Relic** (normal slot): +15% damage to undead and Charred enemies. *Source: Charred warriors in the Ashlands (about 5%); the legendary quest boss of the Black Forest, Swamp or Ashlands (10%).*
 - **Hero's Ring** (Epic slot): to be discovered. *Source: Any boss rematch (25%); the legendary quest boss of the Black Forest, Swamp or Ashlands (5%).*
 - **Valkyrie's Wing** (Legendary slot): to be discovered. *Source: Any boss rematch from Moder onwards (10%); the legendary quest boss of the Black Forest, Swamp or Ashlands (2%).*
 

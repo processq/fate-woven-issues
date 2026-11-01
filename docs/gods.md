@@ -1,6 +1,7 @@
 ---
 title: Gods and blessings
-nav_order: 7
+nav_order: 5
+parent: The game
 description: "Seventeen gods, favour and blessings in Fate Woven: how to earn favour with offerings and which blessings you can socket."
 image: /assets/banner-gods.jpg
 ---
@@ -47,7 +48,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 
 - <img src="assets/icons/blessing/all_seer_s_wager.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **All-Seer's Wager** (Common): About 12 times a minute, an ability hit restores 3 eitr, or 6 eitr if the target is Marked.
 - <img src="assets/icons/blessing/stillness_of_the_hanged.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Stillness of the Hanged** (Common): While standing still for 1.5s, ability cooldowns tick 10% faster and you gain 0.5 eitr/s.
-- <img src="assets/icons/blessing/spear_over_the_host.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Spear Over the Host** (Rare): Your first hit on each elite or boss applies Marked and Cursed for 6s; you deal +10% damage to elites and bosses.
+- <img src="assets/icons/blessing/spear_over_the_host.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Spear Over the Host** (Rare): Your first hit on each starred enemy or boss applies Marked and Cursed for 6s; you deal +10% damage to starred enemies and bosses.
 - <img src="assets/icons/blessing/twin_raven_echo.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Twin Raven Echo** (Rare): Abilities have a 6% chance to cast a second time, paying the normal cost again (skipped if you can't pay); each echo heals you for 3% max HP.
 - *6 more blessings to find, and 5 duos shared with another god.*
 
@@ -79,7 +80,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 - <img src="assets/icons/blessing/ear_for_growing_grass.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Ear for Growing Grass** (Common): Enemies within 30m are outlined for you (and allies within 10m) while you are crouched or standing still; +10% damage to enemies that haven't noticed you.
 - <img src="assets/icons/blessing/gjallarhorn_s_warning.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Gjallarhorn's Warning** (Uncommon): When a raid or an elite (starred or boss-like) enemy comes within 60m, Heimdall's horn sounds and an arrow on your screen points toward it; you and allies within 20m gain +20 armor for 10s to get ready (once per 60s).
 - <img src="assets/icons/blessing/bridgeward_s_flare.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Bridgeward's Flare** (Rare): Dodging through an enemy leaves a 5m band of prismatic light for 4s that deals 12 Holy per second and Chills.
-- <img src="assets/icons/blessing/nine_mothered_guard.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Nine-Mothered Guard** (Rare): Every 20s, gain a Shield absorbing 10% max HP that lasts until broken or 17s, so it fades just before the next one; while it holds, attackers are Marked.
+- <img src="assets/icons/blessing/nine_mothered_guard.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Nine-Mothered Guard** (Rare): Every 20s, if you have no other Shield, gain a Shield absorbing 10% max HP that lasts until broken or 17s, so it fades just before the next one; while it holds, attackers are Marked.
 - *5 more blessings to find, and 2 duos shared with another god.*
 
 ## Vidar
@@ -96,7 +97,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 
 *The hunt, archery, skis, winter travel.* Favour comes from: Bow and thrown kills; long-range headshots; hunting animals; travelling far across snow. Offerings: Deer trophies, feathers, fine wood, wolf pelts.
 
-- <img src="assets/icons/blessing/snowfield_glide.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Snowfield Glide** (Common): +12% movement speed on snow and ice; no stamina drain from running while wielding a bow.
+- <img src="assets/icons/blessing/snowfield_glide.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Snowfield Glide** (Common): +12% movement speed on snow and ice (the Mountain and Deep North); no stamina drain from running while wielding a bow.
 - <img src="assets/icons/blessing/yew_hall_draw.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Yew-Hall Draw** (Common): Bow draw speed +8%; fully drawn shots deal +6% damage and Chill.
 - <img src="assets/icons/blessing/hunter_without_peer.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Hunter Without Peer** (Rare): Your first hit on each enemy applies Marked; Bow and Thrown damage +15% vs Marked.
 - <img src="assets/icons/blessing/shield_ship_crossing.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Shield-Ship Crossing** (Rare): About 5 times a minute, blocking with a shield grants a Frost Shield for 10% max HP that lasts about 10s; while Shielded, your arrows pierce 1 extra enemy.
@@ -128,7 +129,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 
 - <img src="assets/icons/blessing/battle_swine_s_bounty.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Battle-Swine's Bounty** (Common): Food health regen ticks heal 20% more; eating during combat grants Inspired for 6s.
 - <img src="assets/icons/blessing/falcon_feather_cloak.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Falcon-Feather Cloak** (Common): Dodge rolls travel 15% farther; holding jump while falling lets you glide, and fall damage is reduced by 50%.
-- <img src="assets/icons/blessing/freyja_s_necklace_discs.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Freyja's Necklace Discs** (Rare): Two golden discs orbit you at 3m, each dealing 10 Arcane damage on contact and Staggering light enemies (blessing Staggers share one budget: about 6 a minute in all); while Inspired, a third disc joins.
+- <img src="assets/icons/blessing/freyja_s_necklace_discs.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Freyja's Necklace Discs** (Rare): Two golden discs orbit you at 3m, each dealing 10 Arcane damage on contact and Staggering light enemies (300 HP or less; blessing Staggers share one budget: about 6 a minute in all); while Inspired, a third disc joins.
 - <img src="assets/icons/blessing/hearth_ring_of_magic.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Hearth Ring of Magic** (Rare): A 5m magic ring surrounds you: you heal 1% max HP/s and enemies inside take 4 Arcane damage/s; every 3s spent inside Curses them for 4s.
 - *6 more blessings to find, and 3 duos shared with another god.*
 
@@ -138,7 +139,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 
 - <img src="assets/icons/blessing/protector_s_shelter.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Protector's Shelter** (Common): Perfect blocks grant you and the nearest ally within 8m a 15 HP Shield for 6s.
 - <img src="assets/icons/blessing/spindle_of_clouds.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Spindle of Clouds** (Common): Rested lasts 30% longer; while Rested, the first hit you take every 20s is halved.
-- <img src="assets/icons/blessing/foreknown_blow.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Foreknown Blow** (Rare): Every 12s, the next enemy about to strike you is Marked 1s before its attack lands; parrying a Marked attacker Staggers it and grants Inspired for 5s.
+- <img src="assets/icons/blessing/foreknown_blow.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Foreknown Blow** (Rare): Every 12s, the next enemy about to strike you in melee is Marked 1s before its attack lands; parrying a Marked attacker Staggers it and grants Inspired for 5s.
 - <img src="assets/icons/blessing/messenger_s_errand.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Messenger's Errand** (Rare): Your Heals grant their targets +15% movement speed for 5s and cleanse Rooted and Wet.
 - *4 more blessings to find, and 1 duo shared with another god.*
 
@@ -182,7 +183,7 @@ There are 22 duo blessings. They are left for you to discover in play.
 - <img src="assets/icons/blessing/half_blue_visage.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Half-Blue Visage** (Common): Undead deal 15% less damage to you; about 15 times a minute a hit on an undead Curses it for 5s.
 - <img src="assets/icons/blessing/hel_s_dish.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Hel's Dish** (Common): Killing a Cursed enemy heals you for 4% max HP.
 - <img src="assets/icons/blessing/hel_s_sickbed.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Hel's Sickbed** (Rare): Enemies you Stagger are Cursed for 6s.
-- <img src="assets/icons/blessing/toll_of_the_hel_bridge.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Toll of the Hel Bridge** (Rare): Hitting a non-boss, non-elite enemy below 8% HP slays it outright; each such kill grants a 10 HP Shield for 6s.
+- <img src="assets/icons/blessing/toll_of_the_hel_bridge.png" width="28" height="28" style="vertical-align:middle;margin-right:6px" alt=""> **Toll of the Hel Bridge** (Rare): Hitting a non-boss, non-starred enemy below 8% HP slays it outright; each such kill grants a 10 HP Shield for 6s.
 - *4 more blessings to find, and 2 duos shared with another god.*
 
 ## Baldr

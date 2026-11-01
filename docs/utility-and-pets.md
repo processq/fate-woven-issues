@@ -1,6 +1,7 @@
 ---
 title: Utility and pets
-nav_order: 9
+nav_order: 7
+parent: The game
 description: "Utility abilities and pets in Fate Woven: Summon, mounts, totems and the other non-combat tools for Valheim."
 image: /assets/banner-utility-and-pets.jpg
 ---
@@ -66,7 +67,7 @@ Whistle: all your tames within 100m come running to you, and any that can't find
 
 Conjure a horn of mead for you alone: drink it for 3 minutes of a small buff the element picks. It uses no potion slot and does not stack with the same effect from a real mead; it is weaker than a brewed mead by default and grows with element runes, Lingering and the slots. Never combat damage.
 
-### Night Sight
+### <img src="assets/icons/ability/night_sight.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Night Sight
 
 *Rare | Survivalist | 0 none | 0s cooldown*
 
@@ -108,7 +109,7 @@ Toggle: carry a forge-flame until you press again or die. It smelts ore in your 
 
 A wild tameable creature you aim at stops being hostile and won't flee for 30s, so you can feed it safely.
 
-### Summon Mount
+### <img src="assets/icons/ability/summon_mount.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Summon Mount
 
 *Uncommon | Scout | 10 eitr | 3s cooldown*
 
@@ -152,8 +153,8 @@ Fell the tree you aim at, split it into logs and pull every dropped item within 
 ![An Arcane pet: a violet Dvergr mage with its lantern staff.](assets/shots/pet-arcane.png)
 *An Arcane pet: a violet Dvergr mage with its lantern staff.*
 
-The Summon ability calls a permanent pet. Its first element rune picks its body. Each element rune you add gives it that element's stats and abilities, unlocked at 1, 3 and 5 runes. It starts at half your height and grows as you add runes.  
-Press J to order it (attack, stay, follow). Press H to set its mode (passive, defend, aggressive). Click its name in the pet window to rename it.
+The Summon ability calls a permanent pet. Your first element rune picks its body. Every element rune you add gives it that element's stats and abilities, unlocked at 1, 3 and 5 runes. It starts at half your height and grows as you add runes.  
+Press J to give it orders (attack, stay, follow). Press H to set its mode (passive, defend, aggressive). Click its name in the pet window to rename it.
 
 | Element | Role | Creature |
 |---|---|---|

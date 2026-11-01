@@ -1,6 +1,7 @@
 ---
 title: Statuses
-nav_order: 6
+nav_order: 4
+parent: The game
 description: "Fate Woven statuses in Valheim: what Burning, Chilled, Marked and the others do, and how to apply them."
 image: /assets/banner-statuses.jpg
 ---
@@ -122,7 +123,7 @@ Staggered twice within 6s by Earth hits: turned to stone: cannot act and takes +
 
 ### Smothered (Any (Smother))
 
-A bubble of the element covers the head: cannot move, attack or cast. Takes a little damage each second, rising 15% a second. The bubble has a shell that hits can break, which ends the effect. Creatures that don't breathe (undead, spirits, golems, Surtlings) are Blinded instead. Large and Boss creatures follow the control meter. Then immune to Smothered for 8s. Cards may set their own duration or a stronger version; that only changes that application. Lasts 3s.
+A bubble of the element covers the head: cannot move, attack or cast. Takes a little damage each second, rising 15% a second. The bubble has a shell that hits can break, which ends the effect. Creatures that don't breathe (undead, spirits, golems, Surtlings) are Blinded instead. Large creatures take it at once at half length; Boss creatures follow the control meter. Then immune to Smothered for 8s. Cards may set their own duration or a stronger version; that only changes that application. Lasts 3s.
 
 ### <img src="assets/icons/status/staggered.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Staggered (Earth / Steel (native Valheim))
 

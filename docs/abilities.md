@@ -1,6 +1,7 @@
 ---
 title: Abilities
-nav_order: 3
+nav_order: 1
+parent: The game
 description: "Every Fate Woven ability for Valheim: base abilities, signatures and utilities, with costs, cooldowns and what they do."
 image: /assets/banner-abilities.jpg
 ---
@@ -18,7 +19,7 @@ Every ability costs eitr or stamina and has a cooldown. The element shown is the
 
 *Common | Nature | Target (40m) | 15 eitr | 10s cooldown*
 
-Roots burst under one enemy: it is Rooted for 10s and takes 1 element damage a second while the root holds, and gains the element's status. Bosses are Slowed 40% for the same time instead.
+Roots burst under one enemy: it is Rooted for 10s and takes 1 element damage a second while the root holds, and gains the element's status. It can't be rooted again for 6s afterwards. Bosses are Slowed 40% for the same time instead.
 
 ### <img src="assets/icons/ability/blinding_glare.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Blinding Glare
 
@@ -48,7 +49,7 @@ Fire a rune-chain at one enemy up to 25m: it is dragged to you (large enemies ha
 
 *Rare | Frost | Target (20m) | 20 eitr | 18s cooldown*
 
-0.8s cast (you can't swing or cast during it): a bubble of the element forms around one enemy's head within 20m: it is Smothered for 3s and cannot move, attack or cast. It takes 6 element damage a second, rising 15% each second. The bubble has a shell of 60 that anyone's hits can break; breaking it ends the smothering and bursts for one second of the current damage. Creatures that don't breathe (undead, spirits, golems, Surtlings) are Blinded for 4s instead (their attacks miss 40% of the time) and take no damage. Large creatures and bosses follow the control meter, as for any hard control. Water creatures are only smothered by Fire, Lightning and Steel. Two smothers on one enemy don't stack; a new one replaces the old. Idea from Richard's son.
+0.8s cast (you can't swing or cast during it): a bubble of the element forms around one enemy's head within 20m: it is Smothered for 3s and cannot move, attack or cast. It takes 6 element damage a second, rising 15% each second. The bubble has a shell of 60 that anyone's hits can break; breaking it ends the smothering and bursts for one second of the current damage. Creatures that don't breathe (undead, spirits, golems, Surtlings) are Blinded for 4s instead (their attacks miss 40% of the time) and take no damage. Large creatures take it at once at half length, then are immune for 6s; bosses follow the control meter, as for any hard control. Water creatures are only smothered by Fire, Lightning and Steel. Two smothers on one enemy don't stack; a new one replaces the old. Idea from Richard's son.
 
 ### <img src="assets/icons/ability/warding_wall.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Warding Wall
 
@@ -74,7 +75,7 @@ Speak a word of stillness at one enemy: it is Stunned for 3s, unable to move, at
 
 *Epic | Holy | Fallen ally (5m), channel | 60 eitr | 600s cooldown*
 
-Channel 3s over a fallen ally to revive them where they fell at 30% HP with 2s of invulnerability.
+Channel 3s over an ally who fell in the last 60s to revive them where they fell at 30% HP with 2s of invulnerability.
 
 ### <img src="assets/icons/ability/mending_touch.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Mending Touch
 
@@ -94,7 +95,7 @@ Ward an ally with a shield absorbing 48 damage for 15s. It doesn't refill: only 
 
 *Common | Arcane | Projectile (charged) | 4 eitr | 2s cooldown*
 
-Hold to gather for up to 2s, then release one bolt: 30 element damage on a tap, rising to 90 at a full 2s (+30 per second held). It costs 4 eitr plus 4 per second held. A full charge applies the element's status.
+Hold to gather for up to 2s, then release one bolt: 30 element damage on a tap, rising to 90 at a full 2s (+30 per second held). It costs 4 eitr plus 4 per second held. Its element's status lands from half charge.
 
 ### <img src="assets/icons/ability/rune_bolt.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Rune Bolt
 
@@ -162,7 +163,7 @@ Physical stance (no eitr; only one physical stance at a time): +12% melee and un
 
 *Common | Fire | Weapon enchant (toggle) | 20 eitr | 3s cooldown*
 
-Weapon enchant (reserves 20 eitr; one weapon enchant at a time): while on, your weapon attacks (melee, bow, crossbow or thrown) add 12% of their damage as element damage, and about 20 times a minute a hit applies the element's status.
+Weapon enchant (reserves 20 eitr; one weapon enchant at a time): while on, your plain weapon attacks (melee, bow, crossbow or thrown; not abilities) add 12% of their damage as element damage, and about 20 times a minute a hit applies the element's status.
 
 ### <img src="assets/icons/ability/wolf_form.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Wolf Form
 
@@ -214,7 +215,7 @@ Leave a decoy (with Shadow, the default, a fetch: a hollow double of yourself) w
 
 *Common | Steel | Ground-target totem | 25 eitr | 60s cooldown*
 
-Plant a support totem (100 HP) for 300s; planting is an 8s channel. Every 3s it pulses in 7m: allies inside gain half of the element's Buff effect, which lasts 8s after each pulse (Steel, the default: +11 armor, half of Steel's buff; Earth: can't be Staggered at half strength; Lightning +5% attack speed; and so on).
+Plant a support totem (100 HP; only one at a time) for 300s; planting is an 8s channel. Every 3s it pulses in 7m: allies inside gain half of the element's Buff effect, which lasts 8s after each pulse (Steel, the default: +11 armor, half of Steel's buff; Earth: can't be Staggered at half strength; Lightning +5% attack speed; and so on).
 
 ### <img src="assets/icons/ability/trapper_s_cache.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Trapper's Cache
 
@@ -226,7 +227,7 @@ Plant a support totem (100 HP) for 300s; planting is an 8s channel. Every 3s it 
 
 *Common | Frost | Ground-target totem | 25 eitr | 60s cooldown*
 
-Plant a war totem (100 HP) for 300s; planting is an 8s channel. Every 3s it fires a bolt at one enemy within 15m for 5 element damage, applying the element's status.
+Plant a war totem (100 HP; only one at a time) for 300s; planting is an 8s channel. Every 3s it fires a bolt at one enemy within 15m for 5 element damage, applying the element's status.
 
 ## Support
 

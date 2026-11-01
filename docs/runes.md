@@ -1,6 +1,7 @@
 ---
 title: Runes
-nav_order: 4
+nav_order: 2
+parent: The game
 description: "Fate Woven runes explained: Common to Legendary modifier runes, rune sets and how they change an ability."
 image: /assets/banner-runes.jpg
 ---
@@ -10,7 +11,7 @@ image: /assets/banner-runes.jpg
 # Runes
 {: .visually-hidden}
 
-Each ability has an element slot, a few normal slots, an Epic slot and a Legendary slot. Runes of the same element stack: about +20% in a normal slot, +25% in the Epic slot, +30% in the Legendary slot. Epic and Legendary runes also change how an ability plays and break an enemy's resistance to their element for a few seconds.
+Each ability has an element slot, a few normal slots, an Epic slot and a Legendary slot. Runes of the same element stack: about +20% in a normal slot, +25% in the Epic slot and +30% in the Legendary slot. Epic and Legendary runes also change how an ability plays, and they break an enemy's resistance to their element for a few seconds.
 
 Rune slots: one **element** slot, a few **normal** slots, one **Epic** slot and one **Legendary** slot. Runes of the same element stack.
 
@@ -123,7 +124,7 @@ Casting this ability doesn't break your weapon's attack chain: the chain pauses 
 
 ### <img src="assets/icons/rune/hearth_warmth.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Hearth-Warmth
 
-Allies this ability touches (you included) lose every harmful status, from any source (Burning, Venom, Bleeding, Chilled, Cold, Wet, Freezing, Rooted, Slowed, Cursed and the rest), and for 30s are protected from Cold, Wet and Freezing, and harmful statuses put on them wear off 50% faster. This is the cleansing rune. Stacks: each extra copy adds 30s.
+Players this ability touches (you included, not pets) lose every harmful status, from any source (Burning, Venom, Bleeding, Chilled, Cold, Wet, Freezing, Rooted, Slowed, Cursed and the rest), and for 30s are protected from Cold, Wet and Freezing, and harmful statuses put on them wear off 50% faster. This is the cleansing rune. Stacks: each extra copy adds 30s.
 
 ### <img src="assets/icons/rune/kinship.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Kinship
 
@@ -167,7 +168,7 @@ Shots are silent: they don't alert or wake creatures where they fly or land. An 
 
 ### <img src="assets/icons/rune/sleep_thorn.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Sleep-Thorn
 
-This ability's control effect becomes Asleep instead: it lasts twice as long, but any damage to the target wakes it. Stacks: each extra copy fills a Large or Boss creature's control meter 50% more per application, so sleep lands sooner (Large: 2 applications, then 1 from 3 copies; Boss: about 8, then 6, then 4). It never lasts longer than 2x.
+This ability's control effect becomes Asleep instead: it lasts twice as long, but any damage to the target wakes it. Stacks: each extra copy fills a Boss creature's control meter 50% more per application, so sleep lands sooner (about 8 applications, then 6, then 4). It never lasts longer than 2x.
 
 ### <img src="assets/icons/rune/split.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Split
 
