@@ -13,6 +13,24 @@ image: /assets/banner-whats-new.jpg
 Fate Woven is in beta, and every release is listed here, newest first. Please report bugs, issues and requests on the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose).
 
 
+## 0.2.1631 (beta)
+- Co-op: Root Rune's and Drake Rune's end effects now work on enemies another player's game runs.
+- Co-op: Thornroot and Dread Howl's Pull now catch enemies another player's game runs.
+- Co-op: Valkyrie's Strife waits until the control ends, on any player's enemies.
+- Co-op: Drowsing Field from another player keeps enemies asleep, and the first hit on a sleeper deals double.
+- Co-op: Draugr Rot's faster Venom and set-bonus status durations reach enemies another player's game runs.
+- The Great Sea-Wall now protects allies inside it too.
+- Damage cuts from Song Beneath the Shield, the Sea-Wall and "enemies deal less" effects now cover every damage type.
+- Thrown Voice tells you where your cast came from, and gather quests count every matching item at the hand-in.
+- These now work on enemies another player's game runs: Root Rune's and Drake Rune's end effects, Thornroot, Dread Howl's Pull, Draugr Rot's faster Venom, and Valkyrie's Strife (it now waits until the control ends).
+- Drowsing Field cast by another player keeps enemies asleep between pulses, sends far fewer network messages, and the first hit on a sleeper deals double for everyone.
+- Set-bonus status durations now apply on bow and weapon hits against enemies another player's game runs.
+- Ash Veil and Stormshade make enemies lose track of covered allies more reliably.
+- The Great Sea-Wall now cuts damage for allies inside it too, for every damage type.
+- Song Beneath the Shield's damage cut, and the "enemies deal less" effects (Fimbulwinter, Níðstang and similar), now cut every damage type.
+- Thrown Voice tells you where your cast came from (the nearest summon, totem, wall or pillar), or that it came from you when nothing is within 30 m.
+- Gather quests count every matching item you carry when you hand in.
+
 ## 0.2.1617 (beta)
 - Carried Threads: after a Re-weave, the ability and rune you carry over wait in a second window under your draft, and you still make one pick.
 - The top quest rewards are now called Legacy Rewards, and the Compendium and first-time hints are rewritten in plainer words (hints cut to the ten that matter).
