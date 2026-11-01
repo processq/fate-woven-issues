@@ -1,9 +1,13 @@
 ---
 title: Statuses
 nav_order: 6
+description: "Fate Woven statuses in Valheim: what Burning, Chilled, Marked and the others do, and how to apply them."
 ---
 
-![Statuses](assets/banner-statuses.png)
+![Statuses](assets/banner-statuses.jpg)
+
+# Statuses
+{: .visually-hidden}
 
 ## Buff
 

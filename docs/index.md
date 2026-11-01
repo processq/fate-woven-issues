@@ -1,10 +1,14 @@
 ---
 title: Home
 nav_order: 1
+description: "Fate Woven is a Valheim mod: draft abilities and runes as you level, build with sockets, serve the gods, take quests and Re-weave. Public beta."
 permalink: /
 ---
 
-![Home](assets/banner-home.png)
+![Home](assets/banner-home.jpg)
+
+# Fate Woven: build your Viking
+{: .visually-hidden}
 
 Fate Woven adds a full ability and build system to Valheim. You level up by fighting and draft new abilities and runes as you go. Runes don't just add numbers, they change how your abilities work: bolts split, heals pulse, strikes spin.
 

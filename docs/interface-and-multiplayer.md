@@ -1,9 +1,13 @@
 ---
 title: Interface and multiplayer
 nav_order: 12
+description: "Fate Woven's windows, keys and settings, and how it plays in Valheim multiplayer and on servers."
 ---
 
-![Interface and multiplayer](assets/banner-interface-and-multiplayer.png)
+![Interface and multiplayer](assets/banner-interface-and-multiplayer.jpg)
+
+# Interface and multiplayer
+{: .visually-hidden}
 
 ### Interface
 

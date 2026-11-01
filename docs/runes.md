@@ -1,9 +1,13 @@
 ---
 title: Runes
 nav_order: 4
+description: "Fate Woven runes explained: Common to Legendary modifier runes, rune sets and how they change an ability."
 ---
 
-![Runes](assets/banner-runes.png)
+![Runes](assets/banner-runes.jpg)
+
+# Runes
+{: .visually-hidden}
 
 Each ability has an element slot, a few normal slots, an Epic slot and a Legendary slot. Runes of the same element stack: about +20% in a normal slot, +25% in the Epic slot, +30% in the Legendary slot. Epic and Legendary runes also change how an ability plays and break an enemy's resistance to their element for a few seconds.
 

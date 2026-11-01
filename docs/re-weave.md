@@ -1,9 +1,13 @@
 ---
 title: Re-weave and Hel's Road
 nav_order: 11
+description: "Re-weave in Fate Woven: restart at level 60 for lock-ins, with Undo, and the optional one-life Hel's Road."
 ---
 
-![Re-weave and Hel's Road](assets/banner-re-weave.png)
+![Re-weave and Hel's Road](assets/banner-re-weave.jpg)
+
+# Re-weave and Hel's Road
+{: .visually-hidden}
 
 ## Re-weave
 

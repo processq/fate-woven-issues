@@ -1,9 +1,13 @@
 ---
 title: Getting started
 nav_order: 2
+description: "How Fate Woven works in Valheim: levels and drafts, the ability bar, runes, blessings and what to do first."
 ---
 
-![Getting started](assets/banner-getting-started.png)
+![Getting started](assets/banner-getting-started.jpg)
+
+# Getting started
+{: .visually-hidden}
 
 ### The Idea
 

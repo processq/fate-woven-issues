@@ -1,9 +1,13 @@
 ---
 title: Elements
 nav_order: 5
+description: "The twelve Fate Woven elements for Valheim and what each does to your abilities and your build."
 ---
 
-![Elements](assets/banner-elements.png)
+![Elements](assets/banner-elements.jpg)
+
+# Elements
+{: .visually-hidden}
 
 There are twelve elements. Each fits a role, but you can mix them.
 

@@ -1,9 +1,13 @@
 ---
 title: Utility and pets
 nav_order: 9
+description: "Utility abilities and pets in Fate Woven: Summon, mounts, totems and the other non-combat tools for Valheim."
 ---
 
-![Utility and pets](assets/banner-utility-and-pets.png)
+![Utility and pets](assets/banner-utility-and-pets.jpg)
+
+# Utility abilities and pets
+{: .visually-hidden}
 
 Utility abilities help you survive and travel. They never deal damage and fit only in the two utility slots.
 

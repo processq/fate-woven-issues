@@ -1,9 +1,13 @@
 ---
 title: Abilities
 nav_order: 3
+description: "Every Fate Woven ability for Valheim: base abilities, signatures and utilities, with costs, cooldowns and what they do."
 ---
 
-![Abilities](assets/banner-abilities.png)
+![Abilities](assets/banner-abilities.jpg)
+
+# Abilities
+{: .visually-hidden}
 
 Every ability costs eitr or stamina and has a cooldown. The element shown is the default; an element rune in the ability changes it.
 

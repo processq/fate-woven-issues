@@ -1,9 +1,13 @@
 ---
 title: Gods and blessings
 nav_order: 7
+description: "Seventeen gods, favour and blessings in Fate Woven: how to earn favour with offerings and which blessings you can socket."
 ---
 
-![Gods and blessings](assets/banner-gods.png)
+![Gods and blessings](assets/banner-gods.jpg)
+
+# Gods and blessings
+{: .visually-hidden}
 
 Please the gods with deeds and offerings to earn blessings. Blessings are passive powers and never take an ability slot. Two gods' blessings can pair into a duo.
 

@@ -1,9 +1,13 @@
 ---
 title: Rune sets
 nav_order: 8
+description: "Fate Woven rune sets by biome: the pieces, where they come from and what the set bonuses do."
 ---
 
-![Rune sets](assets/banner-sets.png)
+![Rune sets](assets/banner-sets.jpg)
+
+# Rune sets
+{: .visually-hidden}
 
 
 > **More to come: Set bonuses**
