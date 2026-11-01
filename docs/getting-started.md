@@ -11,7 +11,7 @@ Fate Woven gives you spells. You earn XP from fights, and each level offers thre
 
 ### Levels And Drafts
 
-Levels 1 to 3 offer abilities only. After that, even levels offer runes and odd levels offer abilities. Utility abilities start at level 11. The top level is 60. Every boss you beat gives a reroll token and a draft of strong runes. You can own the same ability twice, each with its own runes.
+Levels 1 to 3 offer abilities only. After that, even levels offer runes and odd levels offer abilities. Utility abilities start at level 11. The top level is 60. Every boss you beat gives a draft of strong runes. You can own the same ability twice, each with its own runes.
 
 ### Keys
 

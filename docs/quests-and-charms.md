@@ -18,7 +18,7 @@ nav_order: 10
 Quests are posted on the **quest board**, a piece you build with the hammer (it needs a Hard antler from Eikthyr, 10 Wood and 5 Leather scraps, at a workbench). You can build as many as you like. Press E to read the notices.
 
 - Each character has their own three notices at a time, and a new one appears about once an in-game day.
-- A notice's biome follows your world: it is the biome after the highest boss you have beaten there (Meadows before Eikthyr, the Black Forest after, and so on). Your level does not decide it.
+- Notices follow the Charm you wear: with no Charm you are offered Meadows notices. A notice at the tier of the Charm you hold pays its full rewards; an easier notice pays XP only, and harder ones are not offered. Your level does not decide it.
 - Take a notice, do it, and hand it in at a board. Kill quests are handed in at a board too.
 - **Sharing:** press Share to offer a quest to players within about 10 m. If they accept, you share one progress count, the target grows with more people, and each player gets their own reward roll.
 
@@ -26,11 +26,13 @@ Quests are posted on the **quest board**, a piece you build with the hammer (it 
 
 There are 53 quests across the Meadows to the Ashlands: 9 Meadows, 9 Black Forest, 7 Swamp, 7 Mountains, 7 Plains, 7 Mistlands, 7 Ashlands. The kinds are: kill a creature count or one named target, gather items, deliver items, and clear a nest or a dungeon.
 
+**Epic quests** ask you to clear a place: kill a set number of enemies at a named location, such as the Burial Chambers or the Frost Caves, 150 to 2000 m from the board. They are rarer, and they are the quests that can pay a Unique.
+
 ## Rewards
 
 Every reward has a tier, from Common to Legendary, and your notice's rarity sets the odds. Rewards include XP bundles, extra draft choices, rerolls, banishes and locks for your drafts, favour with the gods, blessings, tokens, and permanent perks.
 
-There are 44 permanent Unique rewards. They are left for you to discover in play. Some are chains where each stage unlocks the next.
+There are 43 permanent Unique rewards. They are left for you to discover in play. Some are chains where each stage unlocks the next.
 
 
 > **More to come: Legendary quests**
@@ -39,7 +41,7 @@ There are 44 permanent Unique rewards. They are left for you to discover in play
 
 ## Rune Charms
 
-A Charm is a crafted item that raises the power of all your abilities. It has its own equipment slot (right-click it in your inventory to equip it), and you can wear one at a time. With no Charm you are at x1.00.
+A Charm is a crafted item that raises the power of all your abilities. It has its own equipment slot (right-click it in your inventory to equip it). **You can hold only one Charm at a time**, and a Charm can't be dropped, stored in a chest or traded; crafting a higher one asks first before it replaces the old one. With no Charm you are at x1.00.
 
 | Charm | Station | Recipe | Strength |
 |---|---|---|---|
@@ -56,10 +58,7 @@ A Charm is a crafted item that raises the power of all your abilities. It has it
 
 The first item of each recipe is a boss drop and is needed only once. Charms upgrade like vanilla tools, up to quality 4: each level above 1 adds 5% to the Charm's strength (15% at the top), and an upgrade takes the recipe again except for its first item.
 
-
-> **More to come: Elemental and Greater Charms**
-> Legendary quests can pay Charms tuned to one element, and Greater Charms that go beyond the Flametal Charm.
-> They cannot be crafted.
+**Special Charms.** Legendary rewards can pay Elemental Charms (one element boosted) and Greater Charms (above the Flametal Charm). They are kept in a **Charms list** in the Mastery screen (or right-click the worn Charm), and you switch your Charm into a special form from there when you hold a crafted Charm of its tier. A Re-weave never loses them.
 
 ## <img src="assets/icons/piece/altar_of_the_gods.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> The Altar of the Gods and your Favour list
 

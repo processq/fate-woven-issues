@@ -18,6 +18,7 @@ Build a tank, healer, controller, summoner, damage dealer, or any mix you can im
 - 12 rune sets with set bonuses.
 - Levels 1 to 60, with mastery: every ability gets stronger the more you use it.
 - A quest board with notices for every biome, and seven Rune Charms you craft from boss drops ([Quests and charms](quests-and-charms.md)).
+- Re-weave: at level 60, start over for lock-ins that join every later run ([Re-weave and Hel's Road](re-weave.md)).
 - [What's new](whats-new.md): every beta release, newest first.
 
 ## Start here

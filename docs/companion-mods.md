@@ -1,9 +1,9 @@
 ---
 title: Companion mods
-nav_order: 12
+nav_order: 13
 ---
 
-# Companion mods
+![Companion mods](assets/banner-companion-mods.png)
 
 **Fate Woven's later game is balanced around [Creature Level and Loot Control](https://thunderstore.io/c/valheim/p/Smoothbrain/CreatureLevelAndLootControl/) (CLLC).** Fate Woven never changes enemies, so on plain Valheim it will feel easy. An enemy-scaling mod such as CLLC gives the late game its challenge, and we recommend using one.
 
