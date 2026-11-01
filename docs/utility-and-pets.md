@@ -2,6 +2,7 @@
 title: Utility and pets
 nav_order: 9
 description: "Utility abilities and pets in Fate Woven: Summon, mounts, totems and the other non-combat tools for Valheim."
+image: /assets/banner-utility-and-pets.jpg
 ---
 
 ![Utility and pets](assets/banner-utility-and-pets.jpg)

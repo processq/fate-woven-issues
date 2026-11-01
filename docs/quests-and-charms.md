@@ -2,6 +2,7 @@
 title: Quests and charms
 nav_order: 10
 description: "Fate Woven quests, the quest board, Rune Charms and the Altar of the Gods: tiers, rewards and how Charms power your abilities."
+image: /assets/banner-quests-and-charms.jpg
 ---
 
 ![Quests and charms](assets/banner-quests-and-charms.jpg)

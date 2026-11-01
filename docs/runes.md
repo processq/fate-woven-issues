@@ -2,6 +2,7 @@
 title: Runes
 nav_order: 4
 description: "Fate Woven runes explained: Common to Legendary modifier runes, rune sets and how they change an ability."
+image: /assets/banner-runes.jpg
 ---
 
 ![Runes](assets/banner-runes.jpg)

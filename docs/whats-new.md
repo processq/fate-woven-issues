@@ -2,6 +2,7 @@
 title: What's new
 nav_order: 14
 description: "Every Fate Woven beta release, newest first."
+image: /assets/banner-whats-new.jpg
 ---
 
 ![What's new](assets/banner-whats-new.jpg)

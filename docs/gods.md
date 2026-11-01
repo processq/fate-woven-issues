@@ -2,6 +2,7 @@
 title: Gods and blessings
 nav_order: 7
 description: "Seventeen gods, favour and blessings in Fate Woven: how to earn favour with offerings and which blessings you can socket."
+image: /assets/banner-gods.jpg
 ---
 
 ![Gods and blessings](assets/banner-gods.jpg)

@@ -2,6 +2,7 @@
 title: Abilities
 nav_order: 3
 description: "Every Fate Woven ability for Valheim: base abilities, signatures and utilities, with costs, cooldowns and what they do."
+image: /assets/banner-abilities.jpg
 ---
 
 ![Abilities](assets/banner-abilities.jpg)
