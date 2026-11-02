@@ -56,6 +56,12 @@ Everything is on by default. Set one to false to leave that part out of the game
 | Release > UtilityAndSaga | Utility abilities and the two utility slots. |
 | Release > CardsOff | Content packs or cards to switch off, separated by commas. A pack's folder name switches off its new cards; a card's name switches off that card. |
 
+### PvP
+| Setting | Default | What it does |
+|---|---|---|
+| Fate Woven PvP | off | When on, players who both have Valheim's PvP switch on can hurt each other with Fate Woven abilities. Hard control becomes a short Slow on players, killing a player gives no XP or kill effects, and a PvP death skips the death penalty and doesn't end a Hel's Road run. Off: co-op, Fate Woven abilities never hurt players. |
+| PvP damage % | 40 | How much of Fate Woven's ability damage reaches another player (and their pets) in PvP. Plain weapon swings stay as in Valheim; only Fate Woven's added bonus is cut. |
+
 ### Re-weave and Hel's Road
 | Setting | Default | What it does |
 |---|---|---|
@@ -77,7 +83,7 @@ These affect only your PC.
 | Visuals > CompendiumEntries | true | Fate Woven's entries in the compendium. |
 | UI > PetHealthShows | numbers | What the pet window's health bar shows: numbers, percent or none. |
 
-All keys can be changed too, in the Keys section. See [Companion mods](companion-mods.md) for keys that clash with other mods.
+**Every key can be changed** in the Keys section, and there are three ways to cast. The most popular: configurable hotkeys for each bar slot. Set each one to any key you like, such as the numpad, and one press casts that ability. Or ready an ability with the on-screen wheel (hold B and flick toward it), or step with [ and ], then press Cast. See [Companion mods](companion-mods.md) for keys that clash with other mods.
 
 
 ---

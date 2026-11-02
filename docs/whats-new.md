@@ -13,6 +13,31 @@ image: /assets/banner-whats-new.jpg
 Fate Woven is in beta, and every release is listed here, newest first. Please report bugs, issues and requests on the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose).
 
 
+## 0.2.1673 (beta)
+- PvP is here as a server setting, off by default: hard control becomes a short Slow, ability damage to players is 40% by default, and player kills give no XP.
+- Everyone in a game must now run the exact same Fate Woven version; a different version can't join.
+- Damage bonuses and damage-taken cuts now apply to spell damage as their cards say, so spell builds feel stronger.
+- Hel's Leech triggers far more easily: a Bleeding enemy busy with someone else counts as unaware.
+- Spell Pair also copies the rune in the element slot, as its card says.
+- Trapper's Cache sets its trap right in front of you instead of at the crosshair.
+- Hearth Shelter's hut darkens at night and its fire is fully purple-pink.
+- Your pet now stays with you through death, with no second pet after a respawn.
+- Co-op is smoother with far fewer network messages, and effects that end later now fire on time on other players' enemies.
+- The first casts of Summon, Rune Bolt and Hearth Shelter no longer stutter.
+- New server setting "Fate Woven PvP" (off by default): when it is on and both players have Valheim's PvP switch on, Fate Woven abilities can hurt each other. Hard control becomes a short Slow on players, our ability damage to players is 40% by default ("PvP damage %"), killing a player gives no XP or kill effects, and a PvP death skips the death penalty and doesn't end a Hel's Road run. Pets and thralls of the other player take the same cut.
+- Everyone in a game must run the exact same Fate Woven version; a different version can't join. (Before, it only warned within 0.2.x.)
+- Co-op is smoother, with far fewer network messages for moving spell effects, stacked statuses, short ally buffs and totem heals.
+- Old saves now rename merged runes in drafts that are waiting, too.
+- Co-op "when it ends" effects (Root Rune, Drake Rune, Valkyrie's Strife, Dread Howl's Pull) now fire on time on enemies another player's game runs.
+- Spell Pair now also copies the rune in the ability's element slot to the next ability, as its card says.
+- Trapper's Cache now sets its trap right in front of you instead of at the crosshair. Hunter's Tether still puts its trap under its enemy.
+- Hel's Leech: a Bleeding enemy that's busy with someone else counts as unaware, so it triggers far more easily.
+- Damage bonuses and damage-taken cuts now apply to spell damage as their cards say (the Boon's spell bonus, blessings' cuts and more). This makes spell builds with these bonuses noticeably stronger, and spell-damage cuts noticeably tougher.
+- Your pet now stays with you through death. Before, a respawn could call a second pet and leave the old one in the world.
+- Hearth Shelter's hut darkens at night like the world around it, and its fire is fully purple-pink.
+- The first casts of Summon, Rune Bolt and Hearth Shelter no longer stutter, because they are loaded while the world loads.
+- Fixed a harmless error in the log when logging out, and the first spell right after a teleport now aims correctly.
+
 ## 0.2.1631 (beta)
 - Co-op: Root Rune's and Drake Rune's end effects now work on enemies another player's game runs.
 - Co-op: Thornroot and Dread Howl's Pull now catch enemies another player's game runs.

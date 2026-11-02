@@ -10,19 +10,11 @@ image: /assets/banner-known-issues.jpg
 # Known issues
 {: .visually-hidden}
 
-Fate Woven is in beta and changes fast, so here is what we know is not finished or not tested yet. If you hit any of these, or something not listed, please tell us on the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose) or on Discord. Set General > Logging to Detailed first and attach `BepInEx/LogOutput.log`.
-
-## Built, but not fully tested yet
-- **Gallows-Speech's raised servant.** Raising works; the servant fighting isn't checked yet.
-- **Legendary rune fixes.** Not yet tested: Web of Fate's tie rule, Giant's Guile's strength, Iron Ledger out of combat, Wolf-Warrior Bond's fear immunity and Spell Pair copies.
-- **Epic rune second copies.** Checked in testing, not yet in normal play: Totem Vessel, Eruption, Ward-Breaker Blow, Skyward Arc and Rampart of Spite.
-- **Old saves.** Characters with cards that have since been cut or renamed (Carried Threads, Full Sets, blessing offers) are handled, but haven't been tried with a real old save. Back up your character first.
+Fate Woven is in beta and changes fast, so here is what we know is not finished. If you hit any of these, or something not listed, please tell us on the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose) or on Discord. Set General > Logging to Detailed first and attach `BepInEx/LogOutput.log`.
 
 ## Rough edges
-- **Hearth Shelter:** casting it can cause a short stutter (one frame) on slower PCs, which we'll smooth in a later update. At night the walls keep the same faint glow instead of darkening. The fire is mostly purple with a little orange showing through. With the fade-in switched off, a rune panel can flash for one frame.
-- **Hel's Leech** needs an unaware enemy: it is hard to trigger on one you have already made Bleed, because the bleeding alerts it.
-- **Different versions can't join each other.** A player on an older version would also miss many of the new co-op effects, so everyone in a game must update together.
-- **PvP:** with PvP on, Fate Woven still treats other players as friends, by design. Only plain weapon damage works between players.
+- **Everyone in a game must run the exact same Fate Woven version.** A different version can't join, so update together.
+- **PvP (new, off by default).** A server host can turn on the "Fate Woven PvP" setting. In Valheim, your PvP switch turns off after you die until you open your inventory, even though its icon still shows on. With the setting off, Fate Woven treats other players as friends and only plain weapon damage works between them.
 
 ## Mods
 - **Creature Level and Loot Control 4.6.4** from Thunderstore crashes with this game version. Use version 5.x from Hexium.
