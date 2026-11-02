@@ -28,225 +28,225 @@ There are 163 Epic and Legendary runes. They are left for you to discover in pla
 
 ### <img src="assets/icons/rune/foe_reader.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Foe-Reader
 
-Your first hit on an enemy shows its resistances and weaknesses to every damage type on its health bar for 30s, for you and your group. Stacks: each extra copy adds 30s.
+Your first hit on a foe shows what it resists and what it's weak to.
 
 ### <img src="assets/icons/rune/frugal.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Frugal
 
--15% cost (stamina, eitr or health; also channel drain, stance entry and the eitr reserved by pets, auras and magic stances). Stacks: each extra copy adds another -15% (cost floor 50%).
+The ability costs 15% less.
 
 ### <img src="assets/icons/rune/haste.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Haste
 
--12% cooldown; crossbows also reload 25% faster, and traps arm instantly. Stacks: each extra copy adds another -12% (cooldown floor 40%).
+The ability cools down 12% faster.
 
 ### <img src="assets/icons/rune/lingering.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Lingering
 
-+20% duration (temporary summons and totems too; permanent pets unaffected). On heal-over-time the total extension is capped at +50%. Stacks: each extra copy adds another +20%.
+Effects last 20% longer.
 
 ### <img src="assets/icons/rune/reach.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Reach
 
-Melee +0.4m reach; projectiles +20% range and speed; beams and channels +4m; movement +25% distance; ground-target cast range +5m. Stacks: each extra copy adds the same again.
+Reaches farther: longer melee reach, faster and farther projectiles, longer beams and moves.
 
 ### <img src="assets/icons/rune/wisplight_rune.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Wisplight Rune
 
-Casting lights a 10m area for 30s and reveals hidden or stealthed enemies in it. Stacks: a 2nd copy makes the light a wisp that follows you for its 30s; a 3rd copy also pings buried treasure and ore veins within 20m once, on cast.
+Lights up the area and reveals hidden foes.
 
 ## Uncommon runes (14)
 
 ### <img src="assets/icons/rune/arrow_catcher.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Arrow-Catcher
 
-Works on enemy projectiles: zones, auras and walls slow enemy arrows and spells inside them by 50%; a shield blocks enemy projectiles outright, about 20 times a minute; your own projectiles shoot down enemy projectiles they touch. Stacks: each extra copy adds +25% slow (max 90%) and about 20 more blocks a minute.
+Your zones slow enemy projectiles, and your shields block them.
 
 ### <img src="assets/icons/rune/battle_fed.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Battle-Fed
 
-Each kill made by you or an ally under the effect (or inside it) extends it by 2s, up to +10s per cast. Stacks: each extra copy adds +1s per kill and +5s to the cap.
+Each kill made under its effect makes the effect last longer.
 
 ### <img src="assets/icons/rune/bounce.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Bounce
 
-After the first target, hops to 1 more target within 8m, one at a time. The cast's effect (damage, heals and shields, control and taunt time) is shared among all the targets on the shared curve: 2 targets get 76% each. Allies for heals and shields (hurt allies first), enemies otherwise. Stacks: each extra copy adds one more hop (3 targets: 64% each).
+After hitting, it hops on to one more target nearby. The effect is shared.
 
 ### <img src="assets/icons/rune/cone.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Cone
 
-Shape: the attack hits everything in a 70-degree cone in front of you out to its normal reach (projectiles: 10m). Each enemy caught takes 60% of the damage, with no target cap. Control and taunt time is 80% each. Heals and shields give 60% to each ally. Shape rune: only one shape rune (Cone, Nova, Beam, Downpour) per ability.
+Hits everything in a cone in front of you instead.
 
 ### <img src="assets/icons/rune/drifting.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Drifting
 
-The projectile flies at a third of its speed and lasts 3 times as long, hitting each enemy it passes once. It changes speed, not path, so it mixes with any path rune. Stacks: each extra copy makes it slower still and last longer (a quarter of its speed for 4 times as long, then a fifth for 5 times). Path rune: only one path rune (Drifting, Zigzag, Wild Path) per ability.
+The projectile flies much slower but lasts much longer, hitting everything it passes.
 
 ### <img src="assets/icons/rune/fork.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Fork
 
-On hit, branches at once to 2 more targets within 6m of the first. The cast's effect (damage, heals and shields, control and taunt time) is shared among all the targets on the shared curve: 3 targets get 64% each. Stacks: each extra copy adds one more branch (4 targets: 57% each).
+On hit, it branches to two more targets nearby. The effect is shared.
 
 ### <img src="assets/icons/rune/hamstring.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Hamstring
 
-Hits from behind (within 60 degrees of the enemy's back) Slow the enemy 30% for 3s. Behind means the angle, not whether it has noticed you. Several slows don't add up; the strongest applies. Stacks: each extra copy adds 1s.
+Hits from behind slow the foe.
 
 ### <img src="assets/icons/rune/shade_step.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Shade Step
 
-After the move you're Stealthed for 2s, and enemies within 10m of where you land lose track of you: they're unaware again, so your next hit on each is a sneak attack (vanilla's 5-minute sneak immunity still applies; bosses never lose track). Stealthed ends when you attack. Stacks: each extra copy adds 1s of Stealthed.
+After the move you're stealthed, and nearby foes lose track of you.
 
 ### <img src="assets/icons/rune/skating_ground.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Skating Ground
 
-You and your allies skate on the zone: +30% move speed, and dodge rolls go 50% further. Enemies aren't affected. Stacks: each extra copy adds +15% move speed.
+You and your allies move faster and dodge farther in the zone.
 
 ### <img src="assets/icons/rune/steady_footwork.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Steady Footwork
 
-Dodging, or using this movement ability, doesn't break your weapon chain: the chain pauses while you move, so you can roll mid-combo and keep the count. Unique: no stack line.
+Dodging doesn't break your weapon combo.
 
 ### <img src="assets/icons/rune/tar_pitch.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Tar Pitch
 
-Hits Tar the enemy for 4s (vanilla's Tarred): 50% slower and Very weak to Fire (x2) while it lasts, which sets up Fire for the group. Fire-immune creatures stay immune, and several slows don't add up. Whether Tarred's Fire weakness works on creatures is still to be tested. Stacks: each extra copy adds 1s.
+Hits tar the foe: it's slowed and weak to Fire.
 
 ### <img src="assets/icons/rune/twin_cast.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Twin Cast
 
-The ability makes 2 of what it makes (traps, summons, walls, projectiles) at 60% effect each, and its active limit rises by 1. Each extra permanent pet reserves its own eitr. Stacks: each extra copy adds one more (3 at 45%, 4 at 35%).
+Makes two of whatever the ability makes, each a bit weaker.
 
 ### <img src="assets/icons/rune/wild_path.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Wild Path
 
-Spell projectiles only (not bows, crossbows or thrown weapons): the projectile flies off on a random, uncontrolled path; +30% damage. With Split, each copy takes its own wild path. Path rune: only one path rune (Drifting, Zigzag, Wild Path) per ability.
+Spell projectiles fly a random path but hit much harder.
 
 ### <img src="assets/icons/rune/zigzag.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Zigzag
 
-Spell projectiles only (not bows, crossbows or thrown weapons): the projectile weaves back and forth but keeps going forward; +10% damage. Path rune: only one path rune (Drifting, Zigzag, Wild Path) per ability.
+Spell projectiles weave as they fly and hit a bit harder.
 
 ## Rare runes (20)
 
 ### <img src="assets/icons/rune/downpour.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Downpour
 
-Instead of one hit, the effect falls as rain on a 5m spot for 4s (on a spell, no bolt flies: the rain forms at the crosshair point): every enemy in the rain takes 22.5% of it each second (90% in all), with no full-damage centre and no target cap. A buff or debuff gains 22.5% of its duration for each second a target spends in the rain, up to 90%; a control lands once at 80% when a target first enters. Stacks: each extra copy makes the rain spot 1m wider. With Multistrike: the rain ticks once per strike each second. With Pulsing: every 3s everyone in the rain takes +25% of the rain's hit. Shape rune: only one shape rune (Cone, Nova, Beam, Downpour) per ability.
+The effect falls as rain on an area for a few seconds.
 
 ### <img src="assets/icons/rune/echo.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Echo
 
-Repeats the cast once, 1s after you cast it, at full strength (100%); on a short buff or shield, or on a lasting field, root or hex, the repeat comes when the first one ends instead, as part of the same cast: no extra cost, no on-cast effects, and echoes never echo, split or carry. Stacks: each extra copy adds one more repeat, each weaker than the last (50%, then 35%, then 25%).
+Repeats the cast 1 second later at full strength, for free.
 
 ### <img src="assets/icons/rune/flowing_chain.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Flowing Chain
 
-Casting this ability doesn't break your weapon's attack chain: the chain pauses while you cast and its action time runs, and your next swing continues where your last swing left it. If this ability is a melee strike (it uses your weapon), it also counts as the next step of the chain, so the strike after two swings lands as the x2 third hit. Unique: no stack line.
+Casting it doesn't break your weapon combo.
 
 ### <img src="assets/icons/rune/hearth_warmth.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Hearth-Warmth
 
-Players this ability touches (you included, not pets) lose every harmful status, from any source (Burning, Venom, Bleeding, Chilled, Cold, Wet, Freezing, Rooted, Slowed, Cursed and the rest), and for 30s are protected from Cold, Wet and Freezing, and harmful statuses put on them wear off 50% faster. This is the cleansing rune. Stacks: each extra copy adds 30s.
+Cleanses every harmful status from every player it touches, and keeps cold and wet off them for a while.
 
 ### <img src="assets/icons/rune/kinship.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Kinship
 
-Also applies to all your summons and totems, wherever they are. On a debuff or control, the enemy each of your summons and totems is fighting also gets it at 40%.
+Its effect also reaches all your summons and totems.
 
 ### <img src="assets/icons/rune/multistrike.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Multistrike
 
-Each use adds 2 extra strikes (on a bow or crossbow: 2 extra arrows or bolts). All the strikes share the effect on the shared curve (3 strikes: 64% each, control and taunt time too). Extra strikes prefer other enemies in reach and don't count as separate hits for hit counters (Trigger Strike and its siblings) or on-hit procs. On a channel, each tick gains one extra strike instead. Stacks: each extra copy adds one more strike (4 strikes: 57% each).
+Adds two extra strikes or arrows. The effect is shared.
 
 ### <img src="assets/icons/rune/nova.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Nova
 
-Shape: the attack hits everything in a ring all around you out to its normal reach (melee: weapon reach, and a melee strike plays a spin; projectiles and targeted spells: 8m). Each enemy caught takes 60% of the damage, with no target cap. Control and taunt time is 80% each. Heals and shields give 60% to each ally. Shape rune: only one shape rune (Cone, Nova, Beam, Downpour) per ability.
+Hits everything in a ring around you instead.
 
 ### <img src="assets/icons/rune/parry_rhythm.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Parry Rhythm
 
-For 8s after you cast this ability, a block or parry counts as a step of your weapon chain, so parry, swing, swing ends on the x2 third hit. Unique: no stack line.
+For a few seconds, blocks and parries count as combo hits.
 
 ### <img src="assets/icons/rune/pull.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Pull
 
-Drags enemies toward the centre: zones, auras and totems 1m per second; an instant area drags everyone in it 3m inward 1s after it lands. Large creatures move half as far; bosses aren't moved. A pull never drags enemies into or on top of you: pulled toward you, they stop at melee range in front of you.
+Drags foes toward its centre. Bosses don't move.
 
 ### <img src="assets/icons/rune/pulsing.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Pulsing
 
-Repeats the effect on its own target: while the effect lasts, every 3s its target gets 25% of it again (allies for buffs, heals and shields; the enemy for damage and debuffs). A control or debuff renews instead: each time it wears off (and any immunity ends), it is applied again to the same target at 25% of its time, up to 3 times. A lasting buff or stance surges: +25% of its effect for 1s every 3s. An instant hit pulses 3 times over the next 6s. Damage pulses don't re-apply the element's status. It never spreads to anyone new. On a damage projectile it pulses along the flight path instead: every 0.5s in flight, enemies within 2m of the projectile take 10% of its damage. Stacks: each extra copy pulses faster (every 3s, then 2s, 1.5s, 1.2s; an instant hit pulses 3, then 4, 6, 7 times over the 6s).
+Its effect repeats on the same target a few more times, weaker.
 
 ### <img src="assets/icons/rune/quiet_casting.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Quiet Casting
 
-This ability's casts make no noise, and casting it doesn't end your Stealthed unless the cast deals damage, so healers and support can work unseen. Unique: a second copy on the same ability adds nothing.
+Casts are silent and don't break your stealth unless they deal damage.
 
 ### <img src="assets/icons/rune/reaper_s_toll.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Reaper's Toll
 
-When this ability kills an enemy, its cost is refunded and its cooldown resets, about 6 times a minute at most. Stacks: each extra copy adds about 2 a minute to the budget.
+Kills refund its cost and reset its cooldown.
 
 ### <img src="assets/icons/rune/rhythm.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Rhythm
 
-Each 3-hit weapon chain you finish reduces this ability's cooldown by 1s and its cost by 10%. Stacks: each extra copy adds another 1s and 10% (the 40% cooldown and 50% cost floors still hold).
+Each three-hit combo you finish reduces the cooldown and cost of this ability.
 
 ### <img src="assets/icons/rune/silent_fletching.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Silent Fletching
 
-Shots are silent: they don't alert or wake creatures where they fly or land. An unaware enemy hit by a shot while you're Stealthed doesn't know where it came from: it searches for you for 4s instead of charging. Unique: a second copy on the same ability adds nothing.
+Shots are silent; foes hit from stealth don't know where it came from.
 
 ### <img src="assets/icons/rune/sleep_thorn.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Sleep-Thorn
 
-This ability's control effect becomes Asleep instead: it lasts twice as long, but any damage to the target wakes it. Stacks: each extra copy fills a Boss creature's control meter 50% more per application, so sleep lands sooner (about 8 applications, then 6, then 4). It never lasts longer than 2x.
+Its control puts the foe to sleep instead: twice as long, but any damage wakes it.
 
 ### <img src="assets/icons/rune/split.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Split
 
-When it ends (a projectile hits or expires, a zone or trap runs out), it splits into 2 smaller copies at 40% effect and half size and duration. A debuff that ends, or whose target dies, copies itself to 2 enemies within 6m at 40% effect and half duration. Copies don't split again. Stacks: each extra copy adds one more piece, and the pieces share their effect on the shared curve (2 pieces: 40% each; 3: 34% each; 4: 30% each).
+When it ends, it splits into two smaller copies at 40% strength.
 
 ### <img src="assets/icons/rune/starbane.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Starbane
 
-Hits deal +8% damage for each star the target has (a 3-star creature takes +24%, up to +80% at 10 stars or more); creatures with no stars take the normal damage. It reads the creature's level, so it works with Creature Level and Loot Control or Star Level System and does nothing without one of them (the rune is never offered in a draft without such a mod). Stacks: each extra copy adds +4% per star.
+More damage for each star on the target.
 
 ### <img src="assets/icons/rune/sweeping_third.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Sweeping Third
 
-When this strike lands as the third hit of your weapon chain (with Flowing Chain, or right after a chain's last swing), it also hits every enemy in a 3m arc in front of you for 60% (area rules apply). Stacks: each extra copy adds 1m.
+As the third hit of a combo, it also sweeps an arc in front of you.
 
 ### <img src="assets/icons/rune/tempered_hide.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Tempered Hide
 
-While this ability is on your bar, you take 10% less damage from every hit, of whatever type it is. Stacks: each extra copy adds another 10%, up to 30%.
+You take less damage from every hit.
 
 ### <img src="assets/icons/rune/wide.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Wide
 
-The area rune: it makes an area at the target (Nova makes the ring around you, Cone the cone in front). On a single-target ability the first copy turns the effect into a 5m area at 50% to everyone in it, the main target included, with no target cap. The area is centred on the main target, or, with no target, on the ground or structure under the crosshair: a spell projectile doesn't fly but forms its area at the crosshair point (an arrow or thrown weapon bursts where it lands); a heal, shield, buff or debuff reaches allies (or enemies) within 5m of the target; a melee swing hits enemies within 5m of the target. A self-cast buff becomes a 5m area around you at 50% to you and every ally in it, you included. On an area ability, and for each extra copy: +50% radius (walls +50% length). Fork, Bounce and Split copies of a Wide cast burst in a 2.5m area.
+Turns a single-target ability into an area. On an area ability, the area grows.
 
 ## Meta runes (14)
 
 ### <img src="assets/icons/rune/borrowed_rune.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Borrowed Rune
 
-Meta rune. Fits the Epic or Legendary slot. A copy of the rune in the slot directly to its left on this ability, and only that slot (in the Epic slot: normal slot 3; in the Legendary slot: the Epic slot), at the strength of the slot it sits in. It can't copy meta runes, element runes, Godsworn Runes or not-copyable runes. One meta rune per ability.
+Copies the rune in the slot to its left.
 
 ### <img src="assets/icons/rune/focus.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Focus
 
-Meta rune. Sits in the Epic slot: the rune in this ability's Legendary slot counts twice (x4 in total) for its effects only (damage, healing, shields, radius, duration, counts), never its proc rates, budgets or character-wide numbers; the 3 normal slots are locked empty. One per character. One meta rune per ability.
+The Legendary rune on this ability counts twice, but the normal slots stay empty. One per character.
 
 ### <img src="assets/icons/rune/gifted_rune.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Gifted Rune
 
-Meta rune. Sits in the Legendary slot. While allies are under this ability's buff, aura or song, the rune in this ability's Epic slot is also on their own abilities where it fits, at x1.0 (the Legendary slot's x2 doesn't apply). Leaving the buff ends it. Playing solo, it reaches your summons' attacks instead. Element runes, meta runes and not-copyable runes aren't given, and signatures receive nothing. One per character: only one Gifted Rune works across your whole character; another shows the red "No additional effect" mark. One meta rune per ability.
+Allies under this ability's buff get its Epic rune on their own abilities. One per character.
 
 ### <img src="assets/icons/rune/greater_borrowed_rune.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Greater Borrowed Rune
 
-Meta rune. Sits in the Legendary slot: the rune in this ability's Epic slot is also on every other slotted ability it fits, at full Epic-slot strength (the copies count as Epic-slot copies). Abilities the Epic can't fit get nothing, and signatures receive nothing. Copies of meta runes, element runes, Godsworn Runes and not-copyable runes don't count. If a receiving ability already has the same Epic, the copy adds nothing: copies never add an Epic's second-copy line, and never copy a Legendary. One per character: only one Greater Borrowed Rune works across your whole character; another shows the red "No additional effect" mark. It may share a bar with Shared Sigil (on a different ability), and every other ability gets both copies. One meta rune per ability.
+The Epic rune on this ability also works, full strength, on your other abilities. One per character.
 
 ### <img src="assets/icons/rune/greater_spare_socket.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Greater Spare Socket
 
-Meta rune. Sits in the Legendary slot: this ability gets three more slots, one second Epic slot (up to Epic, x1.6) and two normal slots (Common to Rare). One meta rune per ability.
+Gives this ability three more slots, one of them Epic.
 
 ### <img src="assets/icons/rune/keystone.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Keystone
 
-Meta rune. Sits in the Legendary slot and holds nothing else. This ability's three normal slots work at x2 instead of x1.0, and element runes in them give +40% each instead of +20%. Fork's 2 branches become 4, Haste becomes -24% a copy, and Wide's +50% radius becomes +100%. The Legendary slot's x2 doesn't apply on top. The cost and cooldown floors still hold, and downsides aren't doubled. The mirror of Focus. One meta rune per ability.
+This ability's normal slots count double. Holds nothing else.
 
 ### <img src="assets/icons/rune/kingstone.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Kingstone
 
-Meta rune. Sits in the Epic slot. The abilities in the bar slots on each side of this one get +30% to all their rune strength: normal slots x1.3, the Epic slot x1.9 and the Legendary slot x2.3; element runes on them gain 30% too (+20% becomes +26%). An ability gets the boost once, even with a Kingstone on each side. This ability itself gets nothing, meta runes on the neighbours aren't raised, and signatures get nothing. One meta rune per ability.
+The abilities on each side of this one get stronger runes.
 
 ### <img src="assets/icons/rune/manifold.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Manifold
 
-Meta rune. Sits in the Legendary slot. Every count on this ability doubles: Twin Cast copies, Split pieces, Fork branches, Bounce hops, Multistrike strikes and Echo repeats. The extra pieces keep the share each piece had before, so the total grows: Fork on 3 targets at 64% each becomes 5 targets at 64% each, 3.2 in all instead of 1.93. Spreads widen by 25 degrees. Summon and totem caps still hold. With no count runes it does nothing. The Legendary slot's x2 doesn't raise it again (counts double, never quadruple). One meta rune per ability.
+Doubles every count on this ability: copies, pieces, branches, hops, strikes and echoes.
 
 ### <img src="assets/icons/rune/one_of_many.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> One of Many
 
-Meta rune. Sits in the Epic slot. Count runes on this ability don't make extra summons: all the copies merge into one summon with their combined strength plus 20%, and it grows 10% bigger for each copy merged. Twin Cast's 2 at 60% become 1 at 140%. Its numbers are fixed: slot strength doesn't raise them. One meta rune per ability.
+Extra summons merge into one bigger, stronger summon.
 
 ### <img src="assets/icons/rune/pack_runes.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Pack Runes
 
-Meta rune. Sits in the Legendary slot. Hits from this ability's summons and totems count as hits of this ability for its runes, at the summon's damage. On-hit runes fire from their attacks: Siphoning Rune heals you, Undertow opens whirlpools, Eruption cracks the ground. Shape runes shape each attack: Fork branches it, and Wide gives it a splash. Procs that run "about N times a minute" share one rate across all this ability's summons, so ten wolves don't proc ten times as often. The Legendary slot's x2 doesn't change it. One meta rune per ability.
+Your summons' hits count as this ability's hits for its runes.
 
 ### <img src="assets/icons/rune/second_crown.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Second Crown
 
-Meta rune. Sits in the Epic slot, but it's drafted as rarely as a Legendary. This ability gets a second Legendary slot at full Legendary strength (x2), so it can hold two Legendaries; it gives up its Epic for it. The second slot opens as soon as Second Crown is socketed. The two Legendaries can't be the same card, at most one of them may be a trigger rune (a rune that casts another ability), and neither can be a meta rune. One meta rune per ability.
+Swaps the Epic slot for a second Legendary slot.
 
 ### <img src="assets/icons/rune/shared_sigil.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Shared Sigil
 
-Meta rune. It fills all three normal slots of the ability it's on (a meta-rune exception to slot rarity). The rune in this ability's Epic slot is also on every other ability on your bar that it fits, at normal strength (x1.0), even on abilities whose own Epic slot isn't open yet (below mastery 50). Element runes, meta runes, not-copyable runes and copied runes aren't copied. A copy never adds an Epic's second-copy line, and Legendaries are never copied. Signatures receive nothing. One per character. It may share a bar with Greater Borrowed Rune (on a different ability), and every other ability gets both copies. One meta rune per ability.
+The Epic rune on this ability also works on your other abilities. Fills the normal slots. One per character.
 
 ### <img src="assets/icons/rune/spare_socket.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Spare Socket
 
-Meta rune. Sits in the Epic slot: this ability gets two more normal slots (Common to Rare). Element runes in those two slots count at Epic-slot strength (+25%, not the usual +20%), which makes it the glass-cannon socket. One meta rune per ability.
+Gives this ability two more normal slots.
 
 ### <img src="assets/icons/rune/unbroken.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Unbroken
 
-Meta rune. Fits the Epic or Legendary slot. In the Epic slot, runes on this ability lose their per-copy weakening: Echo repeats, Split pieces, Twin Cast copies, Echoing Rune's second cast and chain falloff all hit at full strength. In the Legendary slot it also removes the shared curve: every Fork, Bounce and Multistrike target takes the full effect. One meta rune per ability.
+Extra copies and chains on this ability don't get weaker.
 
 
 ![The Runes panel.](assets/shots/runes-panel.png)

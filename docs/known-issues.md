@@ -1,7 +1,7 @@
 ---
 title: Known issues
 nav_order: 7
-description: "What is not finished or not tested yet in Fate Woven: untested co-op effects, rough edges, mod notes and first-pass balance."
+description: "What is not finished in Fate Woven: rough edges, mod notes and first-pass balance."
 image: /assets/banner-known-issues.jpg
 ---
 

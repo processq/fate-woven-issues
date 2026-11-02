@@ -23,121 +23,121 @@ There are 11 Epic and Legendary utility abilities. They are left for you to disc
 
 *Uncommon | Tamer | 0 none | 600s cooldown*
 
-For 10 minutes you understand beasts: wild creatures show whether they're tameable, their mood and time left to tame; you can point at a spot and your tames go there and guard it; and taming within 10m goes twice as fast.
+Shows how tameable creatures are, sends your tames to guard a spot, and speeds up taming.
 
 ### <img src="assets/icons/ability/bridge_of_light_scaffold.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Bridge of Light Scaffold
 
 *Rare | Builder | 0 none | 300s cooldown*
 
-Place up to 20 floating steps of light, one per press, that vanish 10 minutes after the first; for climbing and building high.
+Places floating steps of light, for climbing and building high.
 
 ### <img src="assets/icons/ability/cook_s_flame.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Cook's Flame
 
 *Rare | Hearthkeeper | 0 none | 0s cooldown*
 
-Toggle: carry a cooking flame until you press again or die. Raw meat, fish and vegetables in your inventory cook as you go, one item every 10s, as fast as a cooking station, using no fuel. Never combat damage.
+A carried flame you toggle on: it cooks raw food in your inventory as you walk.
 
 ### <img src="assets/icons/ability/earth_shaper.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Earth-Shaper
 
 *Rare | Builder | 10 stamina | 1s cooldown*
 
-Level, raise or lower the ground in a 4m circle where you aim (up to 10m), like a hoe or pickaxe stroke over the whole circle at once.
+Levels, raises or lowers the ground in a circle where you aim.
 
 ### <img src="assets/icons/ability/fair_wind.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Fair Wind
 
 *Rare | Sailor | 0 none | 0s cooldown*
 
-Toggle: the wind blows from directly behind the boat you steer, at +20% strength, until you press again, leave the boat, die or run out of eitr. Upkeep is 1 eitr every 10s. Doesn't stack with Moder's power (the stronger wins).
+Toggles a wind that blows from behind your boat. Costs a little eitr to keep.
 
 ### <img src="assets/icons/ability/freyr_s_furrow.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Freyr's Furrow
 
 *Uncommon | Tamer | 10 stamina | 5s cooldown*
 
-Plant or harvest everything in a 4m area at once (the seeds come from your inventory).
+Plants or harvests a whole patch at once.
 
 ### <img src="assets/icons/ability/herd_call.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Herd-Call
 
 *Common | Tamer | 0 none | 30s cooldown*
 
-Whistle: all your tames within 100m come running to you, and any that can't find a path (stuck, across water) blink to your side; a second whistle sets them all to Stay where they are.
+Whistles all your tames to you. Whistle again to make them stay.
 
 ### <img src="assets/icons/ability/horn_of_mead.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Horn of Mead
 
 *Rare | Hearthkeeper | 0 none | 900s cooldown*
 
-Conjure a horn of mead for you alone: drink it for 3 minutes of a small buff the element picks. It uses no potion slot and does not stack with the same effect from a real mead; it is weaker than a brewed mead by default and grows with element runes, Lingering and the slots. Never combat damage.
+Conjures a horn of mead for you; its element picks a small buff.
 
 ### <img src="assets/icons/ability/night_sight.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Night Sight
 
 *Rare | Survivalist | 0 none | 0s cooldown*
 
-Toggle: until you press again or die, the dark is lighter for you only: nights, caves and dungeons are brighter and the fog is thinner, so you can see in the dark.
+Toggles seeing in the dark, for you only.
 
 ### <img src="assets/icons/ability/rune_bench.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Rune-Bench
 
 *Uncommon | Builder | 0 none | 600s cooldown*
 
-Raise a glowing workbench for 5 minutes where you stand: it counts as a workbench for building, crafting and repairs.
+Raises a glowing workbench where you stand for a while.
 
 ### <img src="assets/icons/ability/rune_hearth.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Rune-Hearth
 
 *Rare | Survivalist | 0 none | 600s cooldown*
 
-Raise a rune fire pit where you aim for 5 minutes. Within 6m it keeps you warm (Cold and Freezing cannot reach you), dries you off, counts as a campfire for Comfort and Rested, and cooks raw meat and fish placed on it like a cooking station. The element changes the flame. Never combat damage.
+Raises a rune fire pit that warms you, dries you off and cooks meat.
 
 ### <img src="assets/icons/ability/rune_tether.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Rune-Tether
 
 *Common | Sailor | 20 stamina | 30s cooldown*
 
-Pull a cart, boat or heavy log within 20m toward you; a beached boat slides into the nearest deep water within 10m, and a capsized one rights itself.
+Pulls a cart, boat or log to you, and launches or rights boats.
 
 ### <img src="assets/icons/ability/shipwright_s_hurry.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Shipwright's Hurry
 
 *Rare | Builder | 0 none | 600s cooldown*
 
-Instantly repair all structures and boats within 20m and every item you carry to full; for the next 60s building costs no stamina.
+Repairs nearby buildings, boats and all your gear, and building costs no stamina for a while.
 
 ### <img src="assets/icons/ability/smith_s_fire.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Smith's Fire
 
 *Rare | Hearthkeeper | 0 none | 0s cooldown*
 
-Toggle: carry a forge-flame until you press again or die. It smelts ore in your inventory into bars as you go, using coal from your inventory, one bar every 10s (as fast as a smelter).
+A carried forge-flame you toggle on: it smelts the ore you carry into bars as you travel.
 
 ### <img src="assets/icons/ability/soothe_the_wild.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Soothe the Wild
 
 *Rare | Tamer | 0 none | 180s cooldown*
 
-A wild tameable creature you aim at stops being hostile and won't flee for 30s, so you can feed it safely.
+Calms a wild creature so you can feed it safely.
 
 ### <img src="assets/icons/ability/summon_mount.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Summon Mount
 
 *Uncommon | Scout | 10 eitr | 3s cooldown*
 
-5s channel: call a saddled Lox and climb on. It carries you until you press the ability again or it dies, and reserves 10 eitr while it is out. It never fights. If it dies, call it again once you have 10 eitr.
+Calls a saddled mount to ride. It does not fight.
 
 ### <img src="assets/icons/ability/sun_lantern.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Sun Lantern
 
 *Common | Survivalist | 0 none | 0s cooldown*
 
-Toggle: a floating sun-light follows you until you press again or die, and burns away the Mistlands mist within 15m of you.
+Toggles a light that follows you and burns away the Mistlands mist.
 
 ### <img src="assets/icons/ability/valhalla_s_feast.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Valhalla's Feast
 
 *Rare | Hearthkeeper | 0 none | 600s cooldown*
 
-Set out a feast table where you aim (a short Place Feast animation, not instant). It stays for 5 minutes. Anyone who walks up and uses it (you, allies, anyone) chooses to eat: they get the dish's small buff for 5 minutes, once per table each. Its element picks the dish and the buff (Nature, the default: herb porridge, health regen of 1 a second x tier). The buff does not use a food slot and never stacks with the same buff from real food; it is weaker than a cooked meal by default and grows with element runes, Lingering and Wide and the rune slots until fully slotted it can beat one. Never combat damage.
+Sets out a feast table for a few minutes; anyone who uses it gets a small buff from the element's dish.
 
 ### <img src="assets/icons/ability/wave_lulling_chant.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Wave-Lulling Chant
 
 *Rare | Sailor | 0 none | 900s cooldown*
 
-For 3 minutes the waves around your boat flatten, the wind holds its direction, and storms can't capsize or damage your ship.
+Calms the sea around your boat so storms can't harm it.
 
 ### <img src="assets/icons/ability/woodsman_s_fell.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Woodsman's Fell
 
 *Rare | Survivalist | 20 stamina | 20s cooldown*
 
-Fell the tree you aim at, split it into logs and pull every dropped item within 15m to you, in one cast.
+Fells a tree, splits it into logs and pulls in everything it dropped.
 
 ## Pets
 

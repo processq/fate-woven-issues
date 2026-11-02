@@ -13,7 +13,7 @@ image: /assets/banner-companion-mods.jpg
 
 **Fate Woven's later game is balanced around [Creature Level and Loot Control](https://thunderstore.io/c/valheim/p/Smoothbrain/CreatureLevelAndLootControl/) (CLLC).** Fate Woven never changes enemies, so on plain Valheim it will feel easy. An enemy-scaling mod such as CLLC gives the late game its challenge, and we recommend using one.
 
-Fate Woven is in beta, and this is a first pass. Each mod below was tested on its own with Fate Woven 0.2.1385: it loads with no errors, the charm slot works and your pets come back after loading. Things we did check beyond that are listed. If something clashes, please tell us (see Reporting bugs).
+Fate Woven works with the mods below. For each one we checked that it loads with no errors, the charm slot works and your pets come back after loading, plus the extra things listed. If something clashes, please tell us (see Reporting bugs).
 
 * **[SeneaL UI](https://thunderstore.io/c/valheim/p/seneaL/SeneaL_UI/) and [SeneaL API](https://thunderstore.io/c/valheim/p/seneaL/SeneaL_API/):** Works. Our ability bar, level line, pet window and panels show up in its layout, and our shield appears as its "Shield" chip. Fate Woven adds its buttons to its character panel and adopts its look for some bars and buttons.
 * **[Path of Valheiman](https://thunderstore.io/c/valheim/p/treextr/PathOfValheiman/):** Works. Fate Woven ignores its skill changes so your ability damage is not cut.
