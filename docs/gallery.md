@@ -15,8 +15,8 @@ Screenshots from the beta. More will come.
 ![Beams of lightning curve in and home on a marked Troll at night.](assets/shots/gallery-lightning-night.jpg)
 *Beams of lightning curve in and home on a marked Troll at night.*
 
-![A wave of fire rolls over three Trolls.](assets/shots/gallery-fire-wave.jpg)
-*A wave of fire rolls over three Trolls.*
+![Dozens of fire bolts home in on a marked Troll.](assets/shots/gallery-fire-wave.jpg)
+*Dozens of fire bolts home in on a marked Troll.*
 
 ![A held beam pierces a line of four Trolls.](assets/shots/gallery-beam.jpg)
 *A held beam pierces a line of four Trolls.*
