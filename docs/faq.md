@@ -1,6 +1,6 @@
 ---
 title: Questions and answers
-nav_order: 6
+nav_order: 7
 description: "Fate Woven questions and answers: installing, multiplayer, getting started, runes, saves, reporting bugs."
 image: /assets/banner-faq.jpg
 ---

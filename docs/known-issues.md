@@ -1,6 +1,6 @@
 ---
 title: Known issues
-nav_order: 7
+nav_order: 8
 description: "What is not finished in Fate Woven: rough edges, mod notes and first-pass balance."
 image: /assets/banner-known-issues.jpg
 ---

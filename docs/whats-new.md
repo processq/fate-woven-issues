@@ -1,6 +1,6 @@
 ---
 title: What's new
-nav_order: 8
+nav_order: 9
 description: "Every Fate Woven beta release, newest first."
 image: /assets/banner-whats-new.jpg
 ---

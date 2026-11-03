@@ -1,6 +1,6 @@
 ---
 title: About
-nav_order: 9
+nav_order: 10
 description: "Who made Fate Woven, how it is built, credits and where to chat."
 image: /assets/banner-about.jpg
 ---
