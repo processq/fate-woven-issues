@@ -27,9 +27,6 @@ Screenshots from the beta. More will come.
 ![A volley of fire-tipped arrows hits a row of five Trolls.](assets/shots/gallery-volley.jpg)
 *A volley of fire-tipped arrows hits a row of five Trolls.*
 
-![A downpour soaks a pack of Trolls.](assets/shots/gallery-downpour.jpg)
-*A downpour soaks a pack of Trolls.*
-
 ![Red rain falls on a Troll.](assets/shots/gallery-red-rain.jpg)
 *Red rain falls on a Troll.*
 
