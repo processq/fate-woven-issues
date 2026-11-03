@@ -66,8 +66,8 @@ Screenshots from the beta. More will come.
 ![The Lightning pet: a glowing wolf at the player's side.](assets/shots/gallery-wolf.jpg)
 *The Lightning pet: a glowing wolf at the player's side.*
 
-![A hammer-wielding helper walks beside the player.](assets/shots/gallery-helper.jpg)
-*A hammer-wielding helper walks beside the player.*
+![The Arcane pet: a hooded figure with a glowing hammer at the player's side.](assets/shots/gallery-helper.jpg)
+*The Arcane pet: a hooded figure with a glowing hammer at the player's side.*
 
 ![The ability wheel, with a coloured ring for each kind of ability.](assets/shots/gallery-ability-wheel-colour.jpg)
 *The ability wheel, with a coloured ring for each kind of ability.*
