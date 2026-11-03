@@ -27,8 +27,8 @@ Screenshots from the beta. More will come.
 ![A volley of fire-tipped arrows hits a row of five Trolls.](assets/shots/gallery-volley.jpg)
 *A volley of fire-tipped arrows hits a row of five Trolls.*
 
-![Red rain falls on a Troll.](assets/shots/gallery-red-rain.jpg)
-*Red rain falls on a Troll.*
+![Blood rain falls on a Troll.](assets/shots/gallery-red-rain.jpg)
+*Blood rain falls on a Troll.*
 
 ![The Blood pet: a cloud of red energy at the player's side.](assets/shots/gallery-red-burst.jpg)
 *The Blood pet: a cloud of red energy at the player's side.*
@@ -36,8 +36,8 @@ Screenshots from the beta. More will come.
 ![The Abilities panel: search box, filters, the ability's details and its slots.](assets/shots/gallery-abilities-panel.jpg)
 *The Abilities panel: search box, filters, the ability's details and its slots.*
 
-![A wall of frost-blue stone rises in the grass.](assets/shots/gallery-ice-wall.jpg)
-*A wall of frost-blue stone rises in the grass.*
+![An earth wall rises from the ground.](assets/shots/gallery-ice-wall.jpg)
+*An earth wall rises from the ground.*
 
 ![War totems stand guard in a clearing.](assets/shots/gallery-pillars.jpg)
 *War totems stand guard in a clearing.*
