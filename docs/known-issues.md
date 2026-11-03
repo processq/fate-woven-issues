@@ -22,7 +22,7 @@ Fate Woven is in beta and changes fast, so here is what we know is not finished.
 - **Epic Loot** works even though it shows a "not compatible" warning.
 
 ## First-pass balance
-- **XP and mastery numbers are first values.** Levelling and mastery are quick for the first levels and are likely to be tuned (some abilities level much faster than others). Expect them to change.
+- **XP and mastery are quick for the beta,** so you can reach more of the game quickly. The XP each level and mastery rank needs will be raised after the beta, so expect levelling and mastery to be much slower (some abilities also level faster than others today).
 - All balance is tuned against normal enemies, not yet against levelled-up enemies from enemy mods such as Creature Level and Loot Control or Monstrum. Expect it to change.
 - First numbers, likely to change: the new set pieces, the Epic second copies, Ward-Breaker Blow's rebuilt shield, the Warding Rune beam's stacking shields, Last Command's shield of 30, Reaper's Toll's 6 refunds a minute, and control on big enemies (half length, then 6 seconds of immunity).
 - The 0.2.1786 balance pass put every rune on one scale (Epic and Legendary were pulled toward the middle, Common to Rare were cut, control and slot unlocks were lowered). It is a first baseline: expect numbers to move with player feedback.
