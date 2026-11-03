@@ -63,8 +63,8 @@ Screenshots from the beta. More will come.
 ![The Quest Board: three notices, each with its reward.](assets/shots/gallery-quest-panel.jpg)
 *The Quest Board: three notices, each with its reward.*
 
-![A glowing lightning wolf fights at the player's side.](assets/shots/gallery-wolf.jpg)
-*A glowing lightning wolf fights at the player's side.*
+![The Lightning pet: a glowing wolf at the player's side.](assets/shots/gallery-wolf.jpg)
+*The Lightning pet: a glowing wolf at the player's side.*
 
 ![A hammer-wielding helper walks beside the player.](assets/shots/gallery-helper.jpg)
 *A hammer-wielding helper walks beside the player.*
