@@ -26,7 +26,7 @@ Changed your mind? An **Undo last Re-weave** button in the Settings panel brings
 
 ## Hel's Road
 
-**Hel's Road** is an optional hardcore Re-weave. It is in the game but **switched off by default**; a server can turn it on. On the Re-weave screen you tick 'Walk Hel's Road': you get one life. If something kills you, you drop out of Hel's Road and your run carries on as normal, so you only lose the bonus. Finish level 60 without dying and you earn a **permanent +10% XP** that carries into every later run and stacks with each Hel's Road you finish. While you walk it, quest rewards roll one tier higher.
+**Hel's Road** is an optional hardcore Re-weave. On the Re-weave screen you can tick 'Walk Hel's Road': you get one life. If something kills you, you drop out of Hel's Road and your run carries on as normal, so you only lose the bonus. Finish level 60 without being killed and you earn a **permanent +10% XP** that carries into every later run and stacks with each Hel's Road you finish. While you walk it, quest rewards roll one tier higher.
 
 Servers choose which deaths end it: Easy (only a kill by a creature, boss or player) or Hardcore (any death).
 

@@ -59,7 +59,7 @@ Everything is on by default. Set one to false to leave that part out of the game
 ### PvP
 | Setting | Default | What it does |
 |---|---|---|
-| Fate Woven PvP | off | When on, players who both have Valheim's PvP switch on can hurt each other with Fate Woven abilities. Hard control becomes a short Slow on players, killing a player gives no XP or kill effects, and a PvP death skips the death penalty and doesn't end a Hel's Road run. Off: co-op, Fate Woven abilities never hurt players. |
+| Fate Woven PvP | off | When on, players who both have Valheim's PvP switch on can hurt each other with Fate Woven abilities. Hard control lasts half as long on players and is followed by a short immunity, killing a player gives no XP or kill effects, and a PvP death skips the death penalty but still ends a Hel's Road run. Off: co-op, Fate Woven abilities never hurt players. |
 | PvP damage % | 40 | How much of Fate Woven's ability damage reaches another player (and their pets) in PvP. Plain weapon swings stay as in Valheim; only Fate Woven's added bonus is cut. |
 
 ### Re-weave and Hel's Road
@@ -67,8 +67,6 @@ Everything is on by default. Set one to false to leave that part out of the game
 |---|---|---|
 | Release > ReWeave | true | Players at level 60 can Re-weave. |
 | Release > ReWeaveUndo | auto | auto, on or off: whether a player can undo their last Re-weave until level 5 of the new run. Auto is on in the beta and off in the full release. |
-| Release > Endgame | false | Turns on the endgame systems, which today means Hel's Road. |
-| Release > HelsRoadAllowed | true | With Endgame on, players may walk Hel's Road. |
 | Release > HelsRoadDeaths | Easy | Easy: only a kill by a creature, boss or player ends a Hel's Road run. Hardcore: any death does, including falls and drowning. |
 
 ## Your own settings

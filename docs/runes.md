@@ -13,9 +13,9 @@ image: /assets/banner-runes.jpg
 
 Each ability has an element slot, a few normal slots, an Epic slot and a Legendary slot. Runes of the same element stack: about +20% in a normal slot, +25% in the Epic slot and +30% in the Legendary slot. Epic and Legendary runes also change how an ability plays, and they break an enemy's resistance to their element for a few seconds.
 
-Rune slots: one **element** slot, a few **normal** slots, one **Epic** slot and one **Legendary** slot. Runes of the same element stack.
+Rune slots: one **element** slot, a few **normal** slots, one **Epic** slot and one **Legendary** slot. Runes of the same element stack. Only abilities on your bar hold runes: when an ability leaves the bar its runes are freed, and when it comes back it takes back whatever is free and still fits.
 
-There are 163 Epic and Legendary runes. They are left for you to discover in play.
+There are 164 Epic and Legendary runes. They are left for you to discover in play.
 
 > **More to come: Epic and Legendary runes**
 > Epic runes reshape what an ability does: a bolt that splits, a heal that pulses, a strike that spins.
@@ -32,7 +32,7 @@ Your first hit on a foe shows what it resists and what it's weak to.
 
 ### <img src="assets/icons/rune/frugal.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Frugal
 
-The ability costs 15% less.
+The ability costs 10% less.
 
 ### <img src="assets/icons/rune/haste.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Haste
 
@@ -80,6 +80,10 @@ On hit, it branches to two more targets nearby. The effect is shared.
 
 Hits from behind slow the foe.
 
+### <img src="assets/icons/rune/multicast.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Multicast
+
+Casts a spell once more, each a bit weaker.
+
 ### <img src="assets/icons/rune/shade_step.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Shade Step
 
 After the move you're stealthed, and nearby foes lose track of you.
@@ -96,19 +100,15 @@ Dodging doesn't break your weapon combo.
 
 Hits tar the foe: it's slowed and weak to Fire.
 
-### <img src="assets/icons/rune/twin_cast.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Twin Cast
-
-Makes two of whatever the ability makes, each a bit weaker.
-
 ### <img src="assets/icons/rune/wild_path.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Wild Path
 
-Spell projectiles fly a random path but hit much harder.
+Spell projectiles fly a random path but hit harder.
 
 ### <img src="assets/icons/rune/zigzag.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Zigzag
 
 Spell projectiles weave as they fly and hit a bit harder.
 
-## Rare runes (20)
+## Rare runes (21)
 
 ### <img src="assets/icons/rune/downpour.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Downpour
 
@@ -116,7 +116,7 @@ The effect falls as rain on an area for a few seconds.
 
 ### <img src="assets/icons/rune/echo.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Echo
 
-Repeats the cast 1 second later at full strength, for free.
+Repeats the cast 1 second later, weaker, for free.
 
 ### <img src="assets/icons/rune/flowing_chain.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Flowing Chain
 
@@ -130,9 +130,13 @@ Cleanses every harmful status from every player it touches, and keeps cold and w
 
 Its effect also reaches all your summons and totems.
 
+### <img src="assets/icons/rune/multishot.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Multishot
+
+Adds one extra arrow or throw. The effect is shared.
+
 ### <img src="assets/icons/rune/multistrike.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Multistrike
 
-Adds two extra strikes or arrows. The effect is shared.
+Adds one extra strike. The effect is shared.
 
 ### <img src="assets/icons/rune/nova.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Nova
 
@@ -168,11 +172,11 @@ Shots are silent; foes hit from stealth don't know where it came from.
 
 ### <img src="assets/icons/rune/sleep_thorn.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Sleep-Thorn
 
-Its control puts the foe to sleep instead: twice as long, but any damage wakes it.
+Its control puts the foe to sleep instead: half as long again, but any damage wakes it.
 
 ### <img src="assets/icons/rune/split.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Split
 
-When it ends, it splits into two smaller copies at 40% strength.
+When it ends, it splits into two smaller copies at 15% strength.
 
 ### <img src="assets/icons/rune/starbane.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Starbane
 
@@ -194,59 +198,59 @@ Turns a single-target ability into an area. On an area ability, the area grows.
 
 ### <img src="assets/icons/rune/borrowed_rune.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Borrowed Rune
 
-Copies the rune in the slot to its left.
+Copies the rune in the slot to its left. Fits the Epic or Legendary slot.
 
 ### <img src="assets/icons/rune/focus.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Focus
 
-The Legendary rune on this ability counts twice, but the normal slots stay empty. One per character.
+The Legendary rune on this ability counts twice, but the normal slots stay empty. One per character. Fits only the Epic slot.
 
 ### <img src="assets/icons/rune/gifted_rune.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Gifted Rune
 
-Allies under this ability's buff get its Epic rune on their own abilities. One per character.
+Allies under this ability's buff get its Epic rune on their own abilities. One per character. Fits only the Legendary slot.
 
 ### <img src="assets/icons/rune/greater_borrowed_rune.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Greater Borrowed Rune
 
-The Epic rune on this ability also works, full strength, on your other abilities. One per character.
+The Epic rune on this ability also works, full strength, on your other abilities. One per character. Fits only the Legendary slot.
 
 ### <img src="assets/icons/rune/greater_spare_socket.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Greater Spare Socket
 
-Gives this ability three more slots, one of them Epic.
+Gives this ability three more slots, one of them Epic. Fits only the Legendary slot.
 
 ### <img src="assets/icons/rune/keystone.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Keystone
 
-This ability's normal slots count double. Holds nothing else.
+This ability's normal slots count double. Holds nothing else. Fits only the Legendary slot.
 
 ### <img src="assets/icons/rune/kingstone.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Kingstone
 
-The abilities on each side of this one get stronger runes.
+The abilities on each side of this one get stronger runes. Fits only the Epic slot.
 
 ### <img src="assets/icons/rune/manifold.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Manifold
 
-Doubles every count on this ability: copies, pieces, branches, hops, strikes and echoes.
+Doubles every count on this ability: copies, pieces, branches, hops, strikes and echoes. Fits only the Legendary slot.
 
 ### <img src="assets/icons/rune/one_of_many.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> One of Many
 
-Extra summons merge into one bigger, stronger summon.
+Extra summons merge into one bigger, stronger summon. Fits only the Epic slot.
 
 ### <img src="assets/icons/rune/pack_runes.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Pack Runes
 
-Your summons' hits count as this ability's hits for its runes.
+Your summons' hits count as this ability's hits for its runes. Fits only the Legendary slot.
 
 ### <img src="assets/icons/rune/second_crown.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Second Crown
 
-Swaps the Epic slot for a second Legendary slot.
+Swaps the Epic slot for a second Legendary slot. Fits only the Epic slot.
 
 ### <img src="assets/icons/rune/shared_sigil.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Shared Sigil
 
-The Epic rune on this ability also works on your other abilities. Fills the normal slots. One per character.
+The Epic rune on this ability also works on your other abilities. Goes in a normal slot and fills all three. One per character.
 
 ### <img src="assets/icons/rune/spare_socket.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Spare Socket
 
-Gives this ability two more normal slots.
+Gives this ability two more normal slots. Fits only the Epic slot.
 
 ### <img src="assets/icons/rune/unbroken.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Unbroken
 
-Extra copies and chains on this ability don't get weaker.
+Extra copies and chains on this ability don't get weaker. Fits the Epic or Legendary slot.
 
 
 ![The Runes panel.](assets/shots/runes-panel.png)

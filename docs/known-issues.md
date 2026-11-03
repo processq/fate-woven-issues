@@ -15,6 +15,7 @@ Fate Woven is in beta and changes fast, so here is what we know is not finished.
 ## Rough edges
 - **Everyone in a game must run the exact same Fate Woven version.** A different version can't join, so update together.
 - **PvP (new, off by default).** A server host can turn on the "Fate Woven PvP" setting. In Valheim, your PvP switch turns off after you die until you open your inventory, even though its icon still shows on. With the setting off, Fate Woven treats other players as friends and only plain weapon damage works between them.
+- **Turning Hue against another player (PvP) is not checked yet.** Its lent status is meant to land at 60% there too, but nobody has seen it work in play.
 
 ## Mods
 - **Creature Level and Loot Control 4.6.4** from Thunderstore crashes with this game version. Use version 5.x from Hexium.
@@ -24,6 +25,7 @@ Fate Woven is in beta and changes fast, so here is what we know is not finished.
 - **XP and mastery are sped up for the beta,** so you can reach more of the game quickly. Expect levelling and mastery to be slower after the beta.
 - All balance is tuned against normal enemies, not yet against levelled-up enemies from enemy mods such as Creature Level and Loot Control or Monstrum. Expect it to change.
 - First numbers, likely to change: the new set pieces, the Epic second copies, Ward-Breaker Blow's rebuilt shield, the Warding Rune beam's stacking shields, Last Command's shield of 30, Reaper's Toll's 6 refunds a minute, and control on big enemies (half length, then 6 seconds of immunity).
+- The 0.2.1786 balance pass put every rune on one scale (Epic and Legendary were pulled toward the middle, Common to Rare were cut, control and slot unlocks were lowered). It is a first baseline: expect numbers to move with player feedback.
 - Effects that fire "about N times a minute" on rare events now fire as often as their cards say, so they are stronger than before.
 
 ---

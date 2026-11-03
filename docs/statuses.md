@@ -107,7 +107,7 @@ Valheim's own Wet, left exactly as vanilla: slower stamina regen and sooner Cold
 
 ### <img src="assets/icons/status/asleep.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Asleep (Any (control))
 
-Cannot act until damaged or the duration ends. Any damage wakes it. Cards may set their own duration or a stronger version; that only changes that application. Lasts As the card says.
+Cannot act until hit or the duration ends. Any hit wakes it; damage over time doesn't. Cards may set their own duration or a stronger version; that only changes that application. Lasts As the card says.
 
 ### <img src="assets/icons/status/confused.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Confused (Any (control))
 
@@ -115,11 +115,11 @@ Attacks the nearest other enemy instead of the player. Bosses can't be Confused.
 
 ### <img src="assets/icons/status/frozen.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Frozen (Frost)
 
-Cannot act. Breaks early on a heavy hit after 1s. Bosses are slowed 50% instead. Then immune to Frozen for 8s. Payoff target for Shatter effects. Cards may set their own duration or a stronger version; that only changes that application. Lasts 2s.
+Cannot act. Breaks early on a heavy hit after 1s. Bosses are slowed 50% instead. Then immune to Frozen for 8s. Payoff target for Shatter effects. Cards may set their own duration or a stronger version; that only changes that application. Lasts 1.2s.
 
 ### <img src="assets/icons/status/petrified.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Petrified (Earth)
 
-Staggered twice within 6s by Earth hits: turned to stone: cannot act and takes +30% Blunt damage. Bosses and stagger-immune creatures are Slowed 50% for its length instead. Then immune for 10s. Cards may set their own duration or a stronger version; that only changes that application. Stagger-immune creatures can't reach it through Earth's double stagger. Lasts 2s.
+Staggered twice within 6s by Earth hits: turned to stone: cannot act and takes +30% Blunt damage. Bosses and stagger-immune creatures are Slowed 50% for its length instead. Then immune for 10s. Cards may set their own duration or a stronger version; that only changes that application. Stagger-immune creatures can't reach it through Earth's double stagger. Lasts 1.6s.
 
 ### Smothered (Any (Smother))
 

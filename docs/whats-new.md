@@ -13,6 +13,50 @@ image: /assets/banner-whats-new.jpg
 Fate Woven is in beta, and every release is listed here, newest first. Please report bugs, issues and requests on the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose).
 
 
+## 0.2.1786 (beta)
+- 2,086 ability and rune combinations now work, 275 more than before, across 135 runes.
+- Hel's Road is here: tick it on the Re-weave screen for a one-life run, with extra XP and better quest rewards for finishing level 60.
+- A full balance pass: every rune was measured on one scale. Epic runes that were far too strong or weak moved toward the middle, Common to Rare runes add less on their own, and two or three copies of an Epic are meant to be about twice and four times one copy.
+- Control is much lower, most of all early on, and a fully built control setup holds an enemy for about 20 seconds at most.
+- Rune slots open later and further apart, at mastery 20, 40, 65 and 85.
+- Epic runes have a third-copy effect, and a shared copy counts as a copy.
+- PvP control is real: half length, then short immunity, never longer than 20 seconds on a player.
+- Gungnir's Mark is a new Legendary rune, and Multishot a new Rare rune; Twin Cast is now called Multicast.
+- Runes shared to other abilities show as greyed squares, the Abilities panel has a search box, and runes you take off an ability come back when you put it on again.
+- Joining a game now also checks the mod's files, and Hel's Road deaths are a dropdown in Settings.
+- Hel's Road is here: on the Re-weave screen you can tick it for a one-life run. A kill by a creature, boss or player ends it (a server setting can make any death end it); finish level 60 without being killed for a permanent +10% XP per finished run, and quest rewards roll one tier higher while you walk it.
+- Fixed: a kill by another player (or their summon) now ends a Hel's Road run even with PvP on, as the setting text says.
+- Hel's Road: the Easy / Hardcore choice is now a dropdown on the Server rules tab of Settings. The host can change it there; other players see it read-only. On a dedicated server it is set in the server's config file.
+- PvP control is real now: with the PvP setting on, stuns, roots, sleep, fear, silence and the rest work on players at half their normal length, followed by 5 seconds of immunity (the old Slow-only rule is gone; the setting "Hard control immunity seconds" replaces the Slow settings).
+- In PvP no control on a player lasts more than 20 seconds, however many bonuses it has.
+- Balance pass: every Common to Legendary rune was measured on one scale and adjusted. Epic runes that were far too strong or weak were brought toward the middle (Holy-Sworn, Water-Sworn, Earth-Sworn, Steel-Sworn, Steam Veil, Mending Burst, Circling Runes, Deep Draw, Void Rift, Held Word, Siphoning Rune). Common to Rare runes now add less on their own, most of all Echo, Downpour, Fork, Split, Bounce, Cone and Nova, because low-level builds were too strong. Two and three copies of an Epic are meant to be about twice and four times one copy.
+- Control is lower, and early control is weakest: Binding Roots roots for 1.75 seconds (was 10) and Word of Stillness stuns for 1 second (was 3), with later abilities nearer their old lengths. Sleep-Thorn sleeps one and a half times as long (was twice), the Controller role bonus is half as large, and Deep Draw no longer lengthens control. A fully built control setup holds an enemy for about 20 seconds at most.
+- Rune slots now open later and further apart: the second and third normal slots at mastery 20 and 40, the Epic slot at 65 and the Legendary slot at 85 (before 15, 30, 50 and 100). Slots you already have are kept.
+- Drowsing Field now lets burning and poison enemies fall asleep: damage-over-time ticks no longer count as being hurt.
+- Damage-over-time ticks (Burning, Poison, Venom, Bleeding and the rest) no longer wake a sleeping enemy.
+- Fixed: Returning Haft with Echo no longer starts a whole new repeat on every pass; the card's one repeat per cast now holds.
+- More rune pairs now work. Twin Strike takes Multistrike (each hand hits a different enemy) and Pull. Great-Shield Wall takes Wide (a wider wall and more cover), Lingering (the wall holds 2s after you stop blocking). Call Back takes Haste (a faster channel), Wide (30 HP to allies near the revived one) and Delay (a later revive at higher health). Wolf Form takes Lingering, Battle-Fed (kills add time) and Bounce (each bite also makes another enemy Bleed). Bear Form takes Lingering, Pulsing (enemies it hit are Taunted again every 3s) and Wide (a 5m swipe).
+- Many more rune pairs now work, for example on Rise, Warding Wall, Trapper's Cache, the stances, Weapon Imbue, Summon and the songs.
+- Dodge-Loosed and Shield-Loosed now work on the three songs and on Weapon Imbue (a dodge or block turns Imbue on, never off).
+- Reach now lengthens the range of Boon, Warding Rune, Mending Touch, Dread Howl and Heavy Limbs by 20%.
+- Sleep-Thorn works on Weakening Hex: the target falls Asleep for 15s instead of being Hexed.
+- Haste works on Rune Bolt: its cast is 12% shorter.
+- Nine more runes can now be copied by Borrowed Rune, Greater Borrowed Rune and Shared Sigil: Beam, Seeker's Point, Carried, Undertow, Spellblade Echo, Turning Hue, Prism Shift, Pull and Kinship. A shared rune that an ability already holds counts as its second copy, where the rune stacks.
+- Multicast, Multistrike and Multishot now add exactly one more cast, strike or shot per copy, in any slot (one Multicast casts a spell twice, two copies three times). A single Multistrike or Multishot is now 2 strikes or shots, where before it was 3.
+- Twin Cast is now called Multicast, and each copy adds exactly one more cast (like Multistrike and Multishot).
+- Turning Hue now lends its element to your next cast (two casts with a second copy, three with a third) instead of reading your past casts.
+- Gungnir's Mark: the rune's own symbol shows over the marked enemy's head (only you see it), shots and beams turn much more sharply onto it, copies of a cast reach the mark even past the ability's range, and the beam fired behind you curves up over your head. Four Winds' side beams last as long as the main beam.
+- Rise with Beam builds its wall where the beam lands and follows the beam's end as you sweep it. A rune shared to an ability that already holds it shows grey with "This ability already has it, so the copy adds nothing." Fixed: Greater Spare Socket's second Epic slot only accepted Rare runes.
+- Runes shared to other abilities (Shared Sigil, Greater Borrowed Rune, Spell Pair, Gifted Rune) now show as a greyed square under the slots of each ability they reach (slots wrap to a second row past six), and Gifted Rune says "Gifted to you by an ally" on the ally's panel.
+- Epic runes now have a third-copy effect, and six more Epic runes (Seeker's Point, Carried, Undertow, Spellblade Echo, Turning Hue, Prism Shift) have second and third copies. A shared copy counts as a copy, so an Epic can reach three copies; one share per ability for Epics, and Common to Rare runes stack without a limit.
+- Epic runes print their final number; a slot no longer raises them again (only Charges still does). Sworn Runes follow their cards, Void Rift keeps each burst, Heavy Hand's pause counts from when it is ready, and Pulsing only repeats on its own target.
+- Spell Pair's copy of a rune that cannot be copied shows a red square and does nothing.
+- The Abilities panel has a search box.
+- Abilities that leave your bar no longer hold on to their runes: the runes go back to your pile, and when you put the ability on your bar again it takes back whatever is free and still fits. Fixed: the third utility slot's ability could fall off the bar on every load.
+- An ability that leaves your bar now ends its imbue, stance, form or mount and frees its eitr reserve; a Summon with runes loses its pet when it leaves the bar.
+- Rise, the Rise walkway and Warding Wall stones now look like the material: the game's own rock, iron for Steel, ice for Frost, and tinted stone for the other elements. Wall stones are solid. The Rise walkway drawn with Beam is a row of upright stone blocks locked to the nearest ground.
+- Joining a game now also checks the mod's files: an edited copy at the same version number is refused with a plain message.
+
 ## 0.2.1673 (beta)
 - PvP is here as a server setting, off by default: hard control becomes a short Slow, ability damage to players is 40% by default, and player kills give no XP.
 - Everyone in a game must now run the exact same Fate Woven version; a different version can't join.

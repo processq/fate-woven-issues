@@ -22,7 +22,7 @@ Build a tank, healer, controller, summoner, damage dealer, or any mix you can im
 
 ## At a glance
 - 49 base abilities across eight roles, plus utility abilities and signature powers.
-- 217 runes that change how abilities play.
+- 219 runes that change how abilities play.
 - Twelve elements, each with its own status effect.
 - 146 blessings from the gods, and duo blessings when two gods agree.
 - 12 rune sets with set bonuses.

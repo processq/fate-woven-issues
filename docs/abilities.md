@@ -19,7 +19,7 @@ Every ability costs eitr or stamina and has a cooldown. The element shown is the
 
 *Common | Nature | Target (40m) | 15 eitr | 10s cooldown*
 
-Roots a foe in place for 10s and hurts it a little while the roots hold.
+Roots a foe in place for 1.75s and hurts it a little while the roots hold.
 
 ### <img src="assets/icons/ability/blinding_glare.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Blinding Glare
 
