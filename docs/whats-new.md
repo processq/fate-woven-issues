@@ -13,6 +13,17 @@ image: /assets/banner-whats-new.jpg
 Fate Woven is in beta, and every release is listed here, newest first. Please report bugs, issues and requests on the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose).
 
 
+## 0.2.1800 (beta)
+- Hotfix, only needed if you use SeneaL UI. Everyone else can stay on 0.2.1786.
+- With SeneaL UI, the Abilities and Mastery tabs open their panels, and the panels use SeneaL UI's look.
+- With SeneaL UI, the buff column shows again.
+- With SeneaL UI, the ability bar and the pet window use SeneaL's slots, buttons and fonts.
+- The Abilities and Mastery tabs now open their panels, which were hidden, and the panels use SeneaL UI's look.
+- The empty spot beside SeneaL's tabs no longer opens a panel.
+- The buff column now shows (SeneaL had hidden it along with the food icons).
+- The shield column is narrower.
+- The ability bar and the pet window use SeneaL UI's slots, buttons and fonts; the pet health bar stays red.
+
 ## 0.2.1786 (beta)
 - 2,086 ability and rune combinations now work, 275 more than before, across 135 runes.
 - Hel's Road is here: tick it on the Re-weave screen for a one-life run, with extra XP and better quest rewards for finishing level 60.
