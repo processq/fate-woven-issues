@@ -39,8 +39,8 @@ Screenshots from the beta. More will come.
 ![A wall of frost-blue stone rises in the grass.](assets/shots/gallery-ice-wall.jpg)
 *A wall of frost-blue stone rises in the grass.*
 
-![Carved rune pillars stand in a clearing.](assets/shots/gallery-pillars.jpg)
-*Carved rune pillars stand in a clearing.*
+![War totems stand guard in a clearing.](assets/shots/gallery-pillars.jpg)
+*War totems stand guard in a clearing.*
 
 ![A skeleton with a round shield beside the player.](assets/shots/gallery-skeleton.jpg)
 *A skeleton with a round shield beside the player.*
