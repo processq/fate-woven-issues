@@ -12,8 +12,8 @@ image: /assets/banner-gallery.jpg
 
 Screenshots from the beta. More will come.
 
-![Lightning arcs through a pack of Trolls at night.](assets/shots/gallery-lightning-night.jpg)
-*Lightning arcs through a pack of Trolls at night.*
+![Beams of lightning curve in and home on a marked Troll at night.](assets/shots/gallery-lightning-night.jpg)
+*Beams of lightning curve in and home on a marked Troll at night.*
 
 ![A wave of fire rolls over three Trolls.](assets/shots/gallery-fire-wave.jpg)
 *A wave of fire rolls over three Trolls.*
