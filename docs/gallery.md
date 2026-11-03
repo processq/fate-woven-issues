@@ -42,8 +42,8 @@ Screenshots from the beta. More will come.
 ![War totems stand guard in a clearing.](assets/shots/gallery-pillars.jpg)
 *War totems stand guard in a clearing.*
 
-![A skeleton with a round shield beside the player.](assets/shots/gallery-skeleton.jpg)
-*A skeleton with a round shield beside the player.*
+![The Steel pet: an armoured skeleton with a round shield at the player's side.](assets/shots/gallery-skeleton.jpg)
+*The Steel pet: an armoured skeleton with a round shield at the player's side.*
 
 ![The Runes panel: the ability's slots on top, your rune collection below.](assets/shots/gallery-runes-panel.jpg)
 *The Runes panel: the ability's slots on top, your rune collection below.*
