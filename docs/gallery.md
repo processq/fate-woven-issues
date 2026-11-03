@@ -48,6 +48,12 @@ Screenshots from the beta. More will come.
 ![A skeleton with a round shield beside the player.](assets/shots/gallery-skeleton.jpg)
 *A skeleton with a round shield beside the player.*
 
+![The Runes panel: the ability's slots on top, your rune collection below.](assets/shots/gallery-runes-panel.jpg)
+*The Runes panel: the ability's slots on top, your rune collection below.*
+
+![The Runes panel open beside the inventory and crafting windows.](assets/shots/gallery-runes-inventory.jpg)
+*The Runes panel open beside the inventory and crafting windows.*
+
 ![A level-up draft: choose one of three cards.](assets/shots/gallery-draft.jpg)
 *A level-up draft: choose one of three cards.*
 
