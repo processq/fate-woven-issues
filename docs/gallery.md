@@ -33,8 +33,8 @@ Screenshots from the beta. More will come.
 ![Red rain falls on a Troll.](assets/shots/gallery-red-rain.jpg)
 *Red rain falls on a Troll.*
 
-![A red burst on the ground beside the player.](assets/shots/gallery-red-burst.jpg)
-*A red burst on the ground beside the player.*
+![The Blood pet: a cloud of red energy at the player's side.](assets/shots/gallery-red-burst.jpg)
+*The Blood pet: a cloud of red energy at the player's side.*
 
 ![The Abilities panel: search box, filters, the ability's details and its slots.](assets/shots/gallery-abilities-panel.jpg)
 *The Abilities panel: search box, filters, the ability's details and its slots.*
