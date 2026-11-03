@@ -39,6 +39,15 @@ Screenshots from the beta. More will come.
 ![The Abilities panel: search box, filters, the ability's details and its slots.](assets/shots/gallery-abilities-panel.jpg)
 *The Abilities panel: search box, filters, the ability's details and its slots.*
 
+![A wall of frost-blue stone rises in the grass.](assets/shots/gallery-ice-wall.jpg)
+*A wall of frost-blue stone rises in the grass.*
+
+![Carved rune pillars stand in a clearing.](assets/shots/gallery-pillars.jpg)
+*Carved rune pillars stand in a clearing.*
+
+![A skeleton with a round shield beside the player.](assets/shots/gallery-skeleton.jpg)
+*A skeleton with a round shield beside the player.*
+
 ![A level-up draft: choose one of three cards.](assets/shots/gallery-draft.jpg)
 *A level-up draft: choose one of three cards.*
 
