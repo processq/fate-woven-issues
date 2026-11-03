@@ -34,8 +34,9 @@ Some of Fate Woven's default keys are also used by other mods. Both do their job
 |---|---|---|
 | Z | Cast | SeneaL UI (quick slot 1), Equipment and Quick Slots (quick slot 1) |
 | B | Wheel | Equipment and Quick Slots (quick slot 3) |
-| H | Pet mode | SeneaL UI (quick-slot toggle) |
-| Left Alt | Self-cast | drag and lock keys in Equipment and Quick Slots, ExtraSlots, Quick Stack, ZenUI and MyLittleUI |
+| H | Pet mode | SeneaL UI (quick-slot toggle), Epic Loot (Ability Hotkey 2) |
+| J | Pet order | Epic Loot (Ability Hotkey 3) |
+| Left Alt | Self-cast | drag and lock keys in Equipment and Quick Slots, ExtraSlots, Quick Stack, ZenUI and MyLittleUI, and Epic Loot (Trader Panel Drag Key) |
 
 
 ---
