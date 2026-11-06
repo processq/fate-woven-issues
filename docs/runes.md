@@ -15,7 +15,7 @@ Each ability has an element slot, a few normal slots, an Epic slot and a Legenda
 
 Rune slots: one **element** slot, a few **normal** slots, one **Epic** slot and one **Legendary** slot. Runes of the same element stack. Only abilities on your bar hold runes: when an ability leaves the bar its runes are freed, and when it comes back it takes back whatever is free and still fits.
 
-There are 164 Epic and Legendary runes. They are left for you to discover in play.
+There are 163 Epic and Legendary runes. They are left for you to discover in play.
 
 > **More to come: Epic and Legendary runes**
 > Epic runes reshape what an ability does: a bolt that splits, a heal that pulses, a strike that spins.

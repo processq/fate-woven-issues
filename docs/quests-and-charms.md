@@ -38,7 +38,7 @@ There are 53 quests across the Meadows to the Ashlands: 9 Meadows, 9 Black Fores
 
 Every reward has a tier, from Common to Legendary, and your notice's rarity sets the odds. Rewards include XP bundles, extra draft choices, rerolls, banishes and locks for your drafts, favour with the gods, blessings, tokens, and permanent perks.
 
-There are 43 permanent Legacy Rewards. They are left for you to discover in play. Some are chains where each stage unlocks the next.
+There are 41 permanent Legacy Rewards. They are left for you to discover in play. Some are chains where each stage unlocks the next.
 
 
 > **More to come: Legendary quests**

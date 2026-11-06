@@ -20,6 +20,7 @@ Fate Woven is in beta and changes fast, so here is what we know is not finished.
 ## Mods
 - **Creature Level and Loot Control 4.6.4** from Thunderstore crashes with this game version. Use version 5.x from Hexium.
 - **Epic Loot** works even though it shows a "not compatible" warning.
+- **JatifyUI** breaks our Abilities panel and overlaps other windows when both are installed. This will be fixed in the next release.
 
 ## First-pass balance
 - **XP and mastery are sped up for the beta,** so you can reach more of the game quickly. Expect levelling and mastery to be slower after the beta.

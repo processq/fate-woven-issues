@@ -19,7 +19,7 @@ Fate Woven is built on [BepInEx](https://github.com/BepInEx/BepInEx) and [Jotunn
 
 ## Find us
 - Guide: this site.
-- Chat, share builds and get help: [Discord](https://discord.gg/dWC9gWMc).
+- Chat, share builds and get help: [Discord](https://discord.gg/hzQgdjk7w3).
 - Bugs and ideas: the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose). You need a free GitHub account.
 - Download: [Hexium](https://valheim.hexium.gg/mods/processq/FateWoven) and [GitHub releases](https://github.com/processq/fate-woven-issues/releases).
 

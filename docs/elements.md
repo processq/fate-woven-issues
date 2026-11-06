@@ -30,7 +30,7 @@ Status: **Bleeding**. Hits apply Bleeding: 40% of the hit over 6s, doubled while
 
 ## <img src="assets/icons/element/earth.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Earth
 
-Status: **Staggered -> Petrified**. Hits deal heavy stagger. An enemy Staggered twice within 6s by Earth hits (anyone's) is Petrified for 2s, then immune 10s. Against stagger-immune creatures (bosses, fliers, Blobs and the like) the stagger parts do nothing; the damage stays.
+Status: **Staggered -> Petrified**. Hits deal heavy stagger. An enemy Staggered twice within 6s by Earth hits (anyone's) is Petrified for 1.6s, then immune 10s. Against stagger-immune creatures (bosses, fliers, Blobs and the like) the stagger parts do nothing; the damage stays.
 
 ## <img src="assets/icons/element/fire.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Fire
 
@@ -38,7 +38,7 @@ Status: **Burning**. Hits apply Burning: 30% of the hit as Fire damage over 5s; 
 
 ## <img src="assets/icons/element/frost.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Frost
 
-Status: **Chilled -> Frozen**. Hits add 1 Chilled (+8% cast time per stack, max 5, 6s). Vanilla's own Frost slow, which these hits start, is Frost's movement slow; Chilled adds none of its own. At 5 stacks the target is Frozen for 2s (bosses: slowed 50% for 2s instead), then immune to Frozen for 8s.
+Status: **Chilled -> Frozen**. Hits add 1 Chilled (+8% cast time per stack, max 5, 6s). Vanilla's own Frost slow, which these hits start, is Frost's movement slow; Chilled adds none of its own. At 5 stacks the target is Frozen for 1.2s (bosses: slowed 50% for 1.2s instead), then immune to Frozen for 8s.
 
 ## <img src="assets/icons/element/holy.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Holy
 
@@ -50,7 +50,7 @@ Status: **Shocked**. Hits apply Shocked for 6s: the next hit on a Shocked enemy 
 
 ## <img src="assets/icons/element/nature.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Nature
 
-Status: **Rooted**. Hits Root the target for 1.5s (bosses: slowed 40% instead), then immune 6s. Allies near Nature effects regenerate 1% max HP/s while within 3m of a planted zone, totem or summon.
+Status: **Rooted**. Hits Root the target for 1.5s (bosses: slowed 40% instead), then immune 6s.
 
 ## <img src="assets/icons/element/poison.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Poison
 
@@ -66,7 +66,7 @@ Status: **Bleeding (Slash/Pierce) or Staggered (Blunt), and Sundered on every hi
 
 ## <img src="assets/icons/element/water.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Water
 
-Status: **Wet**. Hits apply Wet for 12s (native Valheim Wet: -stamina regen) and push enemies 2m. Wet enemies take x1.5 Lightning and Frost (vanilla's Wet) and Frost hits add 1 extra Chilled (as the Wet status says); Fire on Wet consumes Wet for a steam burst (20 dmg, 3m).
+Status: **Wet**. Hits apply Wet for 12s (native Valheim Wet: -stamina regen) and push enemies 2m. Wet enemies take x1.5 Lightning and Frost (vanilla's Wet) and Frost hits add 1 extra Chilled (as the Wet status says).
 
 
 ---

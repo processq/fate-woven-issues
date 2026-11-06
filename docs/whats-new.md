@@ -13,6 +13,22 @@ image: /assets/banner-whats-new.jpg
 Fate Woven is in beta, and every release is listed here, newest first. Please report bugs, issues and requests on the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose).
 
 
+## 0.2.1801 (beta)
+- This hotfix is a systems rework: runes now come from your drafts, quests and boss kills.
+- Rune stones no longer drop, and Rune Finder I and II are gone.
+- Epic Loot support is now quest rewards only.
+- Re-weave keeps every set piece, set element rune and boss trophy rune.
+- Rune stones no longer drop. Set pieces still come from their current sources for now.
+- Rune Finder I and II are removed.
+- Bounty-Sworn is removed. If you owned it, you get a free rune draft for each copy.
+- The two unused socket settings are removed.
+- Epic Loot support is quest rewards only: no gear effects and no bounty XP.
+- Epic Loot and Therzie weapons no longer apply element statuses.
+- Re-weave keeps every set piece, set element rune and boss trophy rune. A boss's trophy is not offered again.
+- Holy and Shadow runes describe their damage type correctly.
+- Nature no longer lists a 1% max HP regen line, and Water no longer lists a steam burst (neither was in the game).
+- Hel's Harvest now says it works on non-boss enemies.
+
 ## 0.2.1800 (beta)
 - Hotfix, only needed if you use SeneaL UI. Everyone else can stay on 0.2.1786.
 - With SeneaL UI, the Abilities and Mastery tabs open their panels, and the panels use SeneaL UI's look.

@@ -15,14 +15,14 @@ Fate Woven adds a full ability and build system to Valheim. You level up by figh
 
 Build a tank, healer, controller, summoner, damage dealer, or any mix you can imagine, and bring real roles to your co-op group. Win favour with 17 Norse gods, collect rune sets, and find rare runes and signature powers along the way.
 
-**[Download and install](install.md)** | [Questions and answers](faq.md) | [Discord](https://discord.gg/dWC9gWMc)
+**[Download and install](install.md)** | [Questions and answers](faq.md) | [Discord](https://discord.gg/hzQgdjk7w3)
 
 ![A draft: three cards, pick one.](assets/shots/draft.png)
 *A draft: three cards, pick one.*
 
 ## At a glance
 - 49 base abilities across eight roles, plus utility abilities and signature powers.
-- 219 runes that change how abilities play.
+- 218 runes that change how abilities play.
 - Twelve elements, each with its own status effect.
 - 146 blessings from the gods, and duo blessings when two gods agree.
 - 12 rune sets with set bonuses.

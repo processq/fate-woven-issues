@@ -53,7 +53,7 @@ Add `[BepInDependency("FateWoven", BepInDependency.DependencyFlags.SoftDependenc
 - **Registration:**
   - `RegisterRuleHandler(name, (caster, target, ruleJson) => bool)`: a card rule `{"handler": name}` runs your code inside Fate Woven's rule flow.
   - `RegisterUndeadProvider(character => bool)`: your creatures count as undead for Holy.
-  - `RegisterWeaponElementProvider(item => "Fire" | null)`: your weapons apply their element's status every third hit.
+  - `RegisterWeaponElementProvider(item => "Fire" | null)`: removed (Richard, 2026-11-04). The call still exists and does nothing, so add-ons built on API 1 still load; `HasEndpoint` reports it gone.
   - `RegisterElementStatus(element, statusKeys...)` (0.2.1574): the status (or statuses) your element's hits apply, by Fate Woven status key ("Chilled", "Venom", "Marked", "Burning", "Stagger" and so on). False for our twelve elements, which keep theirs, or an unknown key.
   - `RegisterDamageType("void", target => 1.5f)` (0.2.851): a new damage type. It lands as untyped damage (no stagger, like Holy and Shadow) times your multiplier for the target (1 normal, 2 weak, 0.5 resisted, 0 immune), and the number shows yellow when weak and grey when resisted. Built-in names (slash … shadow) are refused.
   - `MapElementToDamageType("Void", "void")` (0.2.851): your element deals that type. Our twelve elements keep their own. Data-only alternative: `"damageType": "void"` on the pack's element_runes card (no multiplier registered = x1 to everything). `"damage_type"` stays the player-facing sentence.
