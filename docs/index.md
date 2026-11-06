@@ -17,6 +17,9 @@ Build a tank, healer, controller, summoner, damage dealer, or any mix you can im
 
 **[Download and install](install.md)** | [Questions and answers](faq.md) | [Discord](https://discord.gg/hzQgdjk7w3)
 
+[![Join the Discord](https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/hzQgdjk7w3)
+
+
 ![A draft: three cards, pick one.](assets/shots/draft.png)
 *A draft: three cards, pick one.*
 
