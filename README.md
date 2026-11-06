@@ -24,7 +24,7 @@ The config file is BepInEx/config/FateWoven.cfg, created the first time you run 
 
 ## Community
 
-Come and chat, share builds and get help on the Fate Woven Discord: https://discord.gg/dWC9gWMc
+Come and chat, share builds and get help on the Fate Woven Discord: https://discord.gg/hzQgdjk7w3
 
 ## Reporting bugs
 
