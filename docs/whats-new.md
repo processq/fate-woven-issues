@@ -13,6 +13,89 @@ image: /assets/banner-whats-new.jpg
 Fate Woven is in beta, and every release is listed here, newest first. Please report bugs, issues and requests on the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose).
 
 
+## 0.2.1916 (beta)
+- Abilities now come on a new schedule: levels 1 to 3 offer abilities, then an ability every third level (6, 9, 12 and on) and runes on the other levels.
+- Redo my picks: every character that exists when this version first loads can pick all its abilities and runes again, once, with an undo until the next level-up.
+- Levelling and mastery were re-tuned: the first levels are quick (levels 1 and 2 cost just 15 and 20 XP), late levels take much longer, and kills pay XP by how tough the enemy is. Existing characters keep their level and mastery.
+- Parties and group quests replace the old Share button. Parties of up to 6, a party frame, shared kill XP and a small Fellowship bonus. Group quests can earn trades: swap a draft card with a party member.
+- The quest board has ranks I to VI (more notices, faster notices, better quest rarity) and daily rerolls. You can also Decline a notice.
+- Legendary quests are altar hunts. Make an offering at a marked altar and fight a very strong boss or group. They need Creature Level and Loot Control.
+- Set runes now come from the quest board, direct drops and a choice after the first boss kill. Rune stones are gone.
+- Frayed Threads: a quest reward ability with random runes locked in, with 20 to 50 uses.
+- A mysterious new card may turn up in your rune drafts: Loki's gamble.
+- Control is reworked. Each enemy has a hidden control value, control builds up over several hits and fades.
+- Same-element runes stack harder, and pets follow a new damage curve.
+- With JatifyUI, Fate Woven is now one panel in Jatify's spot, in Jatify's look, and the old clashes are fixed. Blessings sit in that panel too.
+- Levels 1 to 3 offer abilities. After that an ability draft comes every third level (6, 9, 12 and on) and all other levels offer runes.
+- Abilities unlock at levels 1, 5, 12, 20, 28, 36 and 45.
+- Many abilities show a random default element on their draft card. It is rolled per draft, so the same ability can show a different element next time. Weapon attacks, stances and forms keep a fixed element. A socketed element rune still covers it.
+- Rarity is now rolled per rarity, not per card. Utility abilities appear in ability drafts only. No modifier rune is forced into a draft.
+- A banked draft now waits until combat is over before its window opens.
+- Carried Threads can offer runes you already own, and a Full Set gives every piece.
+- A new Redo my picks button sits in the Runes panel next to Re-weave.
+- It clears your abilities, runes and bar, and gives you the new schedule of drafts up to your current level. You keep your level, signatures, mastery, quests, favour, blessings and Charms.
+- Each ability gets its mastery back when you pick it again.
+- Quest and boss rune choices you already earned are kept. Rune draws from quests are given back.
+- You can undo it until your next level-up. A backup is made first. It can be turned off in the server rules.
+- New level cost: leaving level 1 costs 15 XP and leaving level 2 costs 20, then each level takes longer. Existing characters keep their level and mastery; the new cost applies from your next level.
+- Mastery now grows more slowly, and an ability earns more mastery per use the longer its cooldown is, up to 10 points a use.
+- Kill XP now depends on the enemy's health and its biggest hit. Stars and extra effects from Creature Level and Loot Control raise it. There is no flat minimum.
+- The first player to hit an enemy, and their party, get its XP. Bosses pay like any other kill.
+- Quest XP follows the new kill XP.
+- Abilities that are not yet slotted now hit at 0.8 of a weapon hit.
+- Two new server sliders, Levelling speed and Mastery speed, from 0.25 to 4. The default is 1.
+- A Frayed ability, for example Frayed Rune Bolt, can show up as a quest reward. It rarely shows on the board (about 5%).
+- It has random runes in its slots, strong or weak, and you cannot remove them. The element slot is always filled.
+- It has 20 to 50 uses. At zero it is removed. A Re-weave removes it too. It cannot be traded.
+- Each set's element rune comes from a quest on the quest board, once per character.
+- Regular set pieces are added straight to your runes with a message.
+- Epic and Legendary set pieces are a choice after your first kill of that set's boss, if you already own another piece of the set.
+- Rune stones are removed from the game.
+- A Party window lists everyone online. Invite, kick, promote and leave from there, or use /party commands. Parties hold up to 6.
+- A party frame shows each member's health, eitr and stamina, with a Fellowship bonus of +5% XP while two or more members are close.
+- Party members count as allies and are never hurt by your abilities.
+- Group quests replace Share. When a member takes a quest, the others are offered it wherever they are.
+- Finishing a Rare, Epic or Legendary group quest can earn a trade (15%, 30% or 60%). You can bank up to 3.
+- A trade lets two party members swap a rune card from their drafts. One trade a day. Unique runes, Legendary runes and set pieces cannot be traded.
+- Board ranks I to VI. Each adds notices (3 up to 9), brings new notices faster and shifts quests toward rarer ones. Pay with a boss drop and biome materials. The best rank in a world applies to every board in it.
+- Rerolls each in-game day: 1, 2, 2, 3, 3, 4 and 4 by rank. Declining or abandoning a notice uses one.
+- Quest rewards are rolled and shown when the notice is offered.
+- One Legendary altar hunt per biome (seven in all). Pick up the notice, make the offering at the marked altar, and defeat the boss or group.
+- Hunt bosses have double health. They stay at their altar and reset if you leave or die.
+- They need Creature Level and Loot Control. Without it, Legendary notices are not offered.
+- Only players who took the quest and are close by when the last enemy falls get the reward.
+- Every enemy has a hidden control value based on its health and biggest hit. It replaces the Small, Large and Boss ranks.
+- Control builds up over several hits, from one player or several. It holds for about 10 seconds, then drains over about 10 seconds.
+- Slows, roots, silences, blinds and cows each add a little control power. Hard locks such as stun, freeze and fear add more. A hard lock that lands can't be chained straight away.
+- Your worn Charm adds to control power. Runes do not change it.
+- Matching element runes stack harder: Epic element runes add +60% and Legendary +100%.
+- Pets follow a new damage curve. Healing pets no longer deal damage, and their heals scale. Casters' pets no longer stack twice.
+- Wide now adds 43%.
+- Blood's Support Totem buff now follows the rune curve like the other elements: about +12% with one Blood rune, up to +30% fully stacked. Support Totem tooltips now show the Blood, Holy and Arcane effects.
+- Spell bolts get only the small aim assist. Path runes mix. Split works on totems. Nature's growth is +5% a second.
+- Bonemass's ooze.
+- Fenris shows Bleeding enemies through walls (red). Huginn shows every enemy within 30 m (purple).
+- Gullinkambi's rooster brings back fallen tamed animals at half health.
+- Shadow summons pass through enemies. Water summons are immune to Wet.
+- Flanking Call works through a shield on an ally. Boon with Beam accepts Multicast, Split and Pulsing.
+- Returning Haft works on thrown weapons and projectile spells.
+- Helper favour: about 10% of someone else's group offering.
+- Greater Charms can be earned again.
+- Festering Touch resets on bosses.
+- Staggers no longer land on stagger-immune enemies (they are Slowed).
+- Helgrind works on starred enemies.
+- PvP: guards for Shock, armour ease, Hel's Harvest shades and executes.
+- One 25% evade cap now covers all blessings, including Gods' Sport.
+- Five settings that did nothing were removed, and several settings texts were fixed.
+- The first-time tip pop-up is gone. Hints now wait for Hugin.
+- Old config values for settings that changed are updated once. A save from a newer version is refused with a message instead of being overwritten.
+- Every window can be moved and resized, and takes the look of SeneaL UI or JatifyUI when installed. The ability wheel stays centred.
+- JatifyUI fix: with Jatify installed, Fate Woven is one panel in Jatify's spot, with Jatify's header and tabs. Our windows take the look of Jatify's Crafting page, and a Fate Woven button opens the panel. They no longer clash with Jatify's crafting window, header or health bar.
+- Blessings are in the panel too: six slots, with the blessings you haven't slotted listed below.
+- The Runes tab has a taller layout.
+- With SeneaL UI, the party window and frame, board controls and altar prompt use its look.
+- The host (or you, in single player) can edit all server rules in Settings > Server rules; clients see them read-only. A few rules say a reload is needed, and a notice names the changed rules when you close the window. Your own settings also show in SeneaL UI's settings window.
+
 ## 0.2.1801 (beta)
 - This hotfix is a systems rework: runes now come from your drafts, quests and boss kills.
 - Rune stones no longer drop, and Rune Finder I and II are gone.

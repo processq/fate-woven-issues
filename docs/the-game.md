@@ -21,7 +21,8 @@ How Fate Woven plays, page by page.
 - [Rune sets](sets.md): set bonuses by biome.
 - [Utility and pets](utility-and-pets.md): summons, mounts, totems and more.
 - [Quests and charms](quests-and-charms.md): the quest board and Rune Charms.
-- [Re-weave and Hel's Road](re-weave.md): starting over for Carried Threads.
+- [Party](party.md): playing together, group quests and trades.
+- [Re-weave and Hel's Road](re-weave.md): starting over for Carried Threads, and Redo my picks.
 
 ---
 *Fate Woven is designed by a human, who decides what it does and how it plays. The code is written by Claude, an AI model made by Anthropic, working from that design. The documentation is written by Claude too, and the icons are AI-generated.*

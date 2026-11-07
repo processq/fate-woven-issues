@@ -20,12 +20,12 @@ Fate Woven is in beta and changes fast, so here is what we know is not finished.
 ## Mods
 - **Creature Level and Loot Control 4.6.4** from Thunderstore crashes with this game version. Use version 5.x from Hexium.
 - **Epic Loot** works even though it shows a "not compatible" warning.
-- **JatifyUI** breaks our Abilities panel and overlaps other windows when both are installed. This will be fixed in the next release.
+- **JatifyUI** works with Fate Woven as one panel in Jatify's spot. If a Fate Woven window still overlaps one of Jatify's, tell us which.
 
 ## First-pass balance
-- **XP and mastery are sped up for the beta,** so you can reach more of the game quickly. Expect levelling and mastery to be slower after the beta.
+- **Levelling and mastery were re-tuned.** Early levels are quick and late levels take much longer. Existing characters keep their level and mastery, and two server sliders (Levelling speed and Mastery speed) change the pace.
 - All balance is tuned against normal enemies, not yet against levelled-up enemies from enemy mods such as Creature Level and Loot Control or Monstrum. Expect it to change.
-- First numbers, likely to change: the new set pieces, the Epic second copies, Ward-Breaker Blow's rebuilt shield, the Warding Rune beam's stacking shields, Last Command's shield of 30, Reaper's Toll's 6 refunds a minute, and control on big enemies (half length, then 6 seconds of immunity).
+- First numbers, likely to change: the new set pieces, the Epic second copies, Ward-Breaker Blow's rebuilt shield, the Warding Rune beam's stacking shields, Last Command's shield of 30 and Reaper's Toll's 6 refunds a minute.
 - The 0.2.1786 balance pass put every rune on one scale (Epic and Legendary were pulled toward the middle, Common to Rare were cut, control and slot unlocks were lowered). It is a first baseline: expect numbers to move with player feedback.
 - Effects that fire "about N times a minute" on rare events now fire as often as their cards say, so they are stronger than before.
 

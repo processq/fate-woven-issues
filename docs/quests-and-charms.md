@@ -2,7 +2,7 @@
 title: Quests and charms
 nav_order: 8
 parent: The game
-description: "Fate Woven quests, the quest board, Rune Charms and the Altar of the Gods: tiers, rewards and how Charms power your abilities."
+description: "Fate Woven quests, the quest board and its ranks, Legendary altar hunts, Frayed Threads, Rune Charms and the Altar of the Gods."
 image: /assets/banner-quests-and-charms.jpg
 ---
 
@@ -23,27 +23,66 @@ image: /assets/banner-quests-and-charms.jpg
 
 Quests are posted on the **quest board**, a piece you build with the hammer (it needs a Hard antler from Eikthyr, 10 Wood and 5 Leather scraps, at a workbench). You can build as many as you like. Press E to read the notices.
 
-- Each character has their own three notices at a time, and a new one appears about once an in-game day.
+- Each character has their own notices. A plain board shows three, and a new one appears about once an in-game day. Upgrades (below) add notices and bring them faster.
 - Notices follow the Charm you wear: with no Charm you are offered Meadows notices. A notice at the tier of the Charm you hold pays its full rewards; an easier notice pays XP only, and harder ones are not offered. Your level does not decide it.
+- **You see the reward before you take a notice.** It is rolled when the notice is offered and shown on it.
 - Take a notice, do it, and hand it in at a board. Kill quests are handed in at a board too.
-- **Sharing:** press Share to offer a quest to players within about 10 m. If they accept, you share one progress count, the target grows with more people, and each player gets their own reward roll.
+- **Group quests:** with a party, a quest one member takes is offered to the others, wherever they are (see below).
+
+## Board ranks
+
+You can upgrade the board with a boss drop plus a few materials from that biome. Anyone can pay at any board, you buy the ranks in order, and the best rank bought in a world applies to every board in it, for every player. A higher rank gives more notices, brings new ones sooner, tilts the notices toward rarer quests and gives you more rerolls a day.
+
+| Rank | Boss drop | Notices | A new notice every | Rerolls a day | Also needs |
+|---|---|---|---|---|---|
+| Base board | Hard antler (Eikthyr), to build it | 3 | 24 hours | 1 | 10 Wood, 5 Leather scraps |
+| I | Swamp key (The Elder) | 4 | 18 hours | 2 | 10 Core wood, 5 Bronze nails |
+| II | Wishbone (Bonemass) | 5 | 14 hours | 2 | 10 Ancient bark, 5 Chain |
+| III | Dragon tear (Moder) | 6 | 12 hours | 3 | 10 Silver, 5 Obsidian |
+| IV | Torn spirit (Yagluth) | 7 | 10 hours | 3 | 10 Black metal, 5 Linen thread |
+| V | Majestic carapace (The Queen) | 8 | 8 hours | 4 | 10 Yggdrasil wood, 5 Black marble |
+| VI | Fader relic (Fader) | 9 | 6 hours | 4 | 10 Flametal, 5 Grausten |
+
+**Rerolls, Decline and Abandon.** A **Reroll** swaps one notice for a fresh quest and reward at once, free. You have a few each in-game day (the table above) and they are yours alone. **Decline** clears a notice you do not want and spends a reroll to put a new one there. With no rerolls left it still clears the notice, but the slot stays empty until the next notice is due. **Abandon** drops a quest you already took: it gives you a fresh notice if you have a reroll left. Set-rune quests cannot be rerolled or declined.
 
 ## What the quests ask
 
-There are 53 quests across the Meadows to the Ashlands: 9 Meadows, 9 Black Forest, 7 Swamp, 7 Mountains, 7 Plains, 7 Mistlands, 7 Ashlands. The kinds are: kill a creature count or one named target, gather items, deliver items, and clear a nest or a dungeon.
+There are 72 quests across the Meadows to the Ashlands: 11 Meadows, 12 Black Forest, 12 Swamp, 9 Mountains, 10 Plains, 9 Mistlands, 9 Ashlands. The kinds are: kill a creature count or one named target, gather items, deliver items, clear a nest or a dungeon, and the Legendary altar hunts below.
 
 **Epic quests** ask you to clear a place: kill a set number of enemies at a named location, such as the Burial Chambers or the Frost Caves, 150 to 2000 m from the board. They are rarer, and they are the quests that can pay a Unique.
 
+**Rune set quests.** Every rune set has a quest on the board that pays the set's element rune. It appears once your Charm reaches that biome and stays until you take it. You can do it once per character, and a Re-weave does not bring it back. The rune goes straight into your Runes list. See [Rune sets](sets.md).
+
+## Legendary altar hunts
+
+The rarest notices are hunts: a very strong boss, or a boss with a group, waiting at an altar. There is one hunt for each biome from the Meadows to the Ashlands, seven in all. **They need Creature Level and Loot Control**; without it Legendary notices are not offered.
+
+- Take the notice and an altar is marked on your map. Make the offering there (a stack of that biome's materials) and the enemies appear.
+- The boss is much tougher than a normal one. It stays at its altar, and it resets if you leave or everyone dies. Try again with a new offering.
+- Only players who took the quest and are close by when the last enemy falls get the reward. As with any quest, a hunt below your Charm's tier pays XP only.
+- The creatures drop their usual loot and can drop the biome's set pieces. Which boss, and what it carries, is left for you to find.
+
+## Group quests
+
+When a party member takes a quest, the other members are offered it, wherever they are. Everyone who accepts shares one progress count. The target grows with every extra member who joins, and each player gets their own reward roll. Members must be near the kill or place to count. This replaces the old Share button.
+
+## Trades
+
+Finishing a **Rare, Epic or Legendary group quest** gives each member who finishes it a chance to earn a **trade**: 15% for Rare, 30% for Epic and 60% for Legendary. Easier quests and quests done alone give none. You can bank up to 3, and a trade is spent only when you complete one. See [Party](party.md) for what a trade does.
+
 ## Rewards
 
-Every reward has a tier, from Common to Legendary, and your notice's rarity sets the odds. Rewards include XP bundles, extra draft choices, rerolls, banishes and locks for your drafts, favour with the gods, blessings, tokens, and permanent perks.
+Every reward has a tier, from Common to Legendary, and your notice's rarity sets the odds. Rewards include XP bundles, extra draft choices, rerolls, banishes and locks for your drafts, favour with the gods, a set's element rune, and permanent perks. Rerolls, banishes and locks come from quests only, and earning many in a short time makes the next one less likely.
 
 There are 41 permanent Legacy Rewards. They are left for you to discover in play. Some are chains where each stage unlocks the next.
 
+### Frayed Threads
 
-> **More to come: Legendary quests**
-> The rarest notices send you to call a named boss at an altar with an offering.
-> Which boss, and what it carries, is left for you to find.
+Now and then a quest reward is a **Frayed Threads** ability: an ability of the game's choosing, called Frayed (for example Frayed Rune Bolt), with runes already locked in its slots. About one notice in twenty on the board offers one, and the notice shows which ability it is but not the runes.
+
+- The runes are random and can be strong or weak. You can't remove or move them. The element slot is always filled. A better quest fills more slots.
+- It has **20 to 50 uses** and does not recharge. At zero it is removed. It shows its uses left in your abilities list, and takes a bar slot like any ability.
+- A Re-weave removes it. It can't be traded.
 
 ## Rune Charms
 

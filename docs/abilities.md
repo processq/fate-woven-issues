@@ -11,7 +11,9 @@ image: /assets/banner-abilities.jpg
 # Abilities
 {: .visually-hidden}
 
-Every ability costs eitr or stamina and has a cooldown. The element shown is the default; an element rune in the ability changes it.
+Every ability costs eitr or stamina and has a cooldown. The element shown is the default; an element rune in the ability changes it. Many abilities roll a different default element each time a draft offers them (see [Getting started](getting-started.md)), so the element you see here is only the usual one.
+
+Abilities come from level drafts, boss choices and quests. A rare quest reward, a **Frayed** ability, comes with runes already locked in and runs out after a number of uses (see [Quests and charms](quests-and-charms.md)).
 
 ## Controller
 

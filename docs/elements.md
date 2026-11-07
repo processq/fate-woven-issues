@@ -11,7 +11,7 @@ image: /assets/banner-elements.jpg
 # Elements
 {: .visually-hidden}
 
-There are twelve elements. Each fits a role, but you can mix them.
+There are twelve elements. Each fits a role, but you can mix them. Runes of the same element stack: fill every slot with one element and it is about 3.2 times as strong (see [Runes](runes.md)).
 
 | Role | Elements |
 |---|---|
@@ -46,7 +46,7 @@ Status: **Marked**. Hits apply Marked for 8s: it takes 10% more damage from Fate
 
 ## <img src="assets/icons/element/lightning.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Lightning
 
-Status: **Shocked**. Hits apply Shocked for 6s: the next hit on a Shocked enemy deals +20% damage and arcs 50% of it to 1 enemy within 6m, consuming Shocked. Wet targets take x1.5 Lightning damage.
+Status: **Shocked**. Hits apply Shocked for 6s: the next hit on a Shocked enemy deals +20% damage and arcs 50% of it to 1 enemy within 6m, consuming Shocked. Wet targets take x1.5 Lightning damage (vanilla's Wet already makes the target Weak, x1.5, to Lightning and Frost; Fate Woven adds nothing on top).
 
 ## <img src="assets/icons/element/nature.png" width="44" height="44" style="vertical-align:middle;margin-right:6px" alt=""> Nature
 

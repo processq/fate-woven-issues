@@ -15,11 +15,18 @@ image: /assets/banner-sets.jpg
 > **More to come: Set bonuses**
 > Wear more pieces of a set and the set bonuses unlock. Full-set bonuses are held back for you to discover.
 
-Rune sets give bonuses when you carry several pieces of one set. Set pieces drop from specific enemies and bosses.
+Rune sets give bonuses when you carry several pieces of one set.
+
+## How set pieces reach you
+
+- **Element rune:** a quest on the quest board gives each set's element rune, once per character. See [Quests and charms](quests-and-charms.md).
+- **Regular pieces:** they drop from the creatures and chests named below, and go straight into your Runes list with a message. In a group, each player in range rolls on their own, and a chest gives its piece the first time you open it.
+- **Epic and Legendary pieces:** the first time you beat a set's boss, if you already own another piece of that set (the element rune counts), you choose one of its Epic and Legendary pieces, the way you choose a signature or trophy. Legendary altar hunt bosses can drop pieces of their biome's set too.
+- You can own several copies of any piece and run the same set on several abilities. A Re-weave keeps every set piece.
 
 ## Stag-Thunder (Lightning, Meadows)
 
-**Stag Rune** (element rune): Shocked enemies are also Staggered by your next hit. *Source: Trader quest in the Meadows.*
+**Stag Rune** (element rune): Shocked enemies are also Staggered by your next hit. *Source: A quest on the quest board in the Meadows.*
 
 - **Antler Tine** (normal slot): Shocked from this ability arcs to 1 extra enemy when it is used up. *Source: 2-star Deer; the legendary quest boss of the Meadows (10%).*
 - **Boar Bristle** (normal slot): Shocked lasts 1s longer. *Source: 2-star Boar; the legendary quest boss of the Meadows (10%).*
@@ -29,7 +36,7 @@ Rune sets give bonuses when you carry several pieces of one set. Set pieces drop
 
 ## Greydwarf Grove (Nature, Black Forest)
 
-**Root Rune** (element rune): When a Root from this ability ends, the enemy is Slowed 30% for 2s. *Source: Trader quest in the Black Forest.*
+**Root Rune** (element rune): When a Root from this ability ends, the enemy is Slowed 30% for 2s. *Source: A quest on the quest board in the Black Forest.*
 
 - **Greydwarf Bark** (normal slot): Root lasts 1s longer. *Source: Burial Chambers; the legendary quest boss of the Black Forest (10%).*
 - **Shaman's Herb** (normal slot): You heal 1 HP a second (tier-scaled) while an enemy you Rooted is within 10m. Only the best copy counts. *Source: Greydwarf Shaman; the legendary quest boss of the Black Forest (10%).*
@@ -39,7 +46,7 @@ Rune sets give bonuses when you carry several pieces of one set. Set pieces drop
 
 ## Bog Rot (Poison, Swamp)
 
-**Ooze Rune** (element rune): Venom stacks to 15 instead of 10. On an ability with a cooldown of 8s or more, each hit adds 5 Venom stacks at once. *Source: Trader quest in the Swamp.*
+**Ooze Rune** (element rune): Venom stacks to 15 instead of 10. On an ability with a cooldown of 8s or more, each hit adds 5 Venom stacks at once. *Source: A quest on the quest board in the Swamp.*
 
 - **Leech Tooth** (normal slot): +1 Venom on hits that already add Venom. *Source: Sunken Crypts; the legendary quest boss of the Swamp (10%).*
 - **Wraith Shroud** (normal slot): Venom lasts 2s longer. *Source: Wraith; the legendary quest boss of the Swamp (10%).*
@@ -49,7 +56,7 @@ Rune sets give bonuses when you carry several pieces of one set. Set pieces drop
 
 ## Drake's Winter (Frost, Mountains)
 
-**Drake Rune** (element rune): When Frozen from this ability ends, the enemy keeps 2 Chilled. *Source: Trader quest in the Mountains.*
+**Drake Rune** (element rune): When Frozen from this ability ends, the enemy keeps 2 Chilled. *Source: A quest on the quest board in the Mountains.*
 
 - **Wolf Fang** (normal slot): +1 Chill on hits that already add Chill. *Source: Frost caves; the legendary quest boss of the Mountains (10%).*
 - **Golem Crystal** (normal slot): Chilled from this ability lasts 2s longer. *Source: Stone Golem; the legendary quest boss of the Mountains (10%).*
@@ -59,7 +66,7 @@ Rune sets give bonuses when you carry several pieces of one set. Set pieces drop
 
 ## Lox Plains (Earth, Plains)
 
-**Lox Rune** (element rune): Staggered enemies are knocked back 2m. *Source: Trader quest in the Plains.*
+**Lox Rune** (element rune): Staggered enemies are knocked back 2m. *Source: A quest on the quest board in the Plains.*
 
 - **Fuling Totem** (normal slot): +15% stagger. *Source: Fuling villages; the legendary quest boss of the Plains (10%).*
 - **Lox Pelt** (normal slot): +10% stagger. *Source: 2-star Lox; the legendary quest boss of the Plains (10%).*
@@ -69,7 +76,7 @@ Rune sets give bonuses when you carry several pieces of one set. Set pieces drop
 
 ## Dvergr Mist (Arcane, Mistlands)
 
-**Dvergr Rune** (element rune): About 12 times a minute, a hit restores 3 eitr to you and every ally within 8m. *Source: Trader quest in the Mistlands.*
+**Dvergr Rune** (element rune): About 12 times a minute, a hit restores 3 eitr to you and every ally within 8m. *Source: A quest on the quest board in the Mistlands.*
 
 - **Seeker Chitin** (normal slot): +5% eitr regen while slotted. *Source: Infested Mines; the legendary quest boss of the Mistlands (10%).*
 - **Gjall Sac** (normal slot): Kills with this ability restore 5 eitr. *Source: Gjall; the legendary quest boss of the Mistlands (10%).*
@@ -79,7 +86,7 @@ Rune sets give bonuses when you carry several pieces of one set. Set pieces drop
 
 ## Ember Ash (Fire, Ashlands)
 
-**Ember Rune** (element rune): Burning stacks to 80% instead of 60%. On an ability with a cooldown of 5s or more, Burning starts at 80%. *Source: Trader quest in the Ashlands.*
+**Ember Rune** (element rune): Burning stacks to 80% instead of 60%. On an ability with a cooldown of 5s or more, Burning starts at 80%. *Source: A quest on the quest board in the Ashlands.*
 
 - **Charred Bone** (normal slot): Burning deals 10% more. *Source: Charred fortresses; the legendary quest boss of the Ashlands (10%).*
 - **Valkyrie Feather** (normal slot): Burning lasts 1s longer. *Source: Fallen Valkyrie; the legendary quest boss of the Ashlands (10%).*

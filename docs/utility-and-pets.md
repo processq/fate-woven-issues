@@ -156,6 +156,8 @@ Fells a tree, splits it into logs and pulls in everything it dropped.
 The Summon ability calls a permanent pet. Your first element rune picks its body. Every element rune you add gives it that element's stats and abilities, unlocked at 1, 3 and 5 runes. It starts at half your height and grows as you add runes.  
 Press J to give it orders (attack, stay, follow). Press H to set its mode (passive, defend, aggressive). Click its name in the pet window to rename it.
 
+Pets follow their own damage curve, which is still being tuned. Healing pets (Water and Nature) do not deal damage, and their heals grow as you add runes. A caster pet no longer gets its element bonus twice.
+
 | Element | Role | Creature |
 |---|---|---|
 | Arcane | Support | Dvergr mage (support variant) |

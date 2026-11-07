@@ -11,9 +11,13 @@ image: /assets/banner-runes.jpg
 # Runes
 {: .visually-hidden}
 
-Each ability has an element slot, a few normal slots, an Epic slot and a Legendary slot. Runes of the same element stack: about +20% in a normal slot, +25% in the Epic slot and +30% in the Legendary slot. Epic and Legendary runes also change how an ability plays, and they break an enemy's resistance to their element for a few seconds.
+Each ability has an element slot, a few normal slots, an Epic slot and a Legendary slot. Runes of the same element stack: about +20% in a normal slot, +60% in the Epic slot and +100% in the Legendary slot. Epic and Legendary runes also change how an ability plays, and they break an enemy's resistance to their element for a few seconds.
 
 Rune slots: one **element** slot, a few **normal** slots, one **Epic** slot and one **Legendary** slot. Runes of the same element stack. Only abilities on your bar hold runes: when an ability leaves the bar its runes are freed, and when it comes back it takes back whatever is free and still fits.
+
+Matching element runes stack. With the element slot, three normal slots, the Epic slot and the Legendary slot all holding the same element, that element is about 3.2 times as strong on the ability: roughly +20% for each normal slot, +60% for the Epic slot and +100% for the Legendary slot.
+
+Runes come from level drafts (every level that is not an ability draft), boss rune drafts, quest rewards, rune sets ([Rune sets](sets.md)) and trades with party members ([Party](party.md)).
 
 There are 163 Epic and Legendary runes. They are left for you to discover in play.
 
@@ -172,7 +176,7 @@ Shots are silent; foes hit from stealth don't know where it came from.
 
 ### <img src="assets/icons/rune/sleep_thorn.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Sleep-Thorn
 
-Its control puts the foe to sleep instead: half as long again, but any damage wakes it.
+Its control puts the foe to sleep instead: half as long again, but any hit wakes it.
 
 ### <img src="assets/icons/rune/split.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Split
 

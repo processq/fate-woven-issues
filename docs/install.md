@@ -19,7 +19,7 @@ Fate Woven is a Valheim mod for the Steam version of the game. It is in beta, so
 
 ## Get it
 - **Hexium:** [Fate Woven on Hexium](https://valheim.hexium.gg/mods/processq/FateWoven).
-- **GitHub:** every beta zip is on the [releases page](https://github.com/processq/fate-woven-issues/releases).
+- **GitHub:** every beta zip is on the [releases page](https://github.com/processq/valheim-wildcard/releases).
 
 ## With a mod manager (easiest)
 Install Fate Woven from your mod manager (r2modman or similar). It brings BepInEx and Jotunn with it. Start the game from the manager.

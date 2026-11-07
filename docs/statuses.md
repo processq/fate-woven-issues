@@ -11,6 +11,19 @@ image: /assets/banner-statuses.jpg
 # Statuses
 {: .visually-hidden}
 
+## How control lands
+
+Stuns, freezes, roots, slows, fear, sleep and the other controls do not simply land every time. **Every creature has a hidden control value.** You never see it. It rises with how tough the creature is, so a Greydwarf has a small one and a Troll or a boss has a big one. Stars and extra effects from enemy mods raise it too.
+
+- Each control you land adds **control power**. When the power an enemy has taken reaches its control value, the effect takes hold.
+- Power builds up over several hits, and other players' controls on the same enemy add to yours. If nobody keeps it up, it holds for a short while and then drains away.
+- **Hard locks** (stun, freeze, petrify, fear, sleep) add a good deal more power than **soft controls** (roots, slows, silence, blind, cow).
+- The Charm you wear raises how much power each control adds. Runes do not change it. They change how long the effect lasts and what else it does.
+- A weak creature falls to one or two controls. A big one needs several, or a group. Bosses need the most, and when a control lands on a boss it lasts only a quarter as long.
+- After a hard lock lands, that creature shrugs off hard locks for a short time (longer for a boss), so you cannot chain them.
+
+The entries below say what each status does once it has taken hold.
+
 ## Buff
 
 ### <img src="assets/icons/status/charged.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Charged (Lightning)
@@ -37,7 +50,7 @@ Flees from the source and cannot attack. Bosses ignore Fear. Cards may set their
 
 ### <img src="assets/icons/status/rooted.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Rooted (Nature / Earth / Water)
 
-Cannot move but can still attack. Bosses are slowed 40% instead. Then immune for 6s. Cards may set their own duration or a stronger version; that only changes that application. Lasts 1.5s.
+Cannot move but can still attack. Bosses are slowed 40% instead. Cards may set their own duration or a stronger version; that only changes that application. Lasts 1.5s.
 
 ### <img src="assets/icons/status/taunted.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Taunted (Any)
 
@@ -71,7 +84,7 @@ Mired: 40% slower and takes 25% more stagger. Cards may set their own duration o
 
 ### <img src="assets/icons/status/shocked.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Shocked (Lightning)
 
-The next hit on the target deals +20% damage and arcs 50% of it to 1 enemy within 6m, consuming Shocked. Wet targets take x1.5 Lightning damage. Cards may set their own duration or a stronger version; that only changes that application. Lasts 6s.
+The next hit on the target deals +20% damage and arcs 50% of it to 1 enemy within 6m, consuming Shocked. Wet targets take x1.5 Lightning damage (vanilla's Wet already makes the target Weak, x1.5, to Lightning and Frost; Fate Woven adds nothing on top). Cards may set their own duration or a stronger version; that only changes that application. Lasts 6s.
 
 ### <img src="assets/icons/status/silenced.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Silenced (Any)
 
@@ -111,19 +124,19 @@ Cannot act until hit or the duration ends. Any hit wakes it; damage over time do
 
 ### <img src="assets/icons/status/confused.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Confused (Any (control))
 
-Attacks the nearest other enemy instead of the player. Bosses can't be Confused. Cards may set their own duration or a stronger version; that only changes that application. Lasts As the card says, at most 4s from abilities and runes. A blessing's own active can name a longer time (Taunts at the Sea Giant's Feast: 8s, on a 240s cooldown). Control ranks and the immunity afterwards still apply..
+Attacks the nearest other enemy instead of the player. Bosses can't be Confused. Cards may set their own duration or a stronger version; that only changes that application. Lasts As the card says, at most 4s from abilities and runes. A blessing's own active can name a longer time (Taunts at the Sea Giant's Feast: 8s, on a 240s cooldown). The usual control rules and the immunity afterwards still apply..
 
 ### <img src="assets/icons/status/frozen.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Frozen (Frost)
 
-Cannot act. Breaks early on a heavy hit after 1s. Bosses are slowed 50% instead. Then immune to Frozen for 8s. Payoff target for Shatter effects. Cards may set their own duration or a stronger version; that only changes that application. Lasts 1.2s.
+Cannot act. Breaks early on a heavy hit after 1s. Bosses are slowed 50% instead. After it ends the creature resists hard locks for 6s (bosses 20s). Payoff target for Shatter effects. Cards may set their own duration or a stronger version; that only changes that application. Lasts 1.2s.
 
 ### <img src="assets/icons/status/petrified.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Petrified (Earth)
 
-Staggered twice within 6s by Earth hits: turned to stone: cannot act and takes +30% Blunt damage. Bosses and stagger-immune creatures are Slowed 50% for its length instead. Then immune for 10s. Cards may set their own duration or a stronger version; that only changes that application. Stagger-immune creatures can't reach it through Earth's double stagger. Lasts 1.6s.
+Staggered twice within 6s by Earth hits: turned to stone: cannot act and takes +30% Blunt damage. Bosses and stagger-immune creatures are Slowed 50% for its length instead. After it ends the creature resists hard locks for 6s (bosses 20s). Cards may set their own duration or a stronger version; that only changes that application. Stagger-immune creatures can't reach it through Earth's double stagger. Lasts 1.6s.
 
-### Smothered (Any (Smother))
+### <img src="assets/icons/status/smothered.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Smothered (Any (Smother))
 
-A bubble of the element covers the head: cannot move, attack or cast. Takes a little damage each second, rising 15% a second. The bubble has a shell that hits can break, which ends the effect. Creatures that don't breathe (undead, spirits, golems, Surtlings) are Blinded instead. Large creatures take it at once at half length; Boss creatures follow the control meter. Then immune to Smothered for 8s. Cards may set their own duration or a stronger version; that only changes that application. Lasts 3s.
+A bubble of the element covers the head: cannot move, attack or cast. Takes a little damage each second, rising 15% a second. The bubble has a shell that hits can break, which ends the effect. Creatures that don't breathe (undead, spirits, golems, Surtlings) are Blinded instead. On bosses it lasts a quarter as long. After it ends the creature resists hard locks for 6s (bosses 20s). Cards may set their own duration or a stronger version; that only changes that application. Lasts 3s.
 
 ### <img src="assets/icons/status/staggered.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Staggered (Earth / Steel (native Valheim))
 

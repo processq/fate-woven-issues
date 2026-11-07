@@ -16,7 +16,7 @@ Fate Woven gives you spells. Fight to earn XP, and every level offers you three 
 
 ### Levels And Drafts
 
-Levels 1 to 3 offer abilities only. After that, even levels offer runes and odd levels offer abilities. Utility abilities start at level 11, and the top level is 60. Beat a boss and you get a draft of strong runes. You can own the same ability twice, and each copy keeps its own runes.
+Levels 1 to 3 offer abilities only. After that, a new ability comes every third level (6, 9, 12 and on) and the other levels offer runes. Utility abilities start at level 11, and the top level is 60. Beat a boss and you get a draft of strong runes. You can own the same ability twice, and each copy keeps its own runes.
 
 ### Keys
 
@@ -45,7 +45,7 @@ Everything you deal is split by element, each in its own colour. A dimmed number
 
 ### Runes
 
-Each ability has an element slot, a few normal slots, an Epic slot and a Legendary slot. Runes of the same element stack: about +20% in a normal slot, +25% in the Epic slot and +30% in the Legendary slot. Epic and Legendary runes also change how an ability plays, and they break an enemy's resistance to their element for a few seconds.
+Each ability has an element slot, a few normal slots, an Epic slot and a Legendary slot. Runes of the same element stack: about +20% in a normal slot, +60% in the Epic slot and +100% in the Legendary slot. Epic and Legendary runes also change how an ability plays, and they break an enemy's resistance to their element for a few seconds.
 
 ### Sets And Special Runes
 
@@ -67,6 +67,31 @@ Cards open by character level, not by boss kills, so a player who levels fast st
 | Deep North | 53 |
 
 A few abilities are held back until a higher level on top of that (Summon Mount opens at level 30).
+
+
+### The draft schedule
+
+Levels 1 to 3 offer abilities only, so you fill your first three bar slots at once. After that an **ability draft comes every third level** (6, 9, 12 and on up to 60), and every level in between is a **rune draft**. By level 60 that is 22 ability picks and 38 rune picks. Utility abilities can show up in ability drafts from level 11. A draft you have banked waits until the fight is over before its window opens.
+
+**Default element.** A spell, heal, buff or summon card shows a default element, and it is rolled fresh for each draft. The same ability can show a different element the next time it is offered, and two players see different rolls. Taking the card fixes that element for your copy. An element rune in the slot still covers it. Weapon attacks, stances, forms and abilities whose rules name an element never change.
+
+### XP, levels and mastery
+
+- **Levels.** The first levels come quickly. Each later level takes longer, and the last ones take a long time.
+- **Kill XP.** A kill pays by how much health the creature has and how hard it can hit. Weak creatures pay little and big ones pay a lot. Stars and extra effects from Creature Level and Loot Control raise it further. Bosses pay like any other kill, so a boss with a lot of health pays a lot.
+- **Who gets the XP.** The first player to hit a creature and that player's party get its XP. Nobody else does. Party members near the kill get it even if they did not land a hit (see [Party](party.md)).
+- **Abilities start modest.** A plain ability with no runes and no mastery hits a little softer than a weapon swing (the basic bolt is about four fifths of one). Mastery, runes and your Charm raise it from there.
+- **Mastery.** Every ability builds mastery as you use it. Mastery grows more slowly than it used to, and a use of a slow ability earns more than a use of a quick one. A multicast, multishot or multistrike counts as two uses. Combat abilities build mastery only in a fight (when you hit or were hurt in the last few seconds). Heals build it when they heal someone, summons in a fight, and toggles while they are on. Buffs, movement and utility abilities build it any time.
+- **Server speed.** A server host can speed levelling or mastery up or slow it down with two sliders, Levelling speed and Mastery speed (see [Settings](settings.md)).
+- **Beta characters.** If you made your character before this tuning, you keep your level and mastery. The new level costs apply from your next level.
+
+### Redo my picks
+
+If your character was made before the new draft schedule, the Runes panel has a **Redo my picks** button, once. It clears your abilities, runes and bar, and lets you pick again for every level up to your current one on the new schedule. You keep your level, signatures, mastery, quests, favour, blessings and Charms. Each ability gets its mastery back when you pick it again. Details and Undo are on [Re-weave and Hel's Road](re-weave.md).
+
+### Playing together
+
+Press **P** to open the Party window. Parties share kill XP and quests, and a party's drafts can trade rune cards. See [Party](party.md).
 
 ![A draft: three cards, pick one.](assets/shots/draft.png)
 *A draft: three cards, pick one.*

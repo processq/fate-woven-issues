@@ -29,13 +29,16 @@ Build a tank, healer, controller, summoner, damage dealer, or any mix you can im
 - Twelve elements, each with its own status effect.
 - 146 blessings from the gods, and duo blessings when two gods agree.
 - 12 rune sets with set bonuses.
-- Levels 1 to 60, with mastery: every ability gets stronger the more you use it.
-- A quest board with notices for every biome, and seven Rune Charms you craft from boss drops ([Quests and charms](quests-and-charms.md)).
+- Levels 1 to 60, with mastery: every ability gets stronger the more you use it. Early levels come quickly and late ones take much longer ([Getting started](getting-started.md)).
+- An ability draft every third level and rune drafts in between, so you spend most levels shaping the abilities you already have.
+- A quest board with notices for every biome, six upgrade ranks, and seven Rune Charms you craft from boss drops ([Quests and charms](quests-and-charms.md)). The rarest quests are Legendary altar hunts.
+- Parties of up to six: shared kill XP, group quests and a small Fellowship bonus ([Party](party.md)).
+- Controls that build up on every creature, so tough enemies need a group or a stack of them ([Statuses](statuses.md)).
 - Re-weave: at level 60, start over to gain Carried Threads that wait in every later draft ([Re-weave and Hel's Road](re-weave.md)).
 - [What's new](whats-new.md): every beta release, newest first.
 
 ## Start here
-- [Getting started](getting-started.md): keys, levels, drafts.
+- [Getting started](getting-started.md): keys, levels, drafts, XP and mastery.
 - [Abilities](abilities.md): every base ability, by role.
 - [Runes](runes.md): how runes work and the common ones.
 
