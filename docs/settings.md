@@ -26,7 +26,6 @@ Fate Woven's settings live in `BepInEx/config/FateWoven.cfg`, and the Abilities 
 ### Levels and eitr
 | Setting | Default | What it does |
 |---|---|---|
-| Progression > LevelCap | 60 | The top combat level. |
 | Progression > UnlockLevels | 1,5,12,20,28,36,45,53 | The level at which each biome's cards open for drafts. |
 | Eitr > EitrPoolBase and EitrPoolPerLevel | 30 and 2 | Your Fate Woven eitr at level 1, and how much it grows each level. |
 | Eitr > PoolRegenOutOfCombat and PoolRegenInCombat | 2.0 and 1.5 | Eitr regained a second out of and in combat. |
