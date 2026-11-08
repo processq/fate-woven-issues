@@ -11,13 +11,11 @@ permalink: /
 # Fate Woven: build your Viking
 {: .visually-hidden}
 
+<div style="display:flex;gap:0.5rem;margin-bottom:1rem"><a style="flex:1" href="https://valheim.hexium.gg/mods/processq/FateWoven"><img src="/assets/button-release.png" alt="Download" style="width:100%"></a><a style="flex:1" href="https://discord.gg/hzQgdjk7w3"><img src="/assets/button-discord.png" alt="Discord" style="width:100%"></a><a style="flex:1" href="https://github.com/processq/fate-woven-issues/issues/new/choose"><img src="/assets/button-bug.png" alt="Report a bug" style="width:100%"></a><a style="flex:1" href="https://ko-fi.com/processq"><img src="/assets/button-kofi.png" alt="Support on Ko-fi" style="width:100%"></a></div>
+
 Fate Woven adds a full ability and build system to Valheim. You level up by fighting and draft new abilities and runes as you go. Runes don't just add numbers, they change how your abilities work: bolts split, heals pulse, strikes spin.
 
 Build a tank, healer, controller, summoner, damage dealer, or any mix you can imagine, and bring real roles to your co-op group. Win favour with 17 Norse gods, collect rune sets, and find rare runes and signature powers along the way.
-
-**[Download and install](install.md)** | [Questions and answers](faq.md) | [Discord](https://discord.gg/hzQgdjk7w3)
-
-<a href="https://valheim.hexium.gg/mods/processq/FateWoven"><img src="/assets/button-release.png" alt="Download" width="220"></a> <a href="https://discord.gg/hzQgdjk7w3"><img src="/assets/button-discord.png" alt="Discord" width="220"></a> <a href="https://github.com/processq/fate-woven-issues/issues/new/choose"><img src="/assets/button-bug.png" alt="Report a bug" width="220"></a> <a href="https://ko-fi.com/processq"><img src="/assets/button-kofi.png" alt="Support on Ko-fi" width="220"></a>
 
 
 ![A draft: three cards, pick one.](assets/shots/draft.png)
