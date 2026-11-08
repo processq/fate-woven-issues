@@ -11,6 +11,9 @@ image: /assets/banner-companion-mods.jpg
 # Companion mods
 {: .visually-hidden}
 
+<details>
+<summary><b>Mods we tested with Fate Woven</b></summary>
+
 **Fate Woven's later game is balanced around [Creature Level and Loot Control](https://thunderstore.io/c/valheim/p/Smoothbrain/CreatureLevelAndLootControl/) (CLLC).** Fate Woven never changes enemies, so on plain Valheim it will feel easy. An enemy-scaling mod such as CLLC gives the late game its challenge, and we recommend using one.
 
 Fate Woven works with the mods below. For each one we checked that it loads with no errors, the charm slot works and your pets come back after loading, plus the extra things listed. If something clashes, please tell us (see Reporting bugs).
@@ -25,6 +28,8 @@ Fate Woven works with the mods below. For each one we checked that it loads with
 * **[Equipment and Quick Slots](https://thunderstore.io/c/valheim/p/RandyKnapp/EquipmentAndQuickSlots/) and [ExtraSlots](https://thunderstore.io/c/valheim/p/shudnal/ExtraSlots/):** Work. With Equipment and Quick Slots, its Legs and Trinket row peeks out a little under our top buttons.
 * **[HP Barheim](https://thunderstore.io/c/valheim/p/DarthVladi/HP_Barheim/):** Works.
 * **[MinimalStatusEffects](https://thunderstore.io/c/valheim/p/RandyKnapp/MinimalStatusEffects/), [ZenUI](https://thunderstore.io/c/valheim/p/ZenDragon/ZenUI/) and [MyLittleUI](https://thunderstore.io/c/valheim/p/shudnal/MyLittleUI/):** Work together. Our HUD is unchanged and our shield shows as a chip.
+
+</details>
 
 ## Keys that clash
 
