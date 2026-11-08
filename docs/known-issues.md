@@ -17,6 +17,7 @@ Fate Woven is in beta and changes fast, so here is what we know is not finished.
 - **Parties, group quests and trading are new and have only been tested on one PC,** so expect rough spots with real players in a party. Please report what you see.
 - **Legendary quests (the altar hunts) appear only with Creature Level and Loot Control 5.x installed,** and are new: tell us if a hunt doesn't start, can't be finished or pays the wrong reward.
 - **A character last played with a newer Fate Woven can't be played with an older one.** The game says so and keeps the save as it was, so update the mod to play it.
+- **If a character's Fate Woven data can't be read, it may load as a new level 0 character.** We have not seen why yet and a fix is coming. Back up your characters before you update, and tell us if it happens.
 - **PvP (new, off by default).** A server host can turn on the "Fate Woven PvP" setting. In Valheim, your PvP switch turns off after you die until you open your inventory, even though its icon still shows on. With the setting off, Fate Woven treats other players as friends and only plain weapon damage works between them.
 - **Turning Hue against another player (PvP) is not checked yet.** Its lent status is meant to land at 60% there too, but nobody has seen it work in play.
 
