@@ -11,7 +11,7 @@ image: /assets/banner-settings.jpg
 # Settings
 {: .visually-hidden}
 
-Fate Woven's settings live in `BepInEx/config/FateWoven.cfg`, and the Abilities panel has a **Settings** button for the ones you change most. Most settings are **server settings**: on a server, only the host's file matters, and everyone who joins uses the host's values. The last section lists the settings that are yours alone.
+Fate Woven's settings live in `BepInEx/config/FateWoven.cfg`, but **almost every one can be changed in the game** with the **Settings** button on the Abilities panel, which writes to the same file. Most settings are **server settings**: on a server, only the host's values matter, and everyone who joins uses them. The host (or you, in single player) can edit them in **Settings > Server rules**; a few say "(reload required)", and a dedicated server keeps using its config file. The last section lists the settings that are yours alone.
 
 ## Server settings
 

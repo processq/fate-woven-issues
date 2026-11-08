@@ -40,7 +40,9 @@ Second, the rune does not fit that ability. Some runes only work with certain ki
 
 BepInEx/config/FateWoven.cfg. It is created the first time you run the game with the mod.
 
-Most settings are server settings. On a server, only the host's file matters, and everyone who joins uses the host's values.
+You rarely need to open it: almost every setting can be changed in the game with the Settings button on the Abilities panel, and it writes to the same file.
+
+Most settings are server settings. On a server, only the host's values matter, and everyone who joins uses them. The host (or you, in single player) can edit them in Settings > Server rules; a dedicated server keeps using its config file.
 
 ## Is it safe to use on my real save?
 
