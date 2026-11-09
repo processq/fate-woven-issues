@@ -10,7 +10,7 @@ image: /assets/banner-known-issues.jpg
 # Known issues
 {: .visually-hidden}
 
-Fate Woven is in beta and changes fast, so here is what we know is not finished. If you hit any of these, or something not listed, please tell us on the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose) or on Discord. Set General > Logging to Detailed first and attach `BepInEx/LogOutput.log`.
+Fate Woven is in beta and changes fast, so here is what we know is not finished. If you find a problem that isn't listed here, please tell us on the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose) or on Discord. Set General > Logging to Detailed first and attach `BepInEx/LogOutput.log`.
 
 ## Rough edges
 - **PvP:** a Fire bolt boosted by Turning Hue doesn't set a player burning (it does burn creatures).
