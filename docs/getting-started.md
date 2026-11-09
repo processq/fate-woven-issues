@@ -79,7 +79,7 @@ Levels 1 to 3 offer abilities only, so you fill your first three bar slots at on
 
 - **Levels.** The first levels come quickly. Each later level takes longer, and the last ones take a long time.
 - **Kill XP.** A kill pays by how much health the creature has and how hard it can hit. Weak creatures pay little and big ones pay a lot. Stars and extra effects from Creature Level and Loot Control raise it further. Bosses pay like any other kill, so a boss with a lot of health pays a lot.
-- **Who gets the XP.** The first player to hit a creature and that player's party get its XP. Nobody else does. Party members near the kill get it even if they did not land a hit (see [Party](party.md)).
+- **Who gets the XP.** The first player to hit a creature and that player's party get its XP. Party members near the kill get it even if they did not land a hit (see [Party](party.md)). If none of them is near when it dies, the XP goes to whoever lands the killing blow and their party instead.
 - **Abilities start modest.** A plain ability with no runes and no mastery hits a little softer than a weapon swing (the basic bolt is about four fifths of one). Mastery, runes and your Charm raise it from there.
 - **Mastery.** Every ability builds mastery when you use it the way it is meant to be used: damage abilities by the damage they do, control by the controls that land, heals by the health they restore, shields by the shield they give, stances and other toggles while they are on in a fight, buffs while they are up during a fight, your Summon while it is out in a fight and other pets while they work. Other utility abilities build it each time they do something. Nothing builds mastery from casting at nothing.
 - **Server speed.** A server host can speed levelling or mastery up or slow it down with two sliders, Levelling speed and Mastery speed (see [Settings](settings.md)).
@@ -91,7 +91,7 @@ If your character was made before the new draft schedule, the Runes panel has a 
 
 ### Playing together
 
-Press **P** to open the Party window. Parties share kill XP and quests, and a party's drafts can trade rune cards. See [Party](party.md).
+Press **P** (or **O** with Path of Valheiman) to open the Party window. Parties share kill XP and quests, and a party's drafts can trade rune cards. See [Party](party.md).
 
 ![A draft: three cards, pick one.](assets/shots/draft.png)
 *A draft: three cards, pick one.*

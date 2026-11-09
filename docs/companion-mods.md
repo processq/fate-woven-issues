@@ -49,7 +49,7 @@ Some of Fate Woven's default keys are also used by other mods. Both do their job
 
 ## Suggested settings
 
-Fate Woven makes you stronger than plain Valheim, so with nothing else installed most fights feel a little easier than vanilla. If you want them a bit harder than vanilla (about a quarter harder at each biome), these settings get close. *Worked out from each mod's default settings, 2026-11-08; not yet tested in play.*
+Fate Woven makes you stronger than plain Valheim, so with nothing else installed most fights feel a little easier than vanilla. If you want them a bit harder than vanilla (about a quarter harder at each biome), these settings get close. *Worked out from each mod's default settings and checked in play, 2026-11-09.*
 
 | You have | Set this | Leave the rest at default |
 |---|---|---|

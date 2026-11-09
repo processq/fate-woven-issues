@@ -13,6 +13,39 @@ image: /assets/banner-whats-new.jpg
 Fate Woven is in beta, and every release is listed here, newest first. Please report bugs, issues and requests on the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose).
 
 
+## 0.2.1957 (beta)
+- **Boss drafts:** your first kill of each boss gives an Epic or Legendary rune draft, with Epic runes now at any level. Later kills give a normal rune draft. Your first Sea Serpent kill gives one too.
+- **No more empty drafts:** a boss killed below level 5 no longer leaves a draft with no cards that blocks all your drafts, and no draft of any kind can come up empty.
+- **Kill XP is never lost:** if the player who first hit a creature has left, the XP goes to whoever lands the killing blow. Boss rewards do the same when the first hitter has left the area.
+- **Coloured damage numbers:** every hit, and every Burning, Bleeding or Venom tick, shows its damage in its type's colour, one number per type near the impact. Resisted parts look dulled, weak spots bold.
+- **A new Altar of the Gods:** our sigils now lie on a black marble base. No more runestone on its side.
+- **Parties:** when the leader disconnects, the next member leads at once.
+- **Old set-quest notices** from before 0.2.1950 now behave like any notice.
+- **Safer multiplayer and safer saves,** and Fate Woven starts more reliably after a game update.
+- Your first kill of each boss gives an Epic or Legendary rune draft, with Epic runes now offered at any level (Legendary still from level 20). Later kills of the same boss give a normal rune draft and the boss's XP as before.
+- Your first Sea Serpent kill now gives an Epic or Legendary rune draft alongside its trophy. Later Serpent kills give XP.
+- A boss killed below level 5 no longer gives an empty rune draft that blocks all your drafts.
+- If the player who first hit a boss has left the area when it dies, its rune draft, trophy pick and set piece roll go to whoever lands the killing blow (and their party nearby).
+- If the player who first hit a creature (and their party) are away when it dies, the kill XP goes to whoever lands the killing blow (and their party nearby) instead of to nobody.
+- When the party leader disconnects, the longest-standing member who is online becomes leader at once, so invites and kicks keep working. An offline member can't be made leader.
+- Set-quest notices kept from before 0.2.1950 now behave like any notice: they can be rerolled and declined, and they expire.
+- Damage numbers now show each damage type in its own colour, for single-element and weapon hits too: one number per type, at random spots near the impact, instead of one line. Damage-over-time ticks (Burning, Bleeding, Venom) show their element's colour as well. A part the target resists is slightly dulled, and a part it is weak to is bold.
+- The altar has a new look: our sigils lie on top of an upturned black marble base instead of a runestone laid on its side. The recipe is the same.
+- Clearer card text for Focus (a Legendary rune counts at twice its card's numbers; an Epic in that slot at four times), Second Crown and Kingstone. Nothing about how they work has changed.
+- Bleeding now uses the damage the target finally took, after other mods change the hit.
+- A hit that Taunt stops no longer sets off its Immobilize, Chain Lightning or Provoke.
+- A starred pet revived by Golden Rooster no longer comes back as one of its rare monsters.
+- If a Path of Valheiman update breaks part of Fate Woven's support, only that part switches off, with a warning in the log; the rest keeps working.
+- Rain, pulses, channels, echoes and bolts still in flight now count as the cast they came from, so they no longer set off its procs a second time after you start a new cast.
+- No draft can come up empty any more: if nothing fits, it offers from a wider pool, so your draft queue never gets stuck.
+- An Epic Loot quest reward you took while Epic Loot was installed, and hand in after removing it, now pays a reward of ours of the same tier (or the tier below). A Common one used to pay nothing.
+- A rare error in kill XP could stop a character from levelling for good. Fixed.
+- A Fate Woven error during saving could stop the game's own save. Fixed.
+- The Traveller's Trunk's chest is now removed when you log out (its items stay saved with your character). Before, it stayed in the world for up to 30 minutes, where mods that pull from nearby chests could duplicate its items.
+- Two trading edge cases fixed, including a trade finished just before a respawn.
+- After a game update, Fate Woven starts more safely: one missing piece no longer leaves most of the mod switched off.
+- Multiplayer is safer: kill XP and boss rewards are only accepted from the game that owned the creature, a boss gives its rewards once, and effects sent between players are kept within normal sizes.
+
 ## 0.2.1950 (beta)
 - **Mastery comes from real use:** damage abilities by the damage they do, controls by landing, heals by healing, shields by shielding, stances and buffs while they're up in a fight, pets while they work.
 - **Creature status icons:** a row under an enemy's health bar shows the statuses you put on it.

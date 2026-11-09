@@ -17,7 +17,7 @@ Rune slots: one **element** slot, a few **normal** slots, one **Epic** slot and 
 
 Matching element runes stack. With the element slot, three normal slots, the Epic slot and the Legendary slot all holding the same element, that element is about 3.2 times as strong on the ability: roughly +20% for each normal slot, +60% for the Epic slot and +100% for the Legendary slot.
 
-Runes come from level drafts (every level that is not an ability draft), boss rune drafts, quest rewards, rune sets ([Rune sets](sets.md)) and trades with party members ([Party](party.md)).
+Runes come from level drafts (every level that is not an ability draft), boss rune drafts (your first kill of each boss, and of the Sea Serpent, offers Epic and Legendary runes; later kills of a boss give a normal rune draft), quest rewards, rune sets ([Rune sets](sets.md)) and trades with party members ([Party](party.md)).
 
 There are 163 Epic and Legendary runes. They are left for you to discover in play.
 

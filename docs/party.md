@@ -7,20 +7,20 @@ description: "The Fate Woven party: invite from a list, share kill XP and quests
 
 # Party
 
-Fate Woven has its own party for up to six players in one world. A party shares kill XP and quests, keeps allies safe from your abilities and lets members trade rune cards. Open the **Party window** with **P**, or with the Party button on the Fate Woven panel.
+Fate Woven has its own party for up to six players in one world. A party shares kill XP and quests, keeps allies safe from your abilities and lets members trade rune cards. Open the **Party window** with **P** (**O** when Path of Valheiman is installed), or with the Party button on the Fate Woven panel.
 
 **With the Groups mod installed:** Fate Woven shows no party UI of its own (no Party window, invite card, party frame, map pins, invite key or party chat). Your Groups group is your party for trades, group quests, shared XP and Fellowship.
 
 ## Joining and leaving
 - **Invite from a list.** The Party window lists every player who is in the world. Press **Invite** beside a name. It works from anywhere, not only when they are near you.
 - **Accepting.** The other player sees a prompt with Accept and Decline (or types /party accept). An invite runs out after a minute.
-- **Leader buttons.** The leader can Kick, Promote or Disband. Anyone can Leave. If the leader leaves, the longest-standing member leads.
+- **Leader buttons.** The leader can Kick, Promote or Disband. Anyone can Leave. If the leader leaves or disconnects, the longest-standing member who is online leads at once.
 - **Chat commands.** /party invite name, /party accept, /party decline, /party leave, /party kick name, /party promote name, /party disband and /party list. Type /p and a message to talk to your party.
 - A party of one ends. If you drop out of the game, your place is kept for five minutes, so you can come back. A server restart clears all parties.
 - **Party frame.** A small frame at the top left shows the other members' health, eitr and stamina. You can move it.
 
 ## What a party does
-- **Shared kill XP.** Members within 60 metres of a kill get its XP even if they did not land a hit. Drafts that need a hit (a boss's rune and trophy choices) still need one.
+- **Shared kill XP.** Members within 60 metres of a kill get its XP even if they did not land a hit. A boss's rewards (the rune draft, the trophy pick and set pieces) go to the first player to hit it and that player's party, the same way; if that player has left the area, they go to whoever lands the killing blow and their party.
 - **Fellowship.** While another living member is within 60 metres of you, your kill XP gets a small bonus of 5%. The party frame shows it.
 - **Group quests.** When a member takes a quest, the others are offered it wherever they are. See [Quests and charms](quests-and-charms.md).
 - **Friends, not targets.** Your Fate Woven abilities never hurt a party member, and heals, buffs and shields treat members as allies. Plain weapon hits between members are blocked too, unless the server turns friendly fire on.

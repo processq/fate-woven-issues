@@ -13,7 +13,7 @@ image: /assets/banner-interface-and-multiplayer.jpg
 
 ### Interface
 
-With your inventory open, hold Shift and drag the ability bar or the pet window to move them. Your stance, Imbue and other lasting effects show with your other status effects. Shift and the mouse wheel resizes them, and Shift and double-click puts one back. Click the thin XP line under the bar to show numbers, a percent or nothing. Hover over an ability or buff to read about it. Your buffs show above the food icons.
+With your inventory open, hold Shift and drag the ability bar or the pet window to move them. Your stance, Imbue and other lasting effects show with your other status effects. Shift and the mouse wheel resizes them, and Shift and double-click puts one back. Click the thin XP line under the bar to show numbers, a percent or nothing. Hover over an ability or buff to read about it.
 
 ### Multiplayer
 
@@ -25,7 +25,7 @@ Every Fate Woven window can be moved and resized. The ability wheel stays centre
 
 ### Parties
 
-Press **P** to open the Party window. See [Party](party.md). A server's rules are in Settings under Server rules (see [Settings](settings.md)).
+Press **P** (or **O** with Path of Valheiman) to open the Party window. See [Party](party.md). A server's rules are in Settings under Server rules (see [Settings](settings.md)).
 
 ---
 *Fate Woven is designed by a human, who decides what it does and how it plays. The code is written by Claude, an AI model made by Anthropic, working from that design. The documentation is written by Claude too, and the icons are AI-generated.*
