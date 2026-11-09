@@ -13,6 +13,52 @@ image: /assets/banner-whats-new.jpg
 Fate Woven is in beta, and every release is listed here, newest first. Please report bugs, issues and requests on the [issues page](https://github.com/processq/fate-woven-issues/issues/new/choose).
 
 
+## 0.2.1950 (beta)
+- **Mastery comes from real use:** damage abilities by the damage they do, controls by landing, heals by healing, shields by shielding, stances and buffs while they're up in a fight, pets while they work.
+- **Creature status icons:** a row under an enemy's health bar shows the statuses you put on it.
+- **Every element has its own ground ring:** snowflakes for Frost, flames for Fire and so on. Arcane keeps its runes.
+- **Your stance, Imbue and other lasting effects** now show with your other status effects.
+- **Split** now makes two copies at 60% each, so it is always worth slotting.
+- **Out-levelling a biome** fades your kill XP, so moving on keeps you levelling.
+- **Group mods:** with Groups, your Groups group is your party and Fate Woven draws no party UI of its own.
+- **Path of Valheiman:** its level is the one level, Fate Woven drafts come as it rises, and many fixes for playing both.
+- **Server quest mods** such as Marketplace can give Fate Woven rewards and read your progress.
+- **A cleaner party window, trading rules and quest board,** and a fix so an unreadable character is never lost.
+- Every ability now builds mastery when you use it the way it is meant to be used: damage abilities by the damage they do, controls by the controls that land, heals by the health they restore, shields by the shield they give, stances and other toggles while they are on in a fight, buffs while they are up in a fight, your Summon while it is out in a fight, and other pets while they work. Other utility abilities build it each time they do something. Nothing builds mastery from casting at nothing. Your main ability keeps about the same pace as before, and the mastery you already have is kept.
+- If you own two copies of an ability, each copy now has a mastery floor of half your best copy. With one Rune Bolt at 80, your other Rune Bolt is at least 40, and so is any copy you draft later.
+- Split now makes 2 copies at 60% each (3 at 45%, 4 at 35% with more copies or a better slot), for bolts, zones, traps, totems and debuffs. It was 15%.
+- Gathered Bolt hits harder: 49 on a tap, rising to 147 at a full 2 s charge.
+- Damage pets now hit about half as hard as your Rune Bolt (they had kept an older, larger boost). Spirits, totems and decoys share the change.
+- A pet's first rune of a second element no longer gives it more than its main element does.
+- A row of small icons under an enemy's health bar shows the statuses you put on it, up to 5, with a stack number where it stacks and a +number for the rest. Control statuses come first, then damage over time, then the rest. Cowed is not shown, since you can see it on the creature. The coloured status orbs that floated on creatures are gone; this row replaces them.
+- Works with the vanilla bar and JatifyUI's bar. Creature Level and Loot Control's name text is kept. With HP Barheim, which hides the vanilla enemy hud, the row is drawn under its own bar. With Star Level System, the row sits under its modifier icons.
+- Every element now has its own ground ring you can tell at a glance: snowflakes for Frost, flames for Fire, and so on round the ring in place of the runes. Arcane keeps its runes.
+- Your stance, Imbue and other lasting effects now show with your other status effects, with their name, tooltip and timer. The separate row above the food icons is gone.
+- The party window is cleaned up: one list with the actions on each row, nobody listed twice, and it takes the look of SeneaL UI and JatifyUI. Invite players from the list. The leader has a gold star beside their name.
+- The draft panel has a reroll icon to match the lock, banish and trade icons. The trade icon turns gold while a party member's offer is waiting, and its tooltip says so.
+- The quest board's Reroll is a framed button. Its Take button is now called Accept, on the board and on the group-quest card party members see.
+- Frayed abilities show "Charges: N" in red after their name in the Abilities list, so you can see them all at a glance. Their tooltip and warnings say charges too.
+- Group quests share one counter: a kill or an item from any member counts for everyone (group counts are raised to match), and everyone who accepted is paid when it fills.
+- Rune set quests are now ordinary notices that turn up at random on the board once you reach their biome. A rerolled or expired one can come back later.
+- Trading: only runes from level-up drafts can be traded (quest, boss, trophy, set-piece and refund drafts have no Trade button), and both players must be within 60 m when offering and confirming. A party member who is too far away is listed greyed in the Trade window with their distance, and the tooltip says why.
+- Boss rewards (the rune draft, the trophy pick and set pieces) go to the first player to hit the boss and that player's party, like kill XP.
+- Kill XP fades if you have out-levelled the biome you are in: full XP until one level past where the next biome's cards open, then 60%, 36%, 22% and so on for each level over, down to 10%. An Outlevelled status effect shows the share. Quest XP is not affected, and the Deep North and the ocean never fade. Servers can tune or switch it off.
+- Redo my picks now clears only the Carried Threads you took since your last Re-weave. Threads carried from earlier Re-weaves are kept.
+- Undo of a Re-weave is gone: a Re-weave is now final, so read its confirm screen first. A backup is still saved at each Re-weave. The ReWeaveUndo server setting is removed.
+- The LevelCap server setting is removed. The top combat level is fixed at 60. Old config files are cleaned up on load.
+- With the Groups mod installed, Fate Woven shows no party UI of its own (no Party window, invite card, party frame, map pins, invite key or party chat). Your Groups group is your party for trades, group quests, shared XP and Fellowship.
+- Servers can sell Charms at an ImmersiveTrader shop if they choose to list them.
+- With ImmersiveTrader, if its Quest Log key and Fate Woven's pet order key are the same (both J by default), Fate Woven shows one message saying to rebind one of them in Settings.
+- Server quest mods such as Marketplace can now give Fate Woven rewards through the `fw_reward` command: a draft (it can't be traded), a reroll, banish or lock, a trade (up to your 3), or up to 50 favour with a god. Players can't type it themselves. Servers can also read a player's Fate Woven level, Charm tier and Re-weave count (`fw.level`, `fw.charm`, `fw.reweave`, and Marketplace's `fw_level`, `fw_charm`, `fw_reweave` values).
+- Its level is the one level: Fate Woven's level and XP bar are hidden, and Fate Woven drafts, card tiers and bar slots come as your Path of Valheiman level rises (about one draft every 3 of its levels). Fate Woven's quest XP and XP bonuses go to it as its XP. Re-weave and Hel's Road are not available with it, since a new run can't reset its level.
+- Your Fate Woven pets get your pet-node bonuses from its tree, and its percentage damage nodes reach your ability hits.
+- Fixes for playing both: Fate Woven shields work; your ability sneak attacks and its Backstab nodes stack; held enemies no longer take half damage; a few bonuses (Cinder Crown, Fimbul, Nid, the pet bonus and the fire-edge song) no longer count twice; Fate Woven fire starts Burning itself; Legendary hunt bosses and Hound Watch no longer get its biome health boost twice; your ability hits no longer also build its own chill, shock, poison and bleed; its on-hit effects roll once per cast; and Fate Woven's damage numbers show each element in its colour without doubling.
+- The Party window opens with O instead of P when it is installed.
+- Multiplayer sends less: effects on a character go only to players within 200 m, and the statuses shown on creatures are sent in a much shorter form.
+- Co-op: statuses, damage-over-time ticks and controls now carry over correctly when another player's game takes over running a creature.
+- A content pack that fails to load or is removed no longer deletes its cards from your character.
+- A character whose Fate Woven data can't be read no longer loads as a new level 0 character. The data is kept as it was, the game tells you, and the backup is never overwritten.
+
 ## 0.2.1916 (beta)
 - Abilities now come on a new schedule: levels 1 to 3 offer abilities, then an ability every third level (6, 9, 12 and on) and runes on the other levels.
 - Redo my picks: every character that exists when this version first loads can pick all its abilities and runes again, once, with an undo until the next level-up.

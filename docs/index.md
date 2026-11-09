@@ -1,7 +1,7 @@
 ---
 title: Home
 nav_order: 1
-description: "Fate Woven is a Valheim mod: draft abilities and runes as you level, build with sockets, serve the gods, take quests and Re-weave. Public beta."
+description: "Fate Woven is a Valheim mod: draft abilities and runes as you level, build with sockets, serve the gods, accept quests and Re-weave. Public beta."
 image: /assets/banner-home.jpg
 permalink: /
 ---
@@ -27,7 +27,7 @@ Build a tank, healer, controller, summoner, damage dealer, or any mix you can im
 - Twelve elements, each with its own status effect.
 - 146 blessings from the gods, and duo blessings when two gods agree.
 - 12 rune sets with set bonuses.
-- Levels 1 to 60, with mastery: every ability gets stronger the more you use it. Early levels come quickly and late ones take much longer ([Getting started](getting-started.md)).
+- Levels 1 to 60, with mastery: every ability gets stronger the more you use it. With Path of Valheiman installed, its level is the one level and Fate Woven's drafts come as it rises; Re-weave and Hel's Road are not available with it. Early levels come quickly and late ones take much longer ([Getting started](getting-started.md)).
 - An ability draft every third level and rune drafts in between, so you spend most levels shaping the abilities you already have.
 - A quest board with notices for every biome, six upgrade ranks, and seven Rune Charms you craft from boss drops ([Quests and charms](quests-and-charms.md)). The rarest quests are Legendary altar hunts.
 - Parties of up to six: shared kill XP, group quests and a small Fellowship bonus ([Party](party.md)).

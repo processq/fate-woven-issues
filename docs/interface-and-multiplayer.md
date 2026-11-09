@@ -13,7 +13,7 @@ image: /assets/banner-interface-and-multiplayer.jpg
 
 ### Interface
 
-With your inventory open, hold Shift and drag the ability bar, the buff icons or the pet window to move them. Shift and the mouse wheel resizes them, and Shift and double-click puts one back. Click the thin XP line under the bar to show numbers, a percent or nothing. Hover over an ability or buff to read about it. Your buffs show above the food icons.
+With your inventory open, hold Shift and drag the ability bar or the pet window to move them. Your stance, Imbue and other lasting effects show with your other status effects. Shift and the mouse wheel resizes them, and Shift and double-click puts one back. Click the thin XP line under the bar to show numbers, a percent or nothing. Hover over an ability or buff to read about it. Your buffs show above the food icons.
 
 ### Multiplayer
 

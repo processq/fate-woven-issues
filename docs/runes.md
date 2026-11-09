@@ -180,7 +180,7 @@ Its control puts the foe to sleep instead: half as long again, but any hit wakes
 
 ### <img src="assets/icons/rune/split.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Split
 
-When it ends, it splits into two smaller copies at 15% strength.
+When it ends, it splits into two copies at 60% strength.
 
 ### <img src="assets/icons/rune/starbane.png" width="36" height="36" style="vertical-align:middle;margin-right:6px" alt=""> Starbane
 

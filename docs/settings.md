@@ -27,6 +27,10 @@ Fate Woven's settings live in `BepInEx/config/FateWoven.cfg`, but **almost every
 | Setting | Default | What it does |
 |---|---|---|
 | Progression > UnlockLevels | 1,5,12,20,28,36,45,53 | The level at which each biome's cards open for drafts. |
+| Progression > OutlevelXpFade | true | Kill XP fades once you have out-levelled the biome you are in (an Outlevelled status effect shows the share). Quest XP is not affected; the Deep North and the ocean never fade. |
+| Progression > OutlevelGrace | 1 | Levels past the next biome's unlock level before the fade starts. |
+| Progression > OutlevelFactor | 0.6 | Each level over keeps this share of the one before (60%, 36%, 22% ...). |
+| Progression > OutlevelFloor | 0.1 | The least a kill pays while outlevelled. |
 | Eitr > EitrPoolBase and EitrPoolPerLevel | 30 and 2 | Your Fate Woven eitr at level 1, and how much it grows each level. |
 | Eitr > PoolRegenOutOfCombat and PoolRegenInCombat | 2.0 and 1.5 | Eitr regained a second out of and in combat. |
 
@@ -35,7 +39,7 @@ Two server settings change the pace: Progression > Levelling speed and Mastery >
 ### Quests
 | Setting | Default | What it does |
 |---|---|---|
-| Quests > QuestsEnabled | true | Off: the quest board can't be built and no new quest can be taken. |
+| Quests > QuestsEnabled | true | Off: the quest board can't be built and no new quest can be accepted. |
 | Quests > NoticesPerBoard | 3 | Notices each character has on the plain board (1 to 12). Each board rank adds more, up to 6 on top. |
 | Quests > NoticeExpireDays | 3 | In-game days before a notice nobody took is replaced. |
 | Quests > ActiveMax | 3 | Active quests a character can hold (1 to 6). |
@@ -70,7 +74,6 @@ Everything is on by default. Set one to false to leave that part out of the game
 |---|---|---|
 | Release > ReWeave | true | Players at level 60 can Re-weave. |
 | Release > Allow Redo my picks | true | Lets characters made before the new draft schedule redo their picks once. Off: the button is gone. |
-| Release > ReWeaveUndo | auto | auto, on or off: whether a player can undo their last Re-weave until level 5 of the new run. Auto is on in the beta and off in the full release. |
 | Release > HelsRoadDeaths | Easy | Easy: only a kill by a creature, boss or player ends a Hel's Road run. Hardcore: any death does, including falls and drowning. |
 
 ## Server rules window

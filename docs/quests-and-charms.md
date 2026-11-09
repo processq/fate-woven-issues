@@ -25,8 +25,8 @@ Quests are posted on the **quest board**, a piece you build with the hammer (it 
 
 - Each character has their own notices. A plain board shows three, and a new one appears about once an in-game day. Upgrades (below) add notices and bring them faster.
 - Notices follow the Charm you wear: with no Charm you are offered Meadows notices. A notice at the tier of the Charm you hold pays its full rewards; an easier notice pays XP only, and harder ones are not offered. Your level does not decide it.
-- **You see the reward before you take a notice.** It is rolled when the notice is offered and shown on it.
-- Take a notice, do it, and hand it in at a board. Kill quests are handed in at a board too.
+- **You see the reward before you accept a notice.** It is rolled when the notice is offered and shown on it.
+- Press **Accept** on a notice, do it, and hand it in at a board. Kill quests are handed in at a board too.
 - **Group quests:** with a party, a quest one member takes is offered to the others, wherever they are (see below).
 
 ## Board ranks
@@ -51,13 +51,13 @@ There are 72 quests across the Meadows to the Ashlands: 11 Meadows, 12 Black For
 
 **Epic quests** ask you to clear a place: kill a set number of enemies at a named location, such as the Burial Chambers or the Frost Caves, 150 to 2000 m from the board. They are rarer, and they are the quests that can pay a Unique.
 
-**Rune set quests.** Every rune set has a quest on the board that pays the set's element rune. It appears once your Charm reaches that biome and stays until you take it. You can do it once per character, and a Re-weave does not bring it back. The rune goes straight into your Runes list. See [Rune sets](sets.md).
+**Rune set quests.** Every rune set has a quest on the board that pays the set's element rune. It turns up among the board's notices at random once your Charm reaches that biome; if it is rerolled or expires, it can turn up again later. You can do it once per character, and a Re-weave does not bring it back. The rune goes straight into your Runes list. See [Rune sets](sets.md).
 
 ## Legendary altar hunts
 
 The rarest notices are hunts: a very strong boss, or a boss with a group, waiting at an altar. There is one hunt for each biome from the Meadows to the Ashlands, seven in all. **They need Creature Level and Loot Control**; without it Legendary notices are not offered.
 
-- Take the notice and an altar is marked on your map. Make the offering there (a stack of that biome's materials) and the enemies appear.
+- Accept the notice and an altar is marked on your map. Make the offering there (a stack of that biome's materials) and the enemies appear.
 - The boss is much tougher than a normal one. It stays at its altar, and it resets if you leave or everyone dies. Try again with a new offering.
 - Only players who took the quest and are close by when the last enemy falls get the reward. As with any quest, a hunt below your Charm's tier pays XP only.
 - The creatures drop their usual loot and can drop the biome's set pieces. Which boss, and what it carries, is left for you to find.
@@ -81,7 +81,7 @@ There are 41 permanent Legacy Rewards. They are left for you to discover in play
 Now and then a quest reward is a **Frayed Threads** ability: an ability of the game's choosing, called Frayed (for example Frayed Rune Bolt), with runes already locked in its slots. About one notice in twenty on the board offers one, and the notice shows which ability it is but not the runes.
 
 - The runes are random and can be strong or weak. You can't remove or move them. The element slot is always filled. A better quest fills more slots.
-- It has **20 to 50 uses** and does not recharge. At zero it is removed. It shows its uses left in your abilities list, and takes a bar slot like any ability.
+- It has **20 to 50 charges**, one per cast, and does not recharge. At zero it is removed. Your abilities list shows **Charges: N** in red after its name, and takes a bar slot like any ability.
 - A Re-weave removes it. It can't be traded.
 
 ## Rune Charms
